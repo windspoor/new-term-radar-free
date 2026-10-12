@@ -1,6 +1,6 @@
 # 新模型与新工具日报 · 2026-10-12
 
-生成时间：2026-10-12 18:46（北京时间） · 最近成功采集：10-12 18:46
+生成时间：2026-10-12 18:48（北京时间） · 最近成功采集：10-12 18:48
 
 过去 24 小时发现或开始升温 **175** 条，展示 60 条。付费 API 调用：**0**。
 
@@ -29,19 +29,19 @@
 | [wousp112/justin-sun-alan-shao-ai-notes](https://github.com/wousp112/justin-sun-alan-shao-ai-notes) | 10-09 14:01 | 10-12 18:46 | 新 AI 项目达到观察门槛；★101 | 45 |
 | [iamumeransari/claude-show-your-work](https://github.com/iamumeransari/claude-show-your-work) | 10-08 19:57 | 10-12 18:46 | 新 AI 项目达到观察门槛；★125 | 45 |
 | [franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | 10-08 16:39 | 10-12 18:46 | 新 AI 项目达到观察门槛；★640 | 45 |
-| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 10-07 04:14 | 10-12 18:46 | 新 AI 项目达到观察门槛；★2568 | 45 |
+| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 10-07 04:14 | 10-12 18:46 | 新 AI 项目达到观察门槛；★2569 | 45 |
 | [OrgoAI/bops](https://github.com/OrgoAI/bops) | 10-06 22:45 | 10-12 18:46 | 新 AI 项目达到观察门槛；★265 | 45 |
 | [GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss) | 10-05 23:15 | 10-12 18:46 | 新 AI 项目达到观察门槛；★581 | 45 |
 | [mariagorskikh/open-instinct](https://github.com/mariagorskikh/open-instinct) | 10-04 04:07 | 10-12 18:46 | 新 AI 项目达到观察门槛；★307 | 45 |
-| [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | 10-03 22:49 | 10-12 18:46 | 新 AI 项目达到观察门槛；★1346 | 45 |
+| [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | 10-03 22:49 | 10-12 18:46 | 新 AI 项目达到观察门槛；★1347 | 45 |
 | [strands-agents/box](https://github.com/strands-agents/box) | 10-03 04:34 | 10-12 18:46 | 新 AI 项目达到观察门槛；★345 | 45 |
 | [Aryanutkarsh/SeeCode](https://github.com/Aryanutkarsh/SeeCode) | 10-03 02:41 | 10-12 18:46 | 新 AI 项目达到观察门槛；★314 | 45 |
 | [whirlchat/whirl](https://github.com/whirlchat/whirl) | 10-02 21:50 | 10-12 18:46 | 新 AI 项目达到观察门槛；★505 | 45 |
 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 10-02 17:57 | 10-12 18:46 | 新 AI 项目达到观察门槛；★2965 | 45 |
-| [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 10-02 17:50 | 10-12 18:46 | 新 AI 项目达到观察门槛；★446 | 45 |
+| [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 10-02 17:50 | 10-12 18:46 | 新 AI 项目达到观察门槛；★447 | 45 |
 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | 10-02 14:19 | 10-12 18:46 | 新 AI 项目达到观察门槛；★617 | 45 |
 | [Edwardxlai/easyread](https://github.com/Edwardxlai/easyread) | 09-30 20:52 | 10-12 18:46 | 新 AI 项目达到观察门槛；★902 | 45 |
-| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 09-30 19:49 | 10-12 18:46 | 新 AI 项目达到观察门槛；★1889 | 45 |
+| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 09-30 19:49 | 10-12 18:46 | 新 AI 项目达到观察门槛；★1890 | 45 |
 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 09-29 07:40 | 10-12 18:46 | 新 AI 项目达到观察门槛；★7320 | 45 |
 | [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) | 09-29 03:14 | 10-12 18:46 | 新 AI 项目达到观察门槛；★2374 | 45 |
 | [Emily2040/gravitas](https://github.com/Emily2040/gravitas) | 10-12 05:01 | 10-12 18:46 | 新 AI 项目达到观察门槛；★20 | 35 |
@@ -96,19 +96,19 @@
 | [wousp112/justin-sun-alan-shao-ai-notes](https://github.com/wousp112/justin-sun-alan-shao-ai-notes) | 10-09 14:01 | 10-12 18:46 | 新 AI 项目达到观察门槛；★101 | 45 |
 | [iamumeransari/claude-show-your-work](https://github.com/iamumeransari/claude-show-your-work) | 10-08 19:57 | 10-12 18:46 | 新 AI 项目达到观察门槛；★125 | 45 |
 | [franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | 10-08 16:39 | 10-12 18:46 | 新 AI 项目达到观察门槛；★640 | 45 |
-| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 10-07 04:14 | 10-12 18:46 | 新 AI 项目达到观察门槛；★2568 | 45 |
+| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 10-07 04:14 | 10-12 18:46 | 新 AI 项目达到观察门槛；★2569 | 45 |
 | [OrgoAI/bops](https://github.com/OrgoAI/bops) | 10-06 22:45 | 10-12 18:46 | 新 AI 项目达到观察门槛；★265 | 45 |
 | [GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss) | 10-05 23:15 | 10-12 18:46 | 新 AI 项目达到观察门槛；★581 | 45 |
 | [mariagorskikh/open-instinct](https://github.com/mariagorskikh/open-instinct) | 10-04 04:07 | 10-12 18:46 | 新 AI 项目达到观察门槛；★307 | 45 |
-| [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | 10-03 22:49 | 10-12 18:46 | 新 AI 项目达到观察门槛；★1346 | 45 |
+| [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | 10-03 22:49 | 10-12 18:46 | 新 AI 项目达到观察门槛；★1347 | 45 |
 | [strands-agents/box](https://github.com/strands-agents/box) | 10-03 04:34 | 10-12 18:46 | 新 AI 项目达到观察门槛；★345 | 45 |
 | [Aryanutkarsh/SeeCode](https://github.com/Aryanutkarsh/SeeCode) | 10-03 02:41 | 10-12 18:46 | 新 AI 项目达到观察门槛；★314 | 45 |
 | [whirlchat/whirl](https://github.com/whirlchat/whirl) | 10-02 21:50 | 10-12 18:46 | 新 AI 项目达到观察门槛；★505 | 45 |
 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 10-02 17:57 | 10-12 18:46 | 新 AI 项目达到观察门槛；★2965 | 45 |
-| [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 10-02 17:50 | 10-12 18:46 | 新 AI 项目达到观察门槛；★446 | 45 |
+| [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 10-02 17:50 | 10-12 18:46 | 新 AI 项目达到观察门槛；★447 | 45 |
 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | 10-02 14:19 | 10-12 18:46 | 新 AI 项目达到观察门槛；★617 | 45 |
 | [Edwardxlai/easyread](https://github.com/Edwardxlai/easyread) | 09-30 20:52 | 10-12 18:46 | 新 AI 项目达到观察门槛；★902 | 45 |
-| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 09-30 19:49 | 10-12 18:46 | 新 AI 项目达到观察门槛；★1889 | 45 |
+| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 09-30 19:49 | 10-12 18:46 | 新 AI 项目达到观察门槛；★1890 | 45 |
 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 09-29 07:40 | 10-12 18:46 | 新 AI 项目达到观察门槛；★7320 | 45 |
 | [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) | 09-29 03:14 | 10-12 18:46 | 新 AI 项目达到观察门槛；★2374 | 45 |
 
@@ -116,45 +116,45 @@
 
 | 来源 | 状态 | 最近成功 | 检查 / 新增 |
 |---|---|---|---|
-| discover:topic:ai-agents | 正常 | 10-12 18:46 | 100 / 100 |
-| discover:topic:artificial-intelligence | 正常 | 10-12 18:46 | 3 / 3 |
-| discover:topic:llm | 正常 | 10-12 18:46 | 94 / 70 |
-| feed:Google AI | 正常 | 10-12 18:46 | 20 / 0 |
-| feed:Hugging Face | 正常 | 10-12 18:46 | 80 / 0 |
-| feed:OpenAI | 正常 | 10-12 18:46 | 80 / 0 |
-| feed:Simon Willison | 正常 | 10-12 18:46 | 12 / 0 |
-| hf:Lightricks | 正常 | 10-12 18:46 | 50 / 0 |
-| hf:MiniMaxAI | 正常 | 10-12 18:46 | 21 / 0 |
-| hf:Qwen | 正常 | 10-12 18:46 | 50 / 0 |
-| hf:Wan-AI | 正常 | 10-12 18:46 | 27 / 0 |
-| hf:black-forest-labs | 正常 | 10-12 18:46 | 38 / 0 |
-| hf:deepseek-ai | 正常 | 10-12 18:46 | 50 / 0 |
-| hf:google | 正常 | 10-12 18:46 | 50 / 0 |
-| hf:meta-llama | 正常 | 10-12 18:46 | 50 / 0 |
-| hf:mistralai | 正常 | 10-12 18:46 | 50 / 0 |
-| hf:moonshotai | 正常 | 10-12 18:46 | 19 / 0 |
-| hf:nvidia | 正常 | 10-12 18:46 | 50 / 0 |
-| hf:trending | 正常 | 10-12 18:46 | 100 / 0 |
-| hf:zai-org | 正常 | 10-12 18:46 | 50 / 0 |
-| org:MiniMax-AI | 正常 | 10-12 18:46 | 36 / 0 |
-| org:QwenLM | 正常 | 10-12 18:46 | 56 / 0 |
-| org:THUDM | 正常 | 10-12 18:46 | 97 / 0 |
-| org:anthropics | 正常 | 10-12 18:46 | 69 / 0 |
-| org:deepseek-ai | 正常 | 10-12 18:46 | 44 / 0 |
-| org:google-deepmind | 正常 | 10-12 18:46 | 89 / 0 |
-| org:huggingface | 正常 | 10-12 18:46 | 87 / 0 |
-| org:langchain-ai | 正常 | 10-12 18:46 | 78 / 0 |
-| org:mistralai | 正常 | 10-12 18:46 | 13 / 0 |
-| org:moonshotai | 正常 | 10-12 18:46 | 41 / 0 |
-| org:openai | 正常 | 10-12 18:46 | 96 / 0 |
-| release:Comfy-Org/ComfyUI | 正常 | 10-12 18:46 | 10 / 0 |
-| release:anthropics/claude-code | 正常 | 10-12 18:46 | 10 / 0 |
-| release:browser-use/browser-use | 正常 | 10-12 18:46 | 10 / 0 |
-| release:ggml-org/llama.cpp | 正常 | 10-12 18:46 | 10 / 10 |
-| release:huggingface/transformers | 正常 | 10-12 18:46 | 10 / 0 |
-| release:langchain-ai/langgraph | 正常 | 10-12 18:46 | 10 / 0 |
-| release:ollama/ollama | 正常 | 10-12 18:46 | 10 / 1 |
-| release:openai/codex | 正常 | 10-12 18:46 | 10 / 0 |
-| release:pydantic/pydantic-ai | 正常 | 10-12 18:46 | 10 / 0 |
+| discover:topic:ai-agents | 正常 | 10-12 18:48 | 100 / 0 |
+| discover:topic:artificial-intelligence | 正常 | 10-12 18:48 | 3 / 0 |
+| discover:topic:llm | 正常 | 10-12 18:48 | 94 / 0 |
+| feed:Google AI | 正常 | 10-12 18:48 | 20 / 0 |
+| feed:Hugging Face | 正常 | 10-12 18:48 | 80 / 0 |
+| feed:OpenAI | 正常 | 10-12 18:48 | 80 / 0 |
+| feed:Simon Willison | 正常 | 10-12 18:48 | 12 / 0 |
+| hf:Lightricks | 正常 | 10-12 18:48 | 50 / 0 |
+| hf:MiniMaxAI | 正常 | 10-12 18:48 | 21 / 0 |
+| hf:Qwen | 正常 | 10-12 18:48 | 50 / 0 |
+| hf:Wan-AI | 正常 | 10-12 18:48 | 27 / 0 |
+| hf:black-forest-labs | 正常 | 10-12 18:48 | 38 / 0 |
+| hf:deepseek-ai | 正常 | 10-12 18:48 | 50 / 0 |
+| hf:google | 正常 | 10-12 18:48 | 50 / 0 |
+| hf:meta-llama | 正常 | 10-12 18:48 | 50 / 0 |
+| hf:mistralai | 正常 | 10-12 18:48 | 50 / 0 |
+| hf:moonshotai | 正常 | 10-12 18:48 | 19 / 0 |
+| hf:nvidia | 正常 | 10-12 18:48 | 50 / 0 |
+| hf:trending | 正常 | 10-12 18:48 | 100 / 0 |
+| hf:zai-org | 正常 | 10-12 18:48 | 50 / 0 |
+| org:MiniMax-AI | 正常 | 10-12 18:48 | 36 / 0 |
+| org:QwenLM | 正常 | 10-12 18:48 | 56 / 0 |
+| org:THUDM | 正常 | 10-12 18:48 | 97 / 0 |
+| org:anthropics | 正常 | 10-12 18:48 | 69 / 0 |
+| org:deepseek-ai | 正常 | 10-12 18:48 | 44 / 0 |
+| org:google-deepmind | 正常 | 10-12 18:48 | 89 / 0 |
+| org:huggingface | 正常 | 10-12 18:48 | 87 / 0 |
+| org:langchain-ai | 正常 | 10-12 18:48 | 78 / 0 |
+| org:mistralai | 正常 | 10-12 18:48 | 13 / 0 |
+| org:moonshotai | 正常 | 10-12 18:48 | 41 / 0 |
+| org:openai | 正常 | 10-12 18:48 | 96 / 0 |
+| release:Comfy-Org/ComfyUI | 正常 | 10-12 18:48 | 10 / 0 |
+| release:anthropics/claude-code | 正常 | 10-12 18:48 | 10 / 0 |
+| release:browser-use/browser-use | 正常 | 10-12 18:48 | 10 / 0 |
+| release:ggml-org/llama.cpp | 正常 | 10-12 18:48 | 10 / 0 |
+| release:huggingface/transformers | 正常 | 10-12 18:48 | 10 / 0 |
+| release:langchain-ai/langgraph | 正常 | 10-12 18:48 | 10 / 0 |
+| release:ollama/ollama | 正常 | 10-12 18:48 | 10 / 0 |
+| release:openai/codex | 正常 | 10-12 18:48 | 10 / 0 |
+| release:pydantic/pydantic-ai | 正常 | 10-12 18:48 | 10 / 0 |
 
 数据仅来自公开发布、公开仓库和公开模型。没有接入私人网站、Search Console、广告账号或邮件地址。
