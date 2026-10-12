@@ -6,6 +6,8 @@
 
 ## 阅读日报
 
+[打开最新日报](https://github.com/windspoor/new-term-radar-free/blob/radar-data/latest.md) · [历史日报](https://github.com/windspoor/new-term-radar-free/tree/radar-data/reports) · [运行状态](https://github.com/windspoor/new-term-radar-free/actions/workflows/radar.yml)
+
 在本仓库切换到 **radar-data** 分支：
 
 - `latest.md`：过去 24 小时的最新发现，每次采集后更新。
