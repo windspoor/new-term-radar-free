@@ -2,10 +2,15 @@ name: Tests
 
 on:
   push:
+    branches: [main]
+    paths-ignore: ["README*", "docs/**"]
   pull_request:
+  workflow_dispatch:
 
 jobs:
   test:
+    permissions:
+      contents: read
     runs-on: ubuntu-latest
     strategy:
       matrix:

@@ -1,0 +1,15 @@
+{
+  "mode": "free-public",
+  "hf_authors": ["Qwen", "deepseek-ai", "moonshotai", "MiniMaxAI", "zai-org", "mistralai", "google", "meta-llama", "black-forest-labs", "Lightricks", "Wan-AI", "nvidia"],
+  "github_orgs": ["QwenLM", "deepseek-ai", "huggingface", "google-deepmind", "anthropics", "moonshotai", "MiniMax-AI", "THUDM", "mistralai", "openai", "langchain-ai"],
+  "github_releases": ["huggingface/transformers", "langchain-ai/langgraph", "ollama/ollama", "ggml-org/llama.cpp", "anthropics/claude-code", "openai/codex", "Comfy-Org/ComfyUI", "browser-use/browser-use", "pydantic/pydantic-ai"],
+  "feeds": ["OpenAI", "Hugging Face", "Google AI", "Simon Willison"],
+  "discovery": {
+    "queries": ["topic:artificial-intelligence", "topic:llm", "topic:ai-agents"],
+    "window_days": 14,
+    "min_stars": 20
+  },
+  "initial_lookback_hours": 48,
+  "retention_days": 30,
+  "report_limit": 60
+}

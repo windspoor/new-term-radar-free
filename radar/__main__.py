@@ -97,7 +97,8 @@ def cmd_daily(args, cfg: dict, state: Path) -> int:
     return 0
 
 
-def main(argv: list[str] | None = None) -> int:
+def legacy_main(argv: list[str] | None = None) -> int:
+    """Upstream CLI retained for compatibility tests; not exposed as a command."""
     p = argparse.ArgumentParser(prog="python -m radar", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("command", choices=["daily", "sources"])
     p.add_argument("--config", default="config.json")
@@ -117,6 +118,17 @@ def main(argv: list[str] | None = None) -> int:
     state = Path(args.state)
     state.mkdir(parents=True, exist_ok=True)
     return cmd_sources(args, cfg, state) if args.command == "sources" else cmd_daily(args, cfg, state)
+
+
+def main(argv: list[str] | None = None) -> int:
+    """Every public command enters the free implementation, including old aliases."""
+    from .free import main as free_main
+    argv = list(sys.argv[1:] if argv is None else argv)
+    if argv and argv[0] == "free":
+        argv.pop(0)
+    if argv and argv[0] == "sources":
+        argv[0] = "collect"
+    return free_main(argv)
 
 
 if __name__ == "__main__":

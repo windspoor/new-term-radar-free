@@ -357,7 +357,7 @@ def test_sources_run_writes_no_report_when_nothing_is_new(tmp_path, monkeypatch)
     monkeypatch.setattr(cli.sources, "x_new", lambda cfg, state: {"posts": 400, "terms": []})
     monkeypatch.setattr(cli.sources, "hf_new", lambda cfg, state: {"models": 100, "terms": []})
     out = tmp_path / "sources.md"
-    assert cli.main(["sources", "--config", str(_write_config(tmp_path)), "--state", str(tmp_path / "s"), "--out", str(out)]) == 0
+    assert cli.legacy_main(["sources", "--config", str(_write_config(tmp_path)), "--state", str(tmp_path / "s"), "--out", str(out)]) == 0
     assert not out.exists()
 
 
@@ -368,7 +368,7 @@ def test_sources_run_reports_and_keeps_a_new_name(tmp_path, monkeypatch):
          "posts": [{"account": "Alibaba_Qwen", "text": "Qwen3.9 is out", "url": "https://x.com/p/1", "likes": 900}]}]})
     monkeypatch.setattr(cli.sources, "hf_new", lambda cfg, state: {"models": 100, "terms": []})
     out, state = tmp_path / "sources.md", tmp_path / "s"
-    cli.main(["sources", "--config", str(_write_config(tmp_path)), "--state", str(state), "--out", str(out)])
+    cli.legacy_main(["sources", "--config", str(_write_config(tmp_path)), "--state", str(state), "--out", str(out)])
     text = out.read_text()
     assert "**qwen3.9**" in text and "$0.072" in text and "[post](https://x.com/p/1)" in text
     assert store.connect(state).execute("SELECT term FROM leads").fetchall() == [("qwen3.9",)]
@@ -380,7 +380,7 @@ def test_daily_run_writes_a_report_when_every_signal_is_down(tmp_path, monkeypat
     for mod, fn in ((cli.sources, "x_new"), (cli.sources, "hf_new"), (cli.breakout, "breakouts"), (cli.sitemaps, "diff")):
         monkeypatch.setattr(mod, fn, down)
     out = tmp_path / "report.md"
-    assert cli.main(["daily", "--config", str(_write_config(tmp_path)), "--state", str(tmp_path / "s"), "--out", str(out),
+    assert cli.legacy_main(["daily", "--config", str(_write_config(tmp_path)), "--state", str(tmp_path / "s"), "--out", str(out),
                      "--skip", "newsites,review"]) == 0
     text = out.read_text()
     assert text.count("network is down") >= 4 and out.with_suffix(".json").exists()
@@ -391,7 +391,7 @@ def test_daily_report_in_chinese(tmp_path, monkeypatch):
     monkeypatch.setattr(cli.breakout, "breakouts", lambda cfg, state: {"searched": 120, "first_run": False, "terms": [], "repos": [
         {"repo": "Niko1221/Strata", "stars": 7734, "velocity": 859, "delta": 600, "age_days": 9.0, "description": "Qwen3.8", "new": True}]})
     out = tmp_path / "report.md"
-    cli.main(["daily", "--config", str(_write_config(tmp_path, lang="zh")), "--state", str(tmp_path / "s"), "--out", str(out),
+    cli.legacy_main(["daily", "--config", str(_write_config(tmp_path, lang="zh")), "--state", str(tmp_path / "s"), "--out", str(out),
               "--skip", "x,hf,sitemaps,newsites,review"])
     text = out.read_text()
     assert "## 新词雷达" in text and "🆕 [Niko1221/Strata]" in text and "| +600 |" in text

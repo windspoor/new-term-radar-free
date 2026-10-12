@@ -9,3 +9,12 @@ __pycache__/
 .pytest_cache/
 .venv/
 .env
+.env.*
+.runtime/
+reports/
+config.private*.json
+*.local.json
+*.pem
+*.key
+publish-manifest.json
+deployment-proof.png
