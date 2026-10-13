@@ -1,6 +1,7 @@
 """Read-only public sources. No inference, paid API, or private site integration."""
 from __future__ import annotations
 
+import base64
 import json
 import os
 import re
@@ -45,6 +46,91 @@ NOISE = re.compile(r"[-_.](gguf|ggml|awq|gptq|fp8|fp16|bf16|int[48]|mlx|exl2|onn
 
 class ResponseTooLarge(ValueError):
     pass
+
+
+MODEL_TASKS = {
+    "text-generation": "文本生成模型，用于生成文字、续写或对话。",
+    "image-text-to-text": "图文输入、文本输出模型，可根据图片和文字生成回答。",
+    "text-to-image": "文生图模型，根据文字描述生成图片。",
+    "image-to-image": "图像转换模型，以已有图片为输入生成或修改图片。",
+    "text-to-video": "文生视频模型，根据文字描述生成视频。",
+    "image-to-video": "图生视频模型，以图片为输入生成视频。",
+    "video-to-video": "视频转换模型，以已有视频为输入生成新视频。",
+    "text-to-speech": "语音合成模型，把文字转换为语音。",
+    "text-to-audio": "音频生成模型，根据文字描述生成音频。",
+    "automatic-speech-recognition": "语音识别模型，把语音转写为文字。",
+    "audio-text-to-text": "音频和文字输入模型，可根据音频内容生成文字回答。",
+    "feature-extraction": "特征提取模型，把内容转为向量，可用于相似度计算或检索。",
+    "sentence-similarity": "句子相似度模型，用于比较两段文字的语义相似程度。",
+    "text-classification": "文本分类模型，用于给文字分配类别或标签。",
+    "token-classification": "词元分类模型，可用于实体识别等逐词标注任务。",
+    "image-classification": "图像分类模型，用于识别图片所属的类别。",
+    "object-detection": "目标检测模型，用于识别并定位图片中的对象。",
+    "image-segmentation": "图像分割模型，用于划分图片中的对象或区域。",
+    "visual-question-answering": "视觉问答模型，根据图片回答问题。",
+    "document-question-answering": "文档问答模型，根据文档内容回答问题。",
+    "translation": "翻译模型，用于在不同语言之间转换文字。",
+    "summarization": "摘要模型，用于压缩和概括较长文本。",
+    "question-answering": "问答模型，根据给定内容回答问题。",
+    "fill-mask": "文本填空模型，用于预测文字中被遮盖的部分。",
+}
+
+
+def model_summary(task: str | None, model_id: str) -> str:
+    if task in MODEL_TASKS:
+        return MODEL_TASKS[task]
+    if task:
+        return f"模型仓库，作者标注的任务类型为 {task}。"
+    return f"{model_id.split('/')[0]} 发布的模型仓库；作者暂未标注具体任务类型。"
+
+
+def readme_summary(markdown: str) -> str:
+    """Extract author-written prose, not badges, code, navigation or installation steps."""
+    markdown = re.sub(r"\A---\s*\n.*?\n---\s*\n", "", markdown, flags=re.S)
+    markdown = re.sub(r"```.*?```|~~~.*?~~~", "", markdown, flags=re.S)
+    markdown = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", markdown)
+    markdown = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", markdown)
+    for paragraph in re.split(r"\n\s*\n", markdown):
+        paragraph = paragraph.strip()
+        if not paragraph or paragraph.startswith(("#", "|", "![", "<!--", "<", "[!")):
+            continue
+        text = plain(paragraph).strip("*_` ")
+        if len(text) < 30 or re.search(r"\b(npm install|pip install|git clone|curl |docker run)\b", text, re.I):
+            continue
+        return "README 摘录：" + text
+    return ""
+
+
+def enrich_summaries(rows: list[dict], max_requests: int = 5) -> None:
+    """A small, best-effort public README fallback; no model or authenticated private reads."""
+    requests = 0
+    cache = {}
+    for row in rows:
+        summary = row.get("summary", "").strip()
+        if row.get("kind") != "tool" or (summary and not summary.startswith("暂无项目描述")):
+            continue
+        url = urllib.parse.urlsplit(safe_url(row["url"]))
+        parts = url.path.strip("/").split("/")
+        if url.hostname != "github.com" or len(parts) < 2:
+            continue
+        repo = "/".join(parts[:2])
+        if not re.fullmatch(r"[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", repo):
+            continue
+        if repo not in cache:
+            if requests >= max_requests:
+                continue
+            requests += 1
+            try:
+                # An unauthenticated request cannot read a repository that became private.
+                response = fetch(f"https://api.github.com/repos/{repo}/readme")
+                if response.get("encoding") != "base64":
+                    continue
+                content = base64.b64decode(response["content"])[:128 * 1024].decode("utf-8", "replace")
+                cache[repo] = readme_summary(content)
+            except (OSError, ValueError, KeyError, TypeError):
+                cache[repo] = ""
+        if cache.get(repo):
+            row["summary"] = plain(cache[repo])
 
 
 def stamp(value: str | None) -> str | None:
@@ -128,7 +214,7 @@ def hf_models(author: str | None = None) -> list[dict]:
         out.append({"id": "hf:" + owner.lower() + "/" + base.lower(), "title": base,
                     "kind": "model", "url": safe_url("https://huggingface.co/" + urllib.parse.quote(mid, safe="/")),
                     "published": stamp(model.get("createdAt")),
-                    "summary": plain(f"{mid} · {model.get('pipeline_tag') or '模型'} · ♥{model.get('likes', 0)}"),
+                    "summary": model_summary(model.get("pipeline_tag"), mid),
                     "source": "HF 官方发布" if author else "HF 热门榜", "official": bool(author),
                     "reason": f"{author} 新上传的模型" if author else f"进入 HF 热门榜 #{rank}",
                     "rank": rank, "likes": int(model.get("likes") or 0), "hot": not author})
@@ -141,7 +227,7 @@ def repo_row(repo: dict, *, official: bool, reason: str) -> dict | None:
     name = repo["full_name"]
     return {"id": "gh:" + name.lower(), "title": name, "kind": "tool",
             "url": safe_url("https://github.com/" + name), "published": stamp(repo.get("created_at")),
-            "summary": plain(repo.get("description") or "暂无项目描述，点击原始链接查看"),
+            "summary": plain(repo.get("description") or ""),
             "source": "GitHub 官方仓库" if official else "GitHub 新项目",
             "official": official, "reason": reason, "stars": int(repo.get("stargazers_count") or 0)}
 
@@ -173,7 +259,7 @@ def gh_releases(repo: str) -> list[dict]:
         tag = release.get("tag_name", "")
         out.append({"id": "release:" + repo.lower() + ":" + tag, "title": f"{repo} · {tag}",
                     "kind": "tool", "url": safe_url(release["html_url"]),
-                    "published": stamp(release.get("published_at")), "summary": plain(release.get("name") or tag),
+                    "published": stamp(release.get("published_at")), "summary": plain(metadata.get("description") or ""),
                     "source": "GitHub Releases", "official": True,
                     "reason": "项目发布新版本" + ("（预发布）" if release.get("prerelease") else "")})
     return out

@@ -251,3 +251,65 @@ def test_multiple_github_searches_do_not_inflate_confidence():
 def test_html_error_page_is_not_reported_as_a_healthy_feed():
     with pytest.raises(ValueError):
         src.parse_feed(b"<html><body>blocked</body></html>", "OpenAI")
+
+
+def test_existing_events_refresh_description_without_becoming_new_again():
+    data = state.fresh()
+    state.ingest(data, "hf:Qwen", [item(summary="old description")], NOW)
+    first_seen = data["events"][item()["id"]]["first_seen"]
+    assert state.ingest(data, "hf:Qwen", [item(summary="new description")], NOW + timedelta(hours=2)) == 0
+    event = data["events"][item()["id"]]
+    assert event["summary"] == "new description" and event["first_seen"] == first_seen
+    state.ingest(data, "hf:Qwen", [item(summary="")], NOW + timedelta(hours=4))
+    assert event["summary"] == "new description"
+
+
+def test_release_introduction_describes_the_project_instead_of_the_version(monkeypatch):
+    def fetch(url, **kwargs):
+        if "releases" not in url:
+            return {"private": False, "description": "Run language models locally."}
+        return [{"tag_name": "v1", "name": "v1", "html_url": "https://github.com/openai/codex/releases/tag/v1",
+                 "published_at": NOW.isoformat()}]
+    monkeypatch.setattr(src, "fetch", fetch)
+    row = src.gh_releases("openai/codex")[0]
+    assert row["summary"] == "Run language models locally."
+
+
+def test_missing_descriptions_use_bounded_unauthenticated_readme_reads(monkeypatch):
+    import base64
+    calls = []
+    def fetch(url, **kwargs):
+        calls.append((url, kwargs))
+        assert not kwargs.get("github", False)
+        text = "# Project\n\n![badge](https://example.com/badge)\n\n```sh\nnpm install package\n```\n\nAn open source browser automation toolkit that lets agents control web pages."
+        return {"encoding": "base64", "content": base64.b64encode(text.encode()).decode()}
+    monkeypatch.setattr(src, "fetch", fetch)
+    rows = [{**item(), "kind": "tool", "url": "https://github.com/owner/project", "summary": ""},
+            {**item(), "kind": "tool", "url": "https://github.com/owner/project/releases/tag/v1", "summary": ""},
+            {**item(), "kind": "tool", "url": "https://github.com/owner/other", "summary": ""}]
+    src.enrich_summaries(rows, max_requests=1)
+    assert len(calls) == 1
+    assert rows[0]["summary"].startswith("README 摘录：An open source browser")
+    assert rows[1]["summary"] == rows[0]["summary"]
+    assert rows[2]["summary"] == ""
+
+
+def test_missing_public_readme_never_blocks_the_report_or_exposes_errors(monkeypatch):
+    def fetch(*args, **kwargs):
+        raise urllib.error.HTTPError("https://api.github.com/repos/x/readme", 404, "private", None, None)
+    monkeypatch.setattr(src, "fetch", fetch)
+    rows = [{**item(), "kind": "tool", "url": "https://github.com/owner/project", "summary": ""}]
+    src.enrich_summaries(rows)
+    assert rows[0]["summary"] == ""
+    assert state.introduction(rows[0]) == "公开来源暂未提供简介。"
+
+
+def test_introductions_are_visible_escaped_and_old_model_snapshots_remain_readable():
+    data = state.fresh()
+    state.ingest(data, "hf:Qwen", [item(summary="Vector search | <script>alert(1)</script> [click](https://evil.example)")], NOW)
+    text = state.markdown(state.report_data(data, NOW, 60))
+    assert "项目简介 / 主要用途" in text and "Vector search \\|" in text
+    assert "<script>" not in text and "https://evil.example" not in text
+    old = item(summary="Qwen/NewModel · text-to-image · ♥50")
+    assert "根据文字描述生成图片" in state.introduction(old)
+    assert "暂未标注" in src.model_summary(None, "Qwen/Unknown")

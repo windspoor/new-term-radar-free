@@ -106,8 +106,13 @@ def main(argv: list[str] | None = None) -> int:
         data = state.load_state(path)
         now = datetime.now(timezone.utc)
         successes = 1 if args.report_only else collect(cfg, data, now)
-        state.atomic_json(path, data)
         payload = state.report_data(data, now, cfg["report_limit"])
+        if not args.report_only:
+            src.enrich_summaries(payload["events"])
+            for row in payload["events"]:
+                if row.get("summary"):
+                    data["events"][row["id"]]["summary"] = row["summary"]
+        state.atomic_json(path, data)
         text = state.markdown(payload)
         out = Path(args.out)
         out.parent.mkdir(parents=True, exist_ok=True)

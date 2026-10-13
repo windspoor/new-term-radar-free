@@ -113,6 +113,8 @@ def ingest(data: dict, source: str, rows: list[dict], now: datetime,
             for field in ("stars", "likes", "rank"):
                 if field in row:
                     current[field] = row[field]
+            if row.get("summary"):
+                current["summary"] = row["summary"]
             current["official"] |= row.get("official", False)
             current["last_seen"] = iso
         if source not in current["sources"]:
@@ -149,6 +151,25 @@ def escape(value: str) -> str:
     # Public source titles are untrusted Markdown; retain readable text, no raw HTML.
     value = plain(value, 240).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     return re.sub(r"([\\`*_{}\[\]()#!|])", r"\\\1", value)
+
+
+def introduction(row: dict) -> str:
+    text = plain(row.get("summary", ""))
+    # Old snapshots may still contain model statistics or just a release tag.
+    if row.get("kind") == "model" and " · ♥" in text:
+        from .free_sources import model_summary
+        parts = text.split(" · ")
+        text = model_summary(parts[1] if len(parts) > 1 and parts[1] != "模型" else None, parts[0])
+    if row["id"].startswith("release:") and text == row["id"].split(":", 2)[-1]:
+        text = ""
+    if not text or text.startswith("暂无项目描述"):
+        return "公开来源暂未提供简介。"
+    if len(text) > 180:
+        shortened = text[:180]
+        if " " in shortened and not re.search(r"[\u4e00-\u9fff]", shortened):
+            shortened = shortened.rsplit(" ", 1)[0]
+        text = shortened.rstrip("，、；,. ") + "…"
+    return text
 
 
 def report_data(data: dict, now: datetime, limit: int) -> dict:
@@ -197,8 +218,8 @@ def markdown(payload: dict) -> str:
         if not rows:
             lines.extend(["本次没有新的记录。", ""])
             continue
-        lines.extend(["| 名称 / 原始链接 | 发布时间 | 首次发现 | 为什么值得看 | 规则分 |",
-                      "|---|---|---|---|---|"])
+        lines.extend(["| 名称 / 原始链接 | 项目简介 / 主要用途 | 发布时间 | 首次发现 | 为什么值得看 | 规则分 |",
+                      "|---|---|---|---|---|---|"])
         for row in rows:
             reasons = "；".join(row["reasons"][:3])
             if "stars" in row:
@@ -206,7 +227,7 @@ def markdown(payload: dict) -> str:
             if row.get("growth_per_day", 0) > 0:
                 reasons += f"；当前约 +{row['growth_per_day']:g} 星/天"
             link = safe_url(row["url"]).replace("(", "%28").replace(")", "%29")
-            lines.append(f"| [{escape(row['title'])}]({link}) | {local(row['published'])} | "
+            lines.append(f"| [{escape(row['title'])}]({link}) | {escape(introduction(row))} | {local(row['published'])} | "
                          f"{local(row['first_seen'])} | {escape(reasons)} | {row['score']} |")
         lines.append("")
     lines.extend(["## 采集状态", "", "| 来源 | 状态 | 最近成功 | 检查 / 新增 |", "|---|---|---|---|"])
