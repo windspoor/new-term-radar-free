@@ -1,8 +1,8 @@
 # 新模型与新工具日报 · 2026-10-27
 
-生成时间：2026-10-27 09:29（北京时间） · 最近成功采集：10-27 09:29
+生成时间：2026-10-27 14:20（北京时间） · 最近成功采集：10-27 14:20
 
-过去 24 小时发现或开始升温 **55** 条，展示 55 条。付费 API 调用：**0**。
+过去 24 小时发现或开始升温 **53** 条，展示 53 条。付费 API 调用：**0**。
 
 首次运行会补录近 48 小时的公开发布与近两周达到观察门槛的项目；首次发现时间不等于发布时间。
 
@@ -12,9 +12,9 @@
 
 | 名称 / 原始链接 | 项目简介 / 主要用途 | 发布时间 | 首次发现 | 为什么值得看 | 规则分 |
 |---|---|---|---|---|---|
+| [Unlimited OCR 2](https://huggingface.co/baidu/Unlimited-OCR-2) | 图文输入、文本输出模型，可根据图片和文字生成回答。 | 10-26 11:57 | 10-27 14:20 | 进入 HF 热门榜 \#99 | 50 |
 | [MOSS Image Edit HQ](https://huggingface.co/akhaliq/MOSS-Image-Edit-HQ) | akhaliq 发布的模型仓库；作者暂未标注具体任务类型。 | 10-23 04:39 | 10-26 23:12 | 进入 HF 热门榜 \#97；进入 HF 热门榜 \#95；进入 HF 热门榜 \#91 | 50 |
-| [WeVisOne VL](https://huggingface.co/tencent/WeVisOne-VL-4B) | 图文输入、文本输出模型，可根据图片和文字生成回答。 | 10-22 17:48 | 10-27 09:29 | 进入 HF 热门榜 \#98 | 50 |
-| [Ling 3.0 flash Sante](https://huggingface.co/inclusionAI/Ling-3.0-flash-Sante) | 文本生成模型，用于生成文字、续写或对话。 | 10-20 01:30 | 10-26 14:18 | 进入 HF 热门榜 \#96；进入 HF 热门榜 \#95；进入 HF 热门榜 \#93 | 50 |
+| [WeVisOne VL](https://huggingface.co/tencent/WeVisOne-VL-4B) | 图文输入、文本输出模型，可根据图片和文字生成回答。 | 10-22 17:48 | 10-27 09:29 | 进入 HF 热门榜 \#98；进入 HF 热门榜 \#95 | 50 |
 | [Underdog Bark 3.0](https://huggingface.co/ConwayResearch/Underdog-Bark-3.0) | 语音识别模型，把语音转写为文字。 | 10-15 15:29 | 10-26 23:12 | 进入 HF 热门榜 \#94；进入 HF 热门榜 \#91；进入 HF 热门榜 \#92 | 50 |
 | [Underdog Bark 3.0 Clean](https://huggingface.co/ConwayResearch/Underdog-Bark-3.0-Clean) | 语音识别模型，把语音转写为文字。 | 10-15 14:43 | 10-27 05:01 | 进入 HF 热门榜 \#98；进入 HF 热门榜 \#99 | 50 |
 
@@ -22,7 +22,9 @@
 
 | 名称 / 原始链接 | 项目简介 / 主要用途 | 发布时间 | 首次发现 | 为什么值得看 | 规则分 |
 |---|---|---|---|---|---|
-| [openai/codex · rust-v0.165.0-alpha.1.1](https://github.com/openai/codex/releases/tag/rust-v0.165.0-alpha.1.1) | Lightweight coding agent that runs in your terminal | 10-27 08:36 | 10-27 09:29 | 项目发布新版本（预发布）；另有 1 次版本更新已合并 | 65 |
+| [openai/codex · rust-v0.165.0-alpha.1.2](https://github.com/openai/codex/releases/tag/rust-v0.165.0-alpha.1.2) | Lightweight coding agent that runs in your terminal | 10-27 12:57 | 10-27 14:20 | 项目发布新版本（预发布）；另有 3 次版本更新已合并 | 65 |
+| [Comfy-Org/ComfyUI · v0.43.0](https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.0) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | 10-27 10:40 | 10-27 14:20 | 项目发布新版本 | 65 |
+| [pydantic/pydantic-ai · v2.62.0](https://github.com/pydantic/pydantic-ai/releases/tag/v2.62.0) | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end. | 10-27 10:38 | 10-27 14:20 | 项目发布新版本 | 65 |
 | [ggml-org/llama.cpp · b11913](https://github.com/ggml-org/llama.cpp/releases/tag/b11913) | LLM inference in C/C++ | 10-27 08:19 | 10-27 09:29 | 项目发布新版本（预发布）；另有 16 次版本更新已合并 | 65 |
 | [ollama/ollama · v0.40.12-rc0](https://github.com/ollama/ollama/releases/tag/v0.40.12-rc0) | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 10-27 08:07 | 10-27 09:29 | 项目发布新版本（预发布） | 65 |
 | [browser-use/browser-use · 0.13.14](https://github.com/browser-use/browser-use/releases/tag/0.13.14) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | 10-27 06:00 | 10-27 09:29 | 项目发布新版本 | 65 |
@@ -30,38 +32,34 @@
 | [langchain-ai/langgraph · 1.2.18](https://github.com/langchain-ai/langgraph/releases/tag/1.2.18) | Build resilient agents. | 10-27 04:04 | 10-27 05:01 | 项目发布新版本；另有 4 次版本更新已合并 | 65 |
 | [huggingface/transformers · v5.21](https://github.com/huggingface/transformers/releases/tag/v5.21) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. | 10-27 02:17 | 10-27 05:01 | 项目发布新版本 | 65 |
 | [huggingface/ipyh-optimization](https://github.com/huggingface/ipyh-optimization) | README 摘录：Optimize an ipython-harness \(ipyh\) harness for a suite of tasks, adapting Harness². There is no training, and the agent is not run while optimizing. The result is an ipyh… | 10-26 19:39 | 10-26 23:12 | huggingface 创建新仓库；★0 | 65 |
-| [jadezane6634-ops/dsh-purge-flash](https://github.com/jadezane6634-ops/dsh-purge-flash) | DSH稳定高效的破甲插件： 常驻1,597token +零宿主补丁（可与dsh-purge共存）+ 三层技能路由+ 分级 prefill + 拒答自我强化阶梯+ finish\_reason 四路分流 状态查询: /flash light | 10-25 16:59 | 10-26 04:51 | 新 AI 项目达到观察门槛；★174；当前约 +240.2 星/天 | 45 |
-| [NerverDevs/nervecenter](https://github.com/NerverDevs/nervecenter) | new-api / sub2api 中转站账号管理中心：余额、API Key、用量、倍率、模型比价 \| | 10-23 23:07 | 10-25 12:42 | 新 AI 项目达到观察门槛；★59；当前约 +10.7 星/天 | 45 |
-| [Cattmonkey/ChaosIntelligence](https://github.com/Cattmonkey/ChaosIntelligence) | 把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training. | 10-23 21:04 | 10-26 14:18 | 新 AI 项目达到观察门槛；★200；当前约 +5.4 星/天 | 45 |
+| [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android) | 在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。 | 10-26 13:13 | 10-27 09:29 | 新 AI 项目达到观察门槛；★101；当前约 +321.3 星/天 | 45 |
+| [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI. | 10-24 16:44 | 10-27 09:29 | 新 AI 项目达到观察门槛；★115；当前约 +291.6 星/天 | 45 |
+| [Cattmonkey/ChaosIntelligence](https://github.com/Cattmonkey/ChaosIntelligence) | 把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training. | 10-23 21:04 | 10-26 14:18 | 新 AI 项目达到观察门槛；★200 | 45 |
 | [Hellko63421/rpocket-team-elden-ring](https://github.com/Hellko63421/rpocket-team-elden-ring) | Top Elden Ring Gameplay Enhancement Suite 2026: ESP &amp; No Recoil | 10-23 15:07 | 10-23 21:27 | 新 AI 项目达到观察门槛；★54 | 45 |
 | [Cinderubasp/InterviewCopilot-rpocket-team](https://github.com/Cinderubasp/InterviewCopilot-rpocket-team) | EdTech application designed to bridge the gap between learning and landing your dream job | 10-23 15:07 | 10-23 21:27 | 新 AI 项目达到观察门槛；★54 | 45 |
-| [YOLOW92/pagesift](https://github.com/YOLOW92/pagesift) | High-performance, memory-efficient Rust web crawler &amp; content extraction engine for AI agents and RAG. Adaptive crawling, clean Markdown, structured data, PDF/RSS parsing, browser… | 10-21 01:30 | 10-23 21:27 | 新 AI 项目达到观察门槛；★104；当前约 +37.6 星/天 | 45 |
-| [zickrian/isle](https://github.com/zickrian/isle) | A notch-style island for GNOME with an AI assistant that installs and fixes things, Claude Code and Codex approvals from the notch, music with synced lyrics, notifications, a… | 10-20 20:39 | 10-26 14:18 | 新 AI 项目达到观察门槛；★80；当前约 +53.7 星/天 | 45 |
-| [klarluft/pitupitu](https://github.com/klarluft/pitupitu) | Talk to Claude Code and Codex by voice, from your phone, on any of your machines. The open-source box agent for pitupitu.chat; your agents run in herdr. | 10-17 17:21 | 10-26 15:48 | 新 AI 项目达到观察门槛；★212；当前约 +5.4 星/天 | 45 |
-| [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob) | An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and… | 10-15 06:11 | 10-27 05:01 | 新 AI 项目达到观察门槛；★123；当前约 +526.5 星/天 | 45 |
+| [zickrian/isle](https://github.com/zickrian/isle) | A notch-style island for GNOME with an AI assistant that installs and fixes things, Claude Code and Codex approvals from the notch, music with synced lyrics, notifications, a… | 10-20 20:39 | 10-26 14:18 | 新 AI 项目达到观察门槛；★89；当前约 +44.5 星/天 | 45 |
+| [klarluft/pitupitu](https://github.com/klarluft/pitupitu) | Talk to Claude Code and Codex by voice, from your phone, on any of your machines. The open-source box agent for pitupitu.chat; your agents run in herdr. | 10-17 17:21 | 10-26 15:48 | 新 AI 项目达到观察门槛；★212 | 45 |
+| [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob) | An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and… | 10-15 06:11 | 10-27 05:01 | 新 AI 项目达到观察门槛；★167；当前约 +217.5 星/天 | 45 |
+| [teraus111/web3-agent-kit-solana-trading](https://github.com/teraus111/web3-agent-kit-solana-trading) | Build autonomous AI agents that interact with blockchains — in minutes, not months. | 10-14 03:59 | 10-27 09:29 | 新 AI 项目达到观察门槛；★72；当前约 +138.4 星/天 | 45 |
 | [Maefdancer29436/rpocket-team-elden-ring](https://github.com/Maefdancer29436/rpocket-team-elden-ring) | Top Elden Ring Gameplay Enhancement Suite 2026: ESP &amp; No Recoil | 10-26 15:21 | 10-26 23:12 | 新 AI 项目达到观察门槛；★32 | 35 |
 | [OFat34764e/InterviewCopilot-rpocket-team](https://github.com/OFat34764e/InterviewCopilot-rpocket-team) | EdTech application designed to bridge the gap between learning and landing your dream job | 10-26 15:19 | 10-26 23:12 | 新 AI 项目达到观察门槛；★32 | 35 |
-| [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android) | 在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。 | 10-26 13:13 | 10-27 09:29 | 新 AI 项目达到观察门槛；★36 | 35 |
-| [Hvftpie13/Flashmind\_Gemini-3.8-Flash\_Smart-agent](https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent) | flashmind — Gemini 3.8 Flash Smart Agent. Gives Gemini Flash persistent memory \(Engram\), coding skills, and no-hallucination rules. Works in Gemini CLI, Antigravity, Cursor, VS… | 10-26 06:12 | 10-26 23:12 | 新 AI 项目达到观察门槛；★33；当前约 +5.4 星/天 | 35 |
-| [codician-team/diffinery](https://github.com/codician-team/diffinery) | Open-source, agent-first GitHub and GitHub Actions alternative that runs on your own Cloudflare account: git hosting, pull requests, code review and drop-in GitHub Actions YAML on… | 10-26 03:10 | 10-26 23:12 | 新 AI 项目达到观察门槛；★42；当前约 +32.2 星/天 | 35 |
+| [Hvftpie13/Flashmind\_Gemini-3.8-Flash\_Smart-agent](https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent) | flashmind — Gemini 3.8 Flash Smart Agent. Gives Gemini Flash persistent memory \(Engram\), coding skills, and no-hallucination rules. Works in Gemini CLI, Antigravity, Cursor, VS… | 10-26 06:12 | 10-26 23:12 | 新 AI 项目达到观察门槛；★34；当前约 +4.9 星/天 | 35 |
+| [codician-team/diffinery](https://github.com/codician-team/diffinery) | Open-source, agent-first GitHub and GitHub Actions alternative that runs on your own Cloudflare account: git hosting, pull requests, code review and drop-in GitHub Actions YAML on… | 10-26 03:10 | 10-26 23:12 | 新 AI 项目达到观察门槛；★45；当前约 +14.8 星/天 | 35 |
 | [zhangshuibai/molten](https://github.com/zhangshuibai/molten) | Run a coding model at 300+ tok/s on your Mac. Native Rust + Metal inference engine for LiquidAI LFM2.5-24B-A2B \(MLX 4-bit\) on Apple Silicon. | 10-25 23:19 | 10-27 09:29 | 新 AI 项目达到观察门槛；★22 | 35 |
-| [mountain-beaver/vps-forge](https://github.com/mountain-beaver/vps-forge) | Agent Skill that lets Claude Code, Codex, Cursor, Copilot and other AI agents set up and harden a Debian/Ubuntu VPS without locking you out: SSH, firewall, fail2ban, updates… | 10-24 21:16 | 10-26 14:18 | 新 AI 项目达到观察门槛；★31 | 35 |
+| [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) | Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup. | 10-25 19:14 | 10-27 14:20 | 新 AI 项目达到观察门槛；★36 | 35 |
 | [ersingvn/ludra](https://github.com/ersingvn/ludra) | The game engine built for AI agents. Games are JSON, errors come with fixes, and agents play-test their own games headlessly. | 10-24 20:57 | 10-27 09:29 | 新 AI 项目达到观察门槛；★20 | 35 |
-| [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI. | 10-24 16:44 | 10-27 09:29 | 新 AI 项目达到观察门槛；★56 | 35 |
-| [lemonadesaltbagel/sill](https://github.com/lemonadesaltbagel/sill) | Native Windows Bash for AI coding agents. Run Claude Code, Codex, opencode &amp; Gemini CLI without Git Bash, MSYS2 or WSL. Built in Rust, with MCP support. | 10-24 03:25 | 10-26 23:12 | 新 AI 项目达到观察门槛；★46；当前约 +16.1 星/天 | 35 |
-| [faraflow/faraflow](https://github.com/faraflow/faraflow) | Visual builder and execution engine for AI powered organizations | 10-23 14:21 | 10-26 14:18 | 新 AI 项目达到观察门槛；★47 | 35 |
-| [lemonadesaltbagel/teardown](https://github.com/lemonadesaltbagel/teardown) | Rebuild software from behavior, not source code. An MCP-powered toolkit for black-box observation, clean-room reimplementation, and behavioral verification. | 10-22 17:55 | 10-26 23:12 | 新 AI 项目达到观察门槛；★56；当前约 +5.4 星/天 | 35 |
+| [lemonadesaltbagel/sill](https://github.com/lemonadesaltbagel/sill) | Native Windows Bash for AI coding agents. Run Claude Code, Codex, opencode &amp; Gemini CLI without Git Bash, MSYS2 or WSL. Built in Rust, with MCP support. | 10-24 03:25 | 10-26 23:12 | 新 AI 项目达到观察门槛；★46 | 35 |
+| [lemonadesaltbagel/teardown](https://github.com/lemonadesaltbagel/teardown) | Rebuild software from behavior, not source code. An MCP-powered toolkit for black-box observation, clean-room reimplementation, and behavioral verification. | 10-22 17:55 | 10-26 23:12 | 新 AI 项目达到观察门槛；★57；当前约 +4.9 星/天 | 35 |
 | [dolev31/lasagna](https://github.com/dolev31/lasagna) | Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behind "Retrieval Augmented Generation Compositionality": 450… | 10-22 02:58 | 10-27 09:29 | 新 AI 项目达到观察门槛；★21 | 35 |
 | [fdaneluzzi/voice-assist-improver](https://github.com/fdaneluzzi/voice-assist-improver) | Home Assistant app: an LLM fallback for Assist that learns from what Assist couldn't handle and suggests aliases, automations and scenes | 10-21 22:35 | 10-27 09:29 | 新 AI 项目达到观察门槛；★21 | 35 |
-| [lemonadesaltbagel/veil](https://github.com/lemonadesaltbagel/veil) | Local privacy proxy for AI coding agents. Keep PII and secrets out of LLMs with deterministic pseudonymization. | 10-21 15:47 | 10-27 05:01 | 新 AI 项目达到观察门槛；★30 | 35 |
+| [lemonadesaltbagel/veil](https://github.com/lemonadesaltbagel/veil) | Local privacy proxy for AI coding agents. Keep PII and secrets out of LLMs with deterministic pseudonymization. | 10-21 15:47 | 10-27 05:01 | 新 AI 项目达到观察门槛；★32；当前约 +9.9 星/天 | 35 |
 | [MemoAir-labs/Airlink](https://github.com/MemoAir-labs/Airlink) | Open-source live workspace where AI agents work alongside your team in real time: live docs, sheets and slides, a shared browser, a Linux desktop and full-duplex voice. Bring… | 10-20 18:17 | 10-27 05:01 | 新 AI 项目达到观察门槛；★34 | 35 |
-| [CCharlie-xiu/wuch-ai](https://github.com/CCharlie-xiu/wuch-ai) | 说一句，界面在画布上长出来 · | 10-20 16:50 | 10-27 09:29 | 新 AI 项目达到观察门槛；★23 | 35 |
-| [MIC-DKFZ/nninteractive-agent](https://github.com/MIC-DKFZ/nninteractive-agent) | nnInteractive as a tool for AI agents: say what to segment, the agent does the rest \(Claude Code, Codex, any MCP client\) | 10-19 21:59 | 10-26 23:12 | 新 AI 项目达到观察门槛；★40；当前约 +16.1 星/天 | 35 |
+| [CCharlie-xiu/wuch-ai](https://github.com/CCharlie-xiu/wuch-ai) | 说一句，界面在画布上长出来 · | 10-20 16:50 | 10-27 09:29 | 新 AI 项目达到观察门槛；★24；当前约 +4.9 星/天 | 35 |
+| [romiluz13/mifal](https://github.com/romiluz13/mifal) | One engineering workflow for Claude Code, Codex, Droid, Pi and OpenCode, with a validator that refuses a record without its evidence. Alpha, macOS. | 10-20 03:48 | 10-27 14:20 | 新 AI 项目达到观察门槛；★29 | 35 |
+| [MIC-DKFZ/nninteractive-agent](https://github.com/MIC-DKFZ/nninteractive-agent) | nnInteractive as a tool for AI agents: say what to segment, the agent does the rest \(Claude Code, Codex, any MCP client\) | 10-19 21:59 | 10-26 23:12 | 新 AI 项目达到观察门槛；★46；当前约 +29.7 星/天 | 35 |
 | [MagistrateUpgrade/local-ai-model-download-queue-manager](https://github.com/MagistrateUpgrade/local-ai-model-download-queue-manager) | Windows utility focused on model download manager, resumable downloads, and local model queue for local AI workflows. | 10-19 20:43 | 10-27 09:29 | 新 AI 项目达到观察门槛；★21 | 35 |
 | [bpawnzZ/lemonwrench](https://github.com/bpawnzZ/lemonwrench) | A skill for AI coding Agents; Free OEM service manuals -&gt; procedure, torque table, labelled figures. 69 makes, 1960-2025. Agent skill + stdlib navigator. | 10-19 11:37 | 10-27 09:29 | 新 AI 项目达到观察门槛；★21 | 35 |
-| [Binaryify/MyGit](https://github.com/Binaryify/MyGit) | Check your agent's changes, fast. A light, native git client for macOS, Windows and Linux, built with MyGo. | 10-18 18:58 | 10-27 09:29 | 新 AI 项目达到观察门槛；★29 | 35 |
-| [cccat6/iphone-agent-harness](https://github.com/cccat6/iphone-agent-harness) | Automate your real iPhone from Safari with a $2 ESP32. No Mac, no APP, and no jailbreak. Local conversations, your choice of AI, and community skills. | 10-18 00:57 | 10-26 14:18 | 新 AI 项目达到观察门槛；★29 | 35 |
-| [teraus111/web3-agent-kit-solana-trading](https://github.com/teraus111/web3-agent-kit-solana-trading) | Build autonomous AI agents that interact with blockchains — in minutes, not months. | 10-14 03:59 | 10-27 09:29 | 新 AI 项目达到观察门槛；★44 | 35 |
+| [Binaryify/MyGit](https://github.com/Binaryify/MyGit) | Check your agent's changes, fast. A light, native git client for macOS, Windows and Linux, built with MyGo. | 10-18 18:58 | 10-27 09:29 | 新 AI 项目达到观察门槛；★30；当前约 +4.9 星/天 | 35 |
 | [cjxxx222/echo-interview](https://github.com/cjxxx222/echo-interview) | AI 模拟面试官：每条扣分都强制引用你回答的逐字原文（机器校验，编造引用会被重试/丢弃），四维度加权由确定性代码计算而非模型现编，评分体系设计为可经真人盲评校准 · FastAPI + Vue3 + LangGraph | 10-13 22:15 | 10-27 09:29 | 新 AI 项目达到观察门槛；★21 | 35 |
 
 ## 发布消息与相关动态
@@ -82,64 +80,64 @@
 
 | 名称 / 原始链接 | 项目简介 / 主要用途 | 发布时间 | 首次发现 | 为什么值得看 | 规则分 |
 |---|---|---|---|---|---|
+| [Unlimited OCR 2](https://huggingface.co/baidu/Unlimited-OCR-2) | 图文输入、文本输出模型，可根据图片和文字生成回答。 | 10-26 11:57 | 10-27 14:20 | 进入 HF 热门榜 \#99 | 50 |
 | [MOSS Image Edit HQ](https://huggingface.co/akhaliq/MOSS-Image-Edit-HQ) | akhaliq 发布的模型仓库；作者暂未标注具体任务类型。 | 10-23 04:39 | 10-26 23:12 | 进入 HF 热门榜 \#97；进入 HF 热门榜 \#95；进入 HF 热门榜 \#91 | 50 |
-| [WeVisOne VL](https://huggingface.co/tencent/WeVisOne-VL-4B) | 图文输入、文本输出模型，可根据图片和文字生成回答。 | 10-22 17:48 | 10-27 09:29 | 进入 HF 热门榜 \#98 | 50 |
-| [Ling 3.0 flash Sante](https://huggingface.co/inclusionAI/Ling-3.0-flash-Sante) | 文本生成模型，用于生成文字、续写或对话。 | 10-20 01:30 | 10-26 14:18 | 进入 HF 热门榜 \#96；进入 HF 热门榜 \#95；进入 HF 热门榜 \#93 | 50 |
+| [WeVisOne VL](https://huggingface.co/tencent/WeVisOne-VL-4B) | 图文输入、文本输出模型，可根据图片和文字生成回答。 | 10-22 17:48 | 10-27 09:29 | 进入 HF 热门榜 \#98；进入 HF 热门榜 \#95 | 50 |
 | [Underdog Bark 3.0](https://huggingface.co/ConwayResearch/Underdog-Bark-3.0) | 语音识别模型，把语音转写为文字。 | 10-15 15:29 | 10-26 23:12 | 进入 HF 热门榜 \#94；进入 HF 热门榜 \#91；进入 HF 热门榜 \#92 | 50 |
 | [Underdog Bark 3.0 Clean](https://huggingface.co/ConwayResearch/Underdog-Bark-3.0-Clean) | 语音识别模型，把语音转写为文字。 | 10-15 14:43 | 10-27 05:01 | 进入 HF 热门榜 \#98；进入 HF 热门榜 \#99 | 50 |
-| [jadezane6634-ops/dsh-purge-flash](https://github.com/jadezane6634-ops/dsh-purge-flash) | DSH稳定高效的破甲插件： 常驻1,597token +零宿主补丁（可与dsh-purge共存）+ 三层技能路由+ 分级 prefill + 拒答自我强化阶梯+ finish\_reason 四路分流 状态查询: /flash light | 10-25 16:59 | 10-26 04:51 | 新 AI 项目达到观察门槛；★174；当前约 +240.2 星/天 | 45 |
-| [NerverDevs/nervecenter](https://github.com/NerverDevs/nervecenter) | new-api / sub2api 中转站账号管理中心：余额、API Key、用量、倍率、模型比价 \| | 10-23 23:07 | 10-25 12:42 | 新 AI 项目达到观察门槛；★59；当前约 +10.7 星/天 | 45 |
-| [Cattmonkey/ChaosIntelligence](https://github.com/Cattmonkey/ChaosIntelligence) | 把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training. | 10-23 21:04 | 10-26 14:18 | 新 AI 项目达到观察门槛；★200；当前约 +5.4 星/天 | 45 |
+| [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android) | 在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。 | 10-26 13:13 | 10-27 09:29 | 新 AI 项目达到观察门槛；★101；当前约 +321.3 星/天 | 45 |
+| [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI. | 10-24 16:44 | 10-27 09:29 | 新 AI 项目达到观察门槛；★115；当前约 +291.6 星/天 | 45 |
+| [Cattmonkey/ChaosIntelligence](https://github.com/Cattmonkey/ChaosIntelligence) | 把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training. | 10-23 21:04 | 10-26 14:18 | 新 AI 项目达到观察门槛；★200 | 45 |
 | [Hellko63421/rpocket-team-elden-ring](https://github.com/Hellko63421/rpocket-team-elden-ring) | Top Elden Ring Gameplay Enhancement Suite 2026: ESP &amp; No Recoil | 10-23 15:07 | 10-23 21:27 | 新 AI 项目达到观察门槛；★54 | 45 |
 | [Cinderubasp/InterviewCopilot-rpocket-team](https://github.com/Cinderubasp/InterviewCopilot-rpocket-team) | EdTech application designed to bridge the gap between learning and landing your dream job | 10-23 15:07 | 10-23 21:27 | 新 AI 项目达到观察门槛；★54 | 45 |
-| [YOLOW92/pagesift](https://github.com/YOLOW92/pagesift) | High-performance, memory-efficient Rust web crawler &amp; content extraction engine for AI agents and RAG. Adaptive crawling, clean Markdown, structured data, PDF/RSS parsing, browser… | 10-21 01:30 | 10-23 21:27 | 新 AI 项目达到观察门槛；★104；当前约 +37.6 星/天 | 45 |
-| [zickrian/isle](https://github.com/zickrian/isle) | A notch-style island for GNOME with an AI assistant that installs and fixes things, Claude Code and Codex approvals from the notch, music with synced lyrics, notifications, a… | 10-20 20:39 | 10-26 14:18 | 新 AI 项目达到观察门槛；★80；当前约 +53.7 星/天 | 45 |
-| [klarluft/pitupitu](https://github.com/klarluft/pitupitu) | Talk to Claude Code and Codex by voice, from your phone, on any of your machines. The open-source box agent for pitupitu.chat; your agents run in herdr. | 10-17 17:21 | 10-26 15:48 | 新 AI 项目达到观察门槛；★212；当前约 +5.4 星/天 | 45 |
-| [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob) | An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and… | 10-15 06:11 | 10-27 05:01 | 新 AI 项目达到观察门槛；★123；当前约 +526.5 星/天 | 45 |
+| [zickrian/isle](https://github.com/zickrian/isle) | A notch-style island for GNOME with an AI assistant that installs and fixes things, Claude Code and Codex approvals from the notch, music with synced lyrics, notifications, a… | 10-20 20:39 | 10-26 14:18 | 新 AI 项目达到观察门槛；★89；当前约 +44.5 星/天 | 45 |
+| [klarluft/pitupitu](https://github.com/klarluft/pitupitu) | Talk to Claude Code and Codex by voice, from your phone, on any of your machines. The open-source box agent for pitupitu.chat; your agents run in herdr. | 10-17 17:21 | 10-26 15:48 | 新 AI 项目达到观察门槛；★212 | 45 |
+| [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob) | An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and… | 10-15 06:11 | 10-27 05:01 | 新 AI 项目达到观察门槛；★167；当前约 +217.5 星/天 | 45 |
+| [teraus111/web3-agent-kit-solana-trading](https://github.com/teraus111/web3-agent-kit-solana-trading) | Build autonomous AI agents that interact with blockchains — in minutes, not months. | 10-14 03:59 | 10-27 09:29 | 新 AI 项目达到观察门槛；★72；当前约 +138.4 星/天 | 45 |
 
 ## 采集状态
 
 | 来源 | 状态 | 最近成功 | 检查 / 新增 |
 |---|---|---|---|
-| discover:topic:ai-agents | 正常 | 10-27 09:29 | 100 / 2 |
-| discover:topic:artificial-intelligence | 正常 | 10-27 09:29 | 8 / 0 |
-| discover:topic:llm | 正常 | 10-27 09:29 | 100 / 10 |
-| feed:Google AI | 正常 | 10-27 09:29 | 20 / 0 |
-| feed:Hugging Face | 正常 | 10-27 09:29 | 80 / 0 |
-| feed:OpenAI | 正常 | 10-27 09:29 | 80 / 3 |
-| feed:Simon Willison | 正常 | 10-27 09:29 | 13 / 1 |
-| hf:Lightricks | 正常 | 10-27 09:29 | 50 / 0 |
-| hf:MiniMaxAI | 正常 | 10-27 09:29 | 22 / 0 |
-| hf:Qwen | 正常 | 10-27 09:29 | 50 / 0 |
-| hf:Wan-AI | 正常 | 10-27 09:29 | 27 / 0 |
-| hf:black-forest-labs | 正常 | 10-27 09:29 | 42 / 0 |
-| hf:deepseek-ai | 正常 | 10-27 09:29 | 50 / 0 |
-| hf:google | 正常 | 10-27 09:29 | 50 / 0 |
-| hf:meta-llama | 正常 | 10-27 09:29 | 50 / 0 |
-| hf:mistralai | 正常 | 10-27 09:29 | 50 / 0 |
-| hf:moonshotai | 正常 | 10-27 09:29 | 19 / 0 |
-| hf:nvidia | 正常 | 10-27 09:29 | 50 / 0 |
-| hf:trending | 正常 | 10-27 09:29 | 100 / 1 |
-| hf:zai-org | 正常 | 10-27 09:29 | 50 / 0 |
-| org:MiniMax-AI | 正常 | 10-27 09:29 | 36 / 0 |
-| org:QwenLM | 正常 | 10-27 09:29 | 58 / 0 |
-| org:THUDM | 正常 | 10-27 09:29 | 97 / 0 |
-| org:anthropics | 正常 | 10-27 09:29 | 70 / 0 |
-| org:deepseek-ai | 正常 | 10-27 09:29 | 45 / 0 |
-| org:google-deepmind | 正常 | 10-27 09:29 | 88 / 0 |
-| org:huggingface | 正常 | 10-27 09:29 | 88 / 0 |
-| org:langchain-ai | 正常 | 10-27 09:29 | 79 / 0 |
-| org:mistralai | 正常 | 10-27 09:29 | 16 / 0 |
-| org:moonshotai | 正常 | 10-27 09:29 | 41 / 0 |
-| org:openai | 正常 | 10-27 09:29 | 97 / 0 |
-| release:Comfy-Org/ComfyUI | 正常 | 10-27 09:29 | 10 / 0 |
-| release:anthropics/claude-code | 正常 | 10-27 09:29 | 10 / 1 |
-| release:browser-use/browser-use | 正常 | 10-27 09:29 | 10 / 1 |
-| release:ggml-org/llama.cpp | 正常 | 10-27 09:29 | 10 / 3 |
-| release:huggingface/transformers | 正常 | 10-27 09:29 | 10 / 0 |
-| release:langchain-ai/langgraph | 正常 | 10-27 09:29 | 10 / 0 |
-| release:ollama/ollama | 正常 | 10-27 09:29 | 10 / 1 |
-| release:openai/codex | 正常 | 10-27 09:29 | 10 / 2 |
-| release:pydantic/pydantic-ai | 正常 | 10-27 09:29 | 10 / 0 |
+| discover:topic:ai-agents | 正常 | 10-27 14:20 | 100 / 2 |
+| discover:topic:artificial-intelligence | 正常 | 10-27 14:20 | 8 / 0 |
+| discover:topic:llm | 正常 | 10-27 14:20 | 100 / 0 |
+| feed:Google AI | 正常 | 10-27 14:20 | 20 / 0 |
+| feed:Hugging Face | 正常 | 10-27 14:20 | 80 / 0 |
+| feed:OpenAI | 正常 | 10-27 14:20 | 80 / 0 |
+| feed:Simon Willison | 正常 | 10-27 14:20 | 13 / 0 |
+| hf:Lightricks | 正常 | 10-27 14:20 | 50 / 0 |
+| hf:MiniMaxAI | 正常 | 10-27 14:20 | 22 / 0 |
+| hf:Qwen | 正常 | 10-27 14:20 | 50 / 0 |
+| hf:Wan-AI | 正常 | 10-27 14:20 | 27 / 0 |
+| hf:black-forest-labs | 正常 | 10-27 14:20 | 42 / 0 |
+| hf:deepseek-ai | 正常 | 10-27 14:20 | 50 / 0 |
+| hf:google | 正常 | 10-27 14:20 | 50 / 0 |
+| hf:meta-llama | 正常 | 10-27 14:20 | 50 / 0 |
+| hf:mistralai | 正常 | 10-27 14:20 | 50 / 0 |
+| hf:moonshotai | 正常 | 10-27 14:20 | 19 / 0 |
+| hf:nvidia | 正常 | 10-27 14:20 | 50 / 0 |
+| hf:trending | 正常 | 10-27 14:20 | 100 / 1 |
+| hf:zai-org | 正常 | 10-27 14:20 | 50 / 0 |
+| org:MiniMax-AI | 正常 | 10-27 14:20 | 36 / 0 |
+| org:QwenLM | 正常 | 10-27 14:20 | 58 / 0 |
+| org:THUDM | 正常 | 10-27 14:20 | 97 / 0 |
+| org:anthropics | 正常 | 10-27 14:20 | 70 / 0 |
+| org:deepseek-ai | 正常 | 10-27 14:20 | 45 / 0 |
+| org:google-deepmind | 正常 | 10-27 14:20 | 88 / 0 |
+| org:huggingface | 正常 | 10-27 14:20 | 88 / 0 |
+| org:langchain-ai | 正常 | 10-27 14:20 | 79 / 0 |
+| org:mistralai | 正常 | 10-27 14:20 | 16 / 0 |
+| org:moonshotai | 正常 | 10-27 14:20 | 41 / 0 |
+| org:openai | 正常 | 10-27 14:20 | 97 / 0 |
+| release:Comfy-Org/ComfyUI | 正常 | 10-27 14:20 | 10 / 1 |
+| release:anthropics/claude-code | 正常 | 10-27 14:20 | 10 / 0 |
+| release:browser-use/browser-use | 正常 | 10-27 14:20 | 10 / 0 |
+| release:ggml-org/llama.cpp | 正常 | 10-27 14:20 | 10 / 0 |
+| release:huggingface/transformers | 正常 | 10-27 14:20 | 10 / 0 |
+| release:langchain-ai/langgraph | 正常 | 10-27 14:20 | 10 / 0 |
+| release:ollama/ollama | 正常 | 10-27 14:20 | 10 / 0 |
+| release:openai/codex | 正常 | 10-27 14:20 | 10 / 2 |
+| release:pydantic/pydantic-ai | 正常 | 10-27 14:20 | 10 / 1 |
 
 数据仅来自公开发布、公开仓库和公开模型。没有接入私人网站、Search Console、广告账号或邮件地址。
