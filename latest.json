@@ -1,16 +1,16 @@
 {
   "events": [
     {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "id": "release:ggml-org/llama.cpp:b12383",
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "id": "release:ggml-org/llama.cpp:b12387",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": true,
-      "published": "2026-11-14T14:43:25+00:00",
+      "published": "2026-11-14T19:26:34+00:00",
       "reason": "项目发布新版本（预发布）",
       "reasons": [
         "项目发布新版本（预发布）",
-        "另有 22 次版本更新已合并"
+        "另有 20 次版本更新已合并"
       ],
       "score": 65,
       "source": "GitHub Releases",
@@ -18,14 +18,14 @@
         "release:ggml-org/llama.cpp"
       ],
       "summary": "LLM inference in C/C++",
-      "title": "ggml-org/llama.cpp · b12383",
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12383"
+      "title": "ggml-org/llama.cpp · b12387",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12387"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
       "id": "release:browser-use/browser-use:1.0.5",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": true,
       "published": "2026-11-14T08:24:22+00:00",
       "reason": "项目发布新版本",
@@ -46,7 +46,7 @@
       "first_seen": "2026-11-14T06:23:58+00:00",
       "id": "release:langchain-ai/langgraph:1.2.22",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": true,
       "published": "2026-11-14T01:43:55+00:00",
       "reason": "项目发布新版本",
@@ -67,7 +67,7 @@
       "first_seen": "2026-11-14T06:23:58+00:00",
       "id": "release:openai/codex:rust-v0.171.0-alpha.5",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": true,
       "published": "2026-11-14T01:20:37+00:00",
       "reason": "项目发布新版本（预发布）",
@@ -88,7 +88,7 @@
       "first_seen": "2026-11-13T23:35:04+00:00",
       "id": "release:anthropics/claude-code:v2.1.325",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": true,
       "published": "2026-11-13T20:40:01+00:00",
       "reason": "项目发布新版本",
@@ -105,51 +105,10 @@
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325"
     },
     {
-      "first_seen": "2026-11-13T17:45:47+00:00",
-      "id": "feed:https://openai.com/index/introducing-chatgpt-wallet",
-      "kind": "news",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": true,
-      "published": "2026-11-13T15:00:00+00:00",
-      "reason": "发布消息",
-      "reasons": [
-        "发布消息"
-      ],
-      "release": true,
-      "score": 65,
-      "source": "OpenAI",
-      "sources": [
-        "feed:OpenAI"
-      ],
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet"
-    },
-    {
-      "first_seen": "2026-11-13T17:45:47+00:00",
-      "id": "release:huggingface/transformers:v5.23.0",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": true,
-      "published": "2026-11-13T14:10:57+00:00",
-      "reason": "项目发布新版本",
-      "reasons": [
-        "项目发布新版本"
-      ],
-      "score": 65,
-      "source": "GitHub Releases",
-      "sources": [
-        "release:huggingface/transformers"
-      ],
-      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "title": "huggingface/transformers · v5.23.0",
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.23.0"
-    },
-    {
       "first_seen": "2026-11-13T23:35:04+00:00",
       "id": "feed:https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "kind": "news",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": true,
       "published": "2026-11-13T18:00:39+00:00",
       "reason": "AI 相关动态",
@@ -167,52 +126,10 @@
       "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
     },
     {
-      "first_seen": "2026-11-13T17:45:47+00:00",
-      "id": "feed:https://huggingface.co/blog/allenai/xybench",
-      "kind": "news",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": true,
-      "published": "2026-11-13T17:02:35+00:00",
-      "reason": "AI 相关动态",
-      "reasons": [
-        "AI 相关动态"
-      ],
-      "release": false,
-      "score": 55,
-      "source": "Hugging Face",
-      "sources": [
-        "feed:Hugging Face"
-      ],
-      "summary": "",
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench"
-    },
-    {
-      "first_seen": "2026-11-13T17:45:47+00:00",
-      "id": "feed:https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "kind": "news",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": true,
-      "published": "2026-11-13T14:05:22+00:00",
-      "reason": "AI 相关动态",
-      "reasons": [
-        "AI 相关动态"
-      ],
-      "release": false,
-      "score": 55,
-      "source": "Hugging Face",
-      "sources": [
-        "feed:Hugging Face"
-      ],
-      "summary": "",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
-    },
-    {
       "first_seen": "2026-11-14T06:23:58+00:00",
       "id": "feed:https://openai.com/business/customer-stories/shield",
       "kind": "news",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": true,
       "published": "2026-11-13T08:00:00+00:00",
       "reason": "AI 相关动态",
@@ -235,17 +152,18 @@
       "hot_since": "2026-11-13T23:35:04+00:00",
       "id": "hf:edge0/edge0",
       "kind": "model",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "likes": 64,
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "likes": 66,
       "official": false,
       "published": "2026-11-11T05:23:10+00:00",
-      "rank": 79,
+      "rank": 78,
       "reason": "进入 HF 热门榜 #93",
       "reasons": [
         "进入 HF 热门榜 #93",
         "进入 HF 热门榜 #87",
         "进入 HF 热门榜 #86",
-        "进入 HF 热门榜 #79"
+        "进入 HF 热门榜 #79",
+        "进入 HF 热门榜 #78"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -257,63 +175,405 @@
       "url": "https://huggingface.co/Edge0/Edge0-145B-q3k"
     },
     {
-      "first_seen": "2026-11-13T17:45:47+00:00",
+      "first_seen": "2026-11-14T20:43:47+00:00",
       "hot": true,
-      "hot_since": "2026-11-13T17:45:47+00:00",
-      "id": "hf:mossloras/moss image archive",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "hf:nvidia/alpamayo2 edge",
       "kind": "model",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "likes": 47,
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "likes": 54,
       "official": false,
-      "published": "2026-11-05T23:52:44+00:00",
-      "rank": 96,
-      "reason": "进入 HF 热门榜 #100",
+      "published": "2026-08-12T01:31:29+00:00",
+      "rank": 98,
+      "reason": "进入 HF 热门榜 #98",
       "reasons": [
-        "进入 HF 热门榜 #100",
-        "进入 HF 热门榜 #96"
+        "进入 HF 热门榜 #98"
       ],
       "score": 50,
       "source": "HF 热门榜",
       "sources": [
         "hf:trending"
       ],
-      "summary": "mossloras 发布的模型仓库；作者暂未标注具体任务类型。",
-      "title": "moss image archive",
-      "url": "https://huggingface.co/mossloras/moss-image-lora-archive"
+      "summary": "模型仓库，作者标注的任务类型为 robotics。",
+      "title": "Alpamayo2 Edge",
+      "url": "https://huggingface.co/nvidia/Alpamayo2-Edge"
     },
     {
-      "first_seen": "2026-11-13T17:45:47+00:00",
+      "first_seen": "2026-11-14T20:43:47+00:00",
       "hot": true,
-      "hot_since": "2026-11-13T17:45:47+00:00",
-      "id": "hf:mickshf/qwen image 2.1 anime fusal",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "hf:black-forest-labs/flux.1 schnell",
       "kind": "model",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "likes": 166,
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "likes": 6755,
       "official": false,
-      "published": "2026-10-09T08:13:54+00:00",
-      "rank": 84,
-      "reason": "进入 HF 热门榜 #93",
+      "published": "2024-07-31T19:58:05+00:00",
+      "rank": 99,
+      "reason": "进入 HF 热门榜 #99",
       "reasons": [
-        "进入 HF 热门榜 #93",
-        "进入 HF 热门榜 #92",
-        "进入 HF 热门榜 #85",
-        "进入 HF 热门榜 #84"
+        "进入 HF 热门榜 #99"
       ],
       "score": 50,
       "source": "HF 热门榜",
       "sources": [
         "hf:trending"
       ],
-      "summary": "图像转换模型，以已有图片为输入生成或修改图片。",
-      "title": "Qwen Image 2.1 Anime Fusal",
-      "url": "https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal"
+      "summary": "文生图模型，根据文字描述生成图片。",
+      "title": "FLUX.1 schnell",
+      "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:violetkomodolimit/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:25:22+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 652,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "violetkomodolimit/ai--manus2.0",
+      "url": "https://github.com/violetkomodolimit/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:tornadonovicewhirl40/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:25:17+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 660,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "tornadonovicewhirl40/ai--manus2.0",
+      "url": "https://github.com/tornadonovicewhirl40/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:trackersnailgrip/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:25:17+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 655,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "trackersnailgrip/ai--manus2.0",
+      "url": "https://github.com/trackersnailgrip/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:ultimateakiln/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:25:17+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 655,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "Ultimateakiln/ai--manus2.0",
+      "url": "https://github.com/Ultimateakiln/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:trapbladesmith/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:25:17+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 654,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "TrapBladesmith/ai--manus2.0",
+      "url": "https://github.com/TrapBladesmith/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:tremorrattackle/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:25:17+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 653,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "TremorRatTackle/ai--manus2.0",
+      "url": "https://github.com/TremorRatTackle/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:taboospecialistblade/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:25:17+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 652,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "taboospecialistblade/ai--manus2.0",
+      "url": "https://github.com/taboospecialistblade/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:trackboatwrightplan/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:25:16+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 650,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "trackboatwrightplan/ai--manus2.0",
+      "url": "https://github.com/trackboatwrightplan/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:torusdrasocket/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:25:15+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 654,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "Torusdrasocket/ai--manus2.0",
+      "url": "https://github.com/Torusdrasocket/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:tonephorepair/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:25:15+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 651,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "Tonephorepair/ai--manus2.0",
+      "url": "https://github.com/Tonephorepair/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:toppatronweave/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:15:25+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 666,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "toppatronweave/ai--manus2.0",
+      "url": "https://github.com/toppatronweave/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:titanshieldravine/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:15:25+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 660,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "TitanShieldRavine/ai--manus2.0",
+      "url": "https://github.com/TitanShieldRavine/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:topkiflare74/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:15:24+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 678,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "Topkiflare74/ai--manus2.0",
+      "url": "https://github.com/Topkiflare74/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:topapothecarycanal/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:15:24+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 667,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "topapothecarycanal/ai--manus2.0",
+      "url": "https://github.com/topapothecarycanal/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-14T20:43:47+00:00",
+      "hot_since": "2026-11-14T20:43:47+00:00",
+      "id": "gh:topconstableinlet67/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-14T20:43:47+00:00",
+      "official": false,
+      "published": "2026-11-14T19:15:24+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 664,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "topconstableinlet67/ai--manus2.0",
+      "url": "https://github.com/topconstableinlet67/ai--manus2.0"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 0.0,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:igniaemage/deadline-resp-tracker-ai",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-14T11:31:43+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -557,10 +817,11 @@
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 110.7,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:championegret/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:49:12+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -573,7 +834,7 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 262,
+      "stars": 288,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "ChampionEgret/ai--manus",
       "url": "https://github.com/ChampionEgret/ai--manus"
@@ -603,10 +864,11 @@
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 110.7,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:chainderrick/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:49:10+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -619,7 +881,7 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 262,
+      "stars": 288,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "ChainDerrick/ai--manus",
       "url": "https://github.com/ChainDerrick/ai--manus"
@@ -649,10 +911,11 @@
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 110.7,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:celestialassembly/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:48:54+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -665,7 +928,7 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 262,
+      "stars": 288,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "CelestialAssembly/ai--manus",
       "url": "https://github.com/CelestialAssembly/ai--manus"
@@ -695,10 +958,11 @@
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 110.7,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:cementduckcry/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:48:53+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -711,17 +975,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 262,
+      "stars": 288,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "cementduckcry/ai--manus",
       "url": "https://github.com/cementduckcry/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 110.7,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:cascadepidetach/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:48:45+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -734,17 +999,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 263,
+      "stars": 289,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "Cascadepidetach/ai--manus",
       "url": "https://github.com/Cascadepidetach/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 110.7,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:ceilingbuffalopray64/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:48:45+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -757,17 +1023,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 263,
+      "stars": 289,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "CeilingBuffaloPray64/ai--manus",
       "url": "https://github.com/CeilingBuffaloPray64/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 110.7,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:caretakerrhythm/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:48:42+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -780,17 +1047,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 263,
+      "stars": 289,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "CaretakerRhythm/ai--manus",
       "url": "https://github.com/CaretakerRhythm/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 110.7,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:calmsagetrolley/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:48:39+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -803,17 +1071,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 263,
+      "stars": 289,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "CalmSageTrolley/ai--manus",
       "url": "https://github.com/CalmSageTrolley/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 110.7,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:buntingbreed/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:48:32+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -826,17 +1095,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 264,
+      "stars": 290,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "BuntingBreed/ai--manus",
       "url": "https://github.com/BuntingBreed/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 114.9,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:brinkmousecastle/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:48:23+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -849,17 +1119,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 264,
+      "stars": 291,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "BrinkMouseCastle/ai--manus",
       "url": "https://github.com/BrinkMouseCastle/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 110.7,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:bridgeshuconform/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:48:14+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -872,17 +1143,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 264,
+      "stars": 290,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "Bridgeshuconform/ai--manus",
       "url": "https://github.com/Bridgeshuconform/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 114.9,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:breezesamuraiplay/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:47:59+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -895,17 +1167,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 265,
+      "stars": 292,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "BreezeSamuraiPlay/ai--manus",
       "url": "https://github.com/BreezeSamuraiPlay/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 114.9,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:breezefutrap/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:47:56+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -918,17 +1191,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 265,
+      "stars": 292,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "Breezefutrap/ai--manus",
       "url": "https://github.com/Breezefutrap/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 114.9,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:breakcartwright/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:47:45+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -941,17 +1215,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 265,
+      "stars": 292,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "BreakCartwright/ai--manus",
       "url": "https://github.com/BreakCartwright/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 114.9,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:bravecrownvalve/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:47:41+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -964,17 +1239,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 266,
+      "stars": 293,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "bravecrownvalve/ai--manus",
       "url": "https://github.com/bravecrownvalve/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 114.9,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:borderorioleprime/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:47:38+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -987,17 +1263,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 265,
+      "stars": 292,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "borderorioleprime/ai--manus",
       "url": "https://github.com/borderorioleprime/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 114.9,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:boltregenerate/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:47:28+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -1010,17 +1287,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 265,
+      "stars": 292,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "BoltRegenerate/ai--manus",
       "url": "https://github.com/BoltRegenerate/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 114.9,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:boldpleinverter/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:47:27+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -1033,17 +1311,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 266,
+      "stars": 293,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "Boldpleinverter/ai--manus",
       "url": "https://github.com/Boldpleinverter/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 119.2,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:boardglacode/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:47:20+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -1056,17 +1335,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 266,
+      "stars": 294,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "Boardglacode/ai--manus",
       "url": "https://github.com/Boardglacode/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 119.2,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:boarddrunail/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:47:19+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -1079,17 +1359,18 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 266,
+      "stars": 294,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "Boarddrunail/ai--manus",
       "url": "https://github.com/Boarddrunail/ai--manus"
     },
     {
       "first_seen": "2026-11-14T15:05:33+00:00",
+      "growth_per_day": 119.2,
       "hot_since": "2026-11-14T15:05:33+00:00",
       "id": "gh:boardblazegrid/ai--manus",
       "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
+      "last_seen": "2026-11-14T20:43:47+00:00",
       "official": false,
       "published": "2026-11-13T16:47:14+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -1102,551 +1383,298 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 266,
+      "stars": 294,
       "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "title": "boardblazegrid/ai--manus",
       "url": "https://github.com/boardblazegrid/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:beigeloencoder/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:47:12+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "Beigeloencoder/ai--manus",
-      "url": "https://github.com/Beigeloencoder/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:blendhokagedestroy/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:47:12+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "blendhokagedestroy/ai--manus",
-      "url": "https://github.com/blendhokagedestroy/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:blendoasheave/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:47:12+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "Blendoasheave/ai--manus",
-      "url": "https://github.com/Blendoasheave/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:bladesmithpanel/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:47:11+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "BladesmithPanel/ai--manus",
-      "url": "https://github.com/BladesmithPanel/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:beigeheadstore/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:47:10+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "BeigeHeadStore/ai--manus",
-      "url": "https://github.com/BeigeHeadStore/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:beigeexecutivefix/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:47:09+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "BeigeExecutiveFix/ai--manus",
-      "url": "https://github.com/BeigeExecutiveFix/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:beachnuconceal/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:47:05+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "Beachnuconceal/ai--manus",
-      "url": "https://github.com/Beachnuconceal/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:beastblazeattract/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:47:04+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "BeastBlazeAttract/ai--manus",
-      "url": "https://github.com/BeastBlazeAttract/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:basingradejudge/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:47:03+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "BasinGradeJudge/ai--manus",
-      "url": "https://github.com/BasinGradeJudge/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:barriercenter/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:46:54+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "BarrierCenter/ai--manus",
-      "url": "https://github.com/BarrierCenter/ai--manus"
-    },
-    {
-      "first_seen": "2026-11-14T15:05:33+00:00",
-      "hot_since": "2026-11-14T15:05:33+00:00",
-      "id": "gh:barricadesenior/ai--manus",
-      "kind": "tool",
-      "last_seen": "2026-11-14T15:05:33+00:00",
-      "official": false,
-      "published": "2026-11-13T16:46:51+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents",
-        "discover:topic:llm"
-      ],
-      "stars": 266,
-      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "title": "BarricadeSenior/ai--manus",
-      "url": "https://github.com/BarricadeSenior/ai--manus"
     }
   ],
-  "generated_at": "2026-11-14T15:05:33+00:00",
-  "last_success": "2026-11-14T15:05:33+00:00",
+  "generated_at": "2026-11-14T20:43:47+00:00",
+  "last_success": "2026-11-14T20:43:47+00:00",
   "paid_api_calls": 0,
   "shown": 60,
   "sources": {
     "discover:topic:ai-agents": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-14T15:05:33+00:00",
-      "new": 84,
+      "last_success": "2026-11-14T20:43:47+00:00",
+      "new": 15,
       "status": "ok"
     },
     "discover:topic:artificial-intelligence": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-14T15:05:33+00:00",
-      "new": 1,
+      "last_success": "2026-11-14T20:43:47+00:00",
+      "new": 0,
       "status": "ok"
     },
     "discover:topic:llm": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-14T15:05:33+00:00",
-      "new": 5,
+      "last_success": "2026-11-14T20:43:47+00:00",
+      "new": 0,
       "status": "ok"
     },
     "feed:Google AI": {
       "bootstrap": false,
       "checked": 20,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "feed:Hugging Face": {
       "bootstrap": false,
       "checked": 80,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "feed:OpenAI": {
       "bootstrap": false,
       "checked": 80,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "feed:Simon Willison": {
       "bootstrap": false,
       "checked": 19,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:Lightricks": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:MiniMaxAI": {
       "bootstrap": false,
       "checked": 24,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:Qwen": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:Wan-AI": {
       "bootstrap": false,
       "checked": 27,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:black-forest-labs": {
       "bootstrap": false,
       "checked": 42,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:deepseek-ai": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:google": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:meta-llama": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:mistralai": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:moonshotai": {
       "bootstrap": false,
       "checked": 20,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:nvidia": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:trending": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-14T15:05:33+00:00",
-      "new": 0,
+      "last_success": "2026-11-14T20:43:47+00:00",
+      "new": 2,
       "status": "ok"
     },
     "hf:zai-org": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:MiniMax-AI": {
       "bootstrap": false,
       "checked": 39,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:QwenLM": {
       "bootstrap": false,
       "checked": 58,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:THUDM": {
       "bootstrap": false,
       "checked": 97,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:anthropics": {
       "bootstrap": false,
       "checked": 71,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:deepseek-ai": {
       "bootstrap": false,
       "checked": 47,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:google-deepmind": {
       "bootstrap": false,
       "checked": 87,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:huggingface": {
       "bootstrap": false,
       "checked": 87,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:langchain-ai": {
       "bootstrap": false,
       "checked": 78,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:mistralai": {
       "bootstrap": false,
       "checked": 15,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:moonshotai": {
       "bootstrap": false,
       "checked": 42,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:openai": {
       "bootstrap": false,
       "checked": 97,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:Comfy-Org/ComfyUI": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:anthropics/claude-code": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:browser-use/browser-use": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-14T15:05:33+00:00",
-      "new": 1,
+      "last_success": "2026-11-14T20:43:47+00:00",
+      "new": 0,
       "status": "ok"
     },
     "release:ggml-org/llama.cpp": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-14T15:05:33+00:00",
-      "new": 7,
+      "last_success": "2026-11-14T20:43:47+00:00",
+      "new": 3,
       "status": "ok"
     },
     "release:huggingface/transformers": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:langchain-ai/langgraph": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:ollama/ollama": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:openai/codex": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:pydantic/pydantic-ai": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-14T15:05:33+00:00",
+      "last_success": "2026-11-14T20:43:47+00:00",
       "new": 0,
       "status": "ok"
     }
   },
   "timezone": "Asia/Shanghai",
-  "total": 192
+  "total": 122
 }
