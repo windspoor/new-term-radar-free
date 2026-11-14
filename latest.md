@@ -1,8 +1,8 @@
 # 新模型与新工具日报 · 2026-11-14
 
-生成时间：2026-11-14 14:23（北京时间） · 最近成功采集：11-14 14:23
+生成时间：2026-11-14 15:38（北京时间） · 最近成功采集：11-14 15:38
 
-过去 24 小时发现或开始升温 **113** 条，展示 60 条。付费 API 调用：**0**。
+过去 24 小时发现或开始升温 **114** 条，展示 60 条。付费 API 调用：**0**。
 
 首次运行会补录近 48 小时的公开发布与近两周达到观察门槛的项目；首次发现时间不等于发布时间。
 
@@ -13,7 +13,7 @@
 | 名称 / 原始链接 | 项目简介 / 主要用途 | 发布时间 | 首次发现 | 为什么值得看 | 规则分 |
 |---|---|---|---|---|---|
 | [Haru](https://huggingface.co/higurashi-ai/Haru-4B) | 模型仓库，作者标注的任务类型为 audio-to-audio。 | 11-12 19:05 | 11-13 16:03 | 进入 HF 热门榜 \#90；进入 HF 热门榜 \#72；进入 HF 热门榜 \#55 | 50 |
-| [Edge0](https://huggingface.co/Edge0/Edge0-145B-q3k) | 文本生成模型，用于生成文字、续写或对话。 | 11-11 13:23 | 11-14 07:35 | 进入 HF 热门榜 \#93；进入 HF 热门榜 \#87 | 50 |
+| [Edge0](https://huggingface.co/Edge0/Edge0-145B-q3k) | 文本生成模型，用于生成文字、续写或对话。 | 11-11 13:23 | 11-14 07:35 | 进入 HF 热门榜 \#93；进入 HF 热门榜 \#87；进入 HF 热门榜 \#86 | 50 |
 | [Edge0 NVFP4](https://huggingface.co/Edge0/Edge0-145B-NVFP4) | 文本生成模型，用于生成文字、续写或对话。 | 11-11 13:22 | 11-13 16:03 | 进入 HF 热门榜 \#61；进入 HF 热门榜 \#58；进入 HF 热门榜 \#48 | 50 |
 | [MiniMax H3 Image](https://huggingface.co/Abiray/MiniMax-H3-Image-GGUF) | 文生图模型，根据文字描述生成图片。 | 11-11 00:07 | 11-13 16:03 | 进入 HF 热门榜 \#84；进入 HF 热门榜 \#82；进入 HF 热门榜 \#61 | 50 |
 | [moss image archive](https://huggingface.co/mossloras/moss-image-lora-archive) | mossloras 发布的模型仓库；作者暂未标注具体任务类型。 | 11-06 07:52 | 11-14 01:45 | 进入 HF 热门榜 \#100 | 50 |
@@ -88,7 +88,7 @@
 | 名称 / 原始链接 | 项目简介 / 主要用途 | 发布时间 | 首次发现 | 为什么值得看 | 规则分 |
 |---|---|---|---|---|---|
 | [Haru](https://huggingface.co/higurashi-ai/Haru-4B) | 模型仓库，作者标注的任务类型为 audio-to-audio。 | 11-12 19:05 | 11-13 16:03 | 进入 HF 热门榜 \#90；进入 HF 热门榜 \#72；进入 HF 热门榜 \#55 | 50 |
-| [Edge0](https://huggingface.co/Edge0/Edge0-145B-q3k) | 文本生成模型，用于生成文字、续写或对话。 | 11-11 13:23 | 11-14 07:35 | 进入 HF 热门榜 \#93；进入 HF 热门榜 \#87 | 50 |
+| [Edge0](https://huggingface.co/Edge0/Edge0-145B-q3k) | 文本生成模型，用于生成文字、续写或对话。 | 11-11 13:23 | 11-14 07:35 | 进入 HF 热门榜 \#93；进入 HF 热门榜 \#87；进入 HF 热门榜 \#86 | 50 |
 | [Edge0 NVFP4](https://huggingface.co/Edge0/Edge0-145B-NVFP4) | 文本生成模型，用于生成文字、续写或对话。 | 11-11 13:22 | 11-13 16:03 | 进入 HF 热门榜 \#61；进入 HF 热门榜 \#58；进入 HF 热门榜 \#48 | 50 |
 | [MiniMax H3 Image](https://huggingface.co/Abiray/MiniMax-H3-Image-GGUF) | 文生图模型，根据文字描述生成图片。 | 11-11 00:07 | 11-13 16:03 | 进入 HF 热门榜 \#84；进入 HF 热门榜 \#82；进入 HF 热门榜 \#61 | 50 |
 | [moss image archive](https://huggingface.co/mossloras/moss-image-lora-archive) | mossloras 发布的模型仓库；作者暂未标注具体任务类型。 | 11-06 07:52 | 11-14 01:45 | 进入 HF 热门榜 \#100 | 50 |
@@ -141,45 +141,45 @@
 
 | 来源 | 状态 | 最近成功 | 检查 / 新增 |
 |---|---|---|---|
-| discover:topic:ai-agents | 正常 | 11-14 14:23 | 100 / 0 |
-| discover:topic:artificial-intelligence | 正常 | 11-14 14:23 | 9 / 1 |
-| discover:topic:llm | 正常 | 11-14 14:23 | 100 / 4 |
-| feed:Google AI | 正常 | 11-14 14:23 | 20 / 0 |
-| feed:Hugging Face | 正常 | 11-14 14:23 | 80 / 0 |
-| feed:OpenAI | 正常 | 11-14 14:23 | 80 / 1 |
-| feed:Simon Willison | 正常 | 11-14 14:23 | 19 / 0 |
-| hf:Lightricks | 正常 | 11-14 14:23 | 50 / 0 |
-| hf:MiniMaxAI | 正常 | 11-14 14:23 | 24 / 0 |
-| hf:Qwen | 正常 | 11-14 14:23 | 50 / 0 |
-| hf:Wan-AI | 正常 | 11-14 14:23 | 27 / 0 |
-| hf:black-forest-labs | 正常 | 11-14 14:23 | 42 / 0 |
-| hf:deepseek-ai | 正常 | 11-14 14:23 | 50 / 0 |
-| hf:google | 正常 | 11-14 14:23 | 50 / 0 |
-| hf:meta-llama | 正常 | 11-14 14:23 | 50 / 0 |
-| hf:mistralai | 正常 | 11-14 14:23 | 50 / 0 |
-| hf:moonshotai | 正常 | 11-14 14:23 | 20 / 0 |
-| hf:nvidia | 正常 | 11-14 14:23 | 50 / 0 |
-| hf:trending | 正常 | 11-14 14:23 | 100 / 0 |
-| hf:zai-org | 正常 | 11-14 14:23 | 50 / 0 |
-| org:MiniMax-AI | 正常 | 11-14 14:23 | 39 / 0 |
-| org:QwenLM | 正常 | 11-14 14:23 | 58 / 0 |
-| org:THUDM | 正常 | 11-14 14:23 | 97 / 0 |
-| org:anthropics | 正常 | 11-14 14:23 | 71 / 0 |
-| org:deepseek-ai | 正常 | 11-14 14:23 | 47 / 0 |
-| org:google-deepmind | 正常 | 11-14 14:23 | 87 / 0 |
-| org:huggingface | 正常 | 11-14 14:23 | 87 / 0 |
-| org:langchain-ai | 正常 | 11-14 14:23 | 78 / 0 |
-| org:mistralai | 正常 | 11-14 14:23 | 15 / 0 |
-| org:moonshotai | 正常 | 11-14 14:23 | 42 / 0 |
-| org:openai | 正常 | 11-14 14:23 | 97 / 0 |
-| release:Comfy-Org/ComfyUI | 正常 | 11-14 14:23 | 10 / 0 |
-| release:anthropics/claude-code | 正常 | 11-14 14:23 | 10 / 0 |
-| release:browser-use/browser-use | 正常 | 11-14 14:23 | 10 / 0 |
-| release:ggml-org/llama.cpp | 正常 | 11-14 14:23 | 10 / 2 |
-| release:huggingface/transformers | 正常 | 11-14 14:23 | 10 / 0 |
-| release:langchain-ai/langgraph | 正常 | 11-14 14:23 | 10 / 4 |
-| release:ollama/ollama | 正常 | 11-14 14:23 | 10 / 0 |
-| release:openai/codex | 正常 | 11-14 14:23 | 10 / 1 |
-| release:pydantic/pydantic-ai | 正常 | 11-14 14:23 | 10 / 0 |
+| discover:topic:ai-agents | 正常 | 11-14 15:38 | 100 / 0 |
+| discover:topic:artificial-intelligence | 正常 | 11-14 15:38 | 9 / 0 |
+| discover:topic:llm | 正常 | 11-14 15:38 | 100 / 1 |
+| feed:Google AI | 正常 | 11-14 15:38 | 20 / 0 |
+| feed:Hugging Face | 正常 | 11-14 15:38 | 80 / 0 |
+| feed:OpenAI | 正常 | 11-14 15:38 | 80 / 0 |
+| feed:Simon Willison | 正常 | 11-14 15:38 | 19 / 0 |
+| hf:Lightricks | 正常 | 11-14 15:38 | 50 / 0 |
+| hf:MiniMaxAI | 正常 | 11-14 15:38 | 24 / 0 |
+| hf:Qwen | 正常 | 11-14 15:38 | 50 / 0 |
+| hf:Wan-AI | 正常 | 11-14 15:38 | 27 / 0 |
+| hf:black-forest-labs | 正常 | 11-14 15:38 | 42 / 0 |
+| hf:deepseek-ai | 正常 | 11-14 15:38 | 50 / 0 |
+| hf:google | 正常 | 11-14 15:38 | 50 / 0 |
+| hf:meta-llama | 正常 | 11-14 15:38 | 50 / 0 |
+| hf:mistralai | 正常 | 11-14 15:38 | 50 / 0 |
+| hf:moonshotai | 正常 | 11-14 15:38 | 20 / 0 |
+| hf:nvidia | 正常 | 11-14 15:38 | 50 / 0 |
+| hf:trending | 正常 | 11-14 15:38 | 100 / 0 |
+| hf:zai-org | 正常 | 11-14 15:38 | 50 / 0 |
+| org:MiniMax-AI | 正常 | 11-14 15:38 | 39 / 0 |
+| org:QwenLM | 正常 | 11-14 15:38 | 58 / 0 |
+| org:THUDM | 正常 | 11-14 15:38 | 97 / 0 |
+| org:anthropics | 正常 | 11-14 15:38 | 71 / 0 |
+| org:deepseek-ai | 正常 | 11-14 15:38 | 47 / 0 |
+| org:google-deepmind | 正常 | 11-14 15:38 | 87 / 0 |
+| org:huggingface | 正常 | 11-14 15:38 | 87 / 0 |
+| org:langchain-ai | 正常 | 11-14 15:38 | 78 / 0 |
+| org:mistralai | 正常 | 11-14 15:38 | 15 / 0 |
+| org:moonshotai | 正常 | 11-14 15:38 | 42 / 0 |
+| org:openai | 正常 | 11-14 15:38 | 97 / 0 |
+| release:Comfy-Org/ComfyUI | 正常 | 11-14 15:38 | 10 / 0 |
+| release:anthropics/claude-code | 正常 | 11-14 15:38 | 10 / 0 |
+| release:browser-use/browser-use | 正常 | 11-14 15:38 | 10 / 0 |
+| release:ggml-org/llama.cpp | 正常 | 11-14 15:38 | 10 / 0 |
+| release:huggingface/transformers | 正常 | 11-14 15:38 | 10 / 0 |
+| release:langchain-ai/langgraph | 正常 | 11-14 15:38 | 10 / 0 |
+| release:ollama/ollama | 正常 | 11-14 15:38 | 10 / 0 |
+| release:openai/codex | 正常 | 11-14 15:38 | 10 / 0 |
+| release:pydantic/pydantic-ai | 正常 | 11-14 15:38 | 10 / 0 |
 
 数据仅来自公开发布、公开仓库和公开模型。没有接入私人网站、Search Console、广告账号或邮件地址。
