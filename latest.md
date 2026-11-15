@@ -1,6 +1,6 @@
 # 新模型与新工具日报 · 2026-11-15
 
-生成时间：2026-11-15 15:54（北京时间） · 最近成功采集：11-15 15:54
+生成时间：2026-11-15 17:27（北京时间） · 最近成功采集：11-15 17:27
 
 过去 24 小时发现或开始升温 **111** 条，展示 60 条。付费 API 调用：**0**。
 
@@ -19,7 +19,7 @@
 
 | 名称 / 原始链接 | 项目简介 / 主要用途 | 发布时间 | 首次发现 | 为什么值得看 | 规则分 |
 |---|---|---|---|---|---|
-| [ggml-org/llama.cpp · b12404](https://github.com/ggml-org/llama.cpp/releases/tag/b12404) | LLM inference in C/C++ | 11-15 15:44 | 11-15 15:54 | 项目发布新版本（预发布）；另有 19 次版本更新已合并 | 65 |
+| [ggml-org/llama.cpp · b12405](https://github.com/ggml-org/llama.cpp/releases/tag/b12405) | LLM inference in C/C++ | 11-15 15:56 | 11-15 17:27 | 项目发布新版本（预发布）；另有 20 次版本更新已合并 | 65 |
 | [browser-use/browser-use · 1.0.5](https://github.com/browser-use/browser-use/releases/tag/1.0.5) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | 11-14 16:24 | 11-14 23:05 | 项目发布新版本 | 65 |
 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) | Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex… | 11-15 05:34 | 11-15 09:56 | 新 AI 项目达到观察门槛；★345 | 45 |
 | [violetkomodolimit/ai--manus2.0](https://github.com/violetkomodolimit/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:25 | 11-15 04:43 | 新 AI 项目达到观察门槛；★651 | 45 |
@@ -34,7 +34,7 @@
 | [Tonephorepair/ai--manus2.0](https://github.com/Tonephorepair/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:25 | 11-15 04:43 | 新 AI 项目达到观察门槛；★650 | 45 |
 | [toppatronweave/ai--manus2.0](https://github.com/toppatronweave/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★665 | 45 |
 | [TitanShieldRavine/ai--manus2.0](https://github.com/TitanShieldRavine/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★659 | 45 |
-| [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★678；当前约 +4 星/天 | 45 |
+| [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★678 | 45 |
 | [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★666 | 45 |
 | [topconstableinlet67/ai--manus2.0](https://github.com/topconstableinlet67/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★663 | 45 |
 | [Igniaemage/Deadline-resp-Tracker-AI](https://github.com/Igniaemage/Deadline-resp-Tracker-AI) | 📅 AI-powered academic deadline assistant that uses Gemini Vision to extract assignments, exams, projects &amp; submission dates from academic documents, with smart deadline Q&amp;A and… | 11-14 19:31 | 11-14 23:05 | 新 AI 项目达到观察门槛；★50 | 45 |
@@ -101,7 +101,7 @@
 | [Tonephorepair/ai--manus2.0](https://github.com/Tonephorepair/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:25 | 11-15 04:43 | 新 AI 项目达到观察门槛；★650 | 45 |
 | [toppatronweave/ai--manus2.0](https://github.com/toppatronweave/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★665 | 45 |
 | [TitanShieldRavine/ai--manus2.0](https://github.com/TitanShieldRavine/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★659 | 45 |
-| [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★678；当前约 +4 星/天 | 45 |
+| [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★678 | 45 |
 | [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★666 | 45 |
 | [topconstableinlet67/ai--manus2.0](https://github.com/topconstableinlet67/ai--manus2.0) | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 11-15 03:15 | 11-15 04:43 | 新 AI 项目达到观察门槛；★663 | 45 |
 | [Igniaemage/Deadline-resp-Tracker-AI](https://github.com/Igniaemage/Deadline-resp-Tracker-AI) | 📅 AI-powered academic deadline assistant that uses Gemini Vision to extract assignments, exams, projects &amp; submission dates from academic documents, with smart deadline Q&amp;A and… | 11-14 19:31 | 11-14 23:05 | 新 AI 项目达到观察门槛；★50 | 45 |
@@ -149,45 +149,45 @@
 
 | 来源 | 状态 | 最近成功 | 检查 / 新增 |
 |---|---|---|---|
-| discover:topic:ai-agents | 正常 | 11-15 15:54 | 100 / 0 |
-| discover:topic:artificial-intelligence | 正常 | 11-15 15:54 | 10 / 0 |
-| discover:topic:llm | 正常 | 11-15 15:54 | 100 / 0 |
-| feed:Google AI | 正常 | 11-15 15:54 | 20 / 0 |
-| feed:Hugging Face | 正常 | 11-15 15:54 | 80 / 0 |
-| feed:OpenAI | 正常 | 11-15 15:54 | 80 / 0 |
-| feed:Simon Willison | 正常 | 11-15 15:54 | 19 / 0 |
-| hf:Lightricks | 正常 | 11-15 15:54 | 50 / 0 |
-| hf:MiniMaxAI | 正常 | 11-15 15:54 | 24 / 0 |
-| hf:Qwen | 正常 | 11-15 15:54 | 50 / 0 |
-| hf:Wan-AI | 正常 | 11-15 15:54 | 27 / 0 |
-| hf:black-forest-labs | 正常 | 11-15 15:54 | 42 / 0 |
-| hf:deepseek-ai | 正常 | 11-15 15:54 | 50 / 0 |
-| hf:google | 正常 | 11-15 15:54 | 50 / 0 |
-| hf:meta-llama | 正常 | 11-15 15:54 | 50 / 0 |
-| hf:mistralai | 正常 | 11-15 15:54 | 50 / 0 |
-| hf:moonshotai | 正常 | 11-15 15:54 | 20 / 0 |
-| hf:nvidia | 正常 | 11-15 15:54 | 50 / 0 |
-| hf:trending | 正常 | 11-15 15:54 | 100 / 0 |
-| hf:zai-org | 正常 | 11-15 15:54 | 50 / 0 |
-| org:MiniMax-AI | 正常 | 11-15 15:54 | 39 / 0 |
-| org:QwenLM | 正常 | 11-15 15:54 | 58 / 0 |
-| org:THUDM | 正常 | 11-15 15:54 | 97 / 0 |
-| org:anthropics | 正常 | 11-15 15:54 | 71 / 0 |
-| org:deepseek-ai | 正常 | 11-15 15:54 | 47 / 0 |
-| org:google-deepmind | 正常 | 11-15 15:54 | 87 / 0 |
-| org:huggingface | 正常 | 11-15 15:54 | 87 / 0 |
-| org:langchain-ai | 正常 | 11-15 15:54 | 78 / 0 |
-| org:mistralai | 正常 | 11-15 15:54 | 15 / 0 |
-| org:moonshotai | 正常 | 11-15 15:54 | 42 / 0 |
-| org:openai | 正常 | 11-15 15:54 | 97 / 0 |
-| release:Comfy-Org/ComfyUI | 正常 | 11-15 15:54 | 10 / 0 |
-| release:anthropics/claude-code | 正常 | 11-15 15:54 | 10 / 0 |
-| release:browser-use/browser-use | 正常 | 11-15 15:54 | 10 / 0 |
-| release:ggml-org/llama.cpp | 正常 | 11-15 15:54 | 10 / 10 |
-| release:huggingface/transformers | 正常 | 11-15 15:54 | 10 / 0 |
-| release:langchain-ai/langgraph | 正常 | 11-15 15:54 | 10 / 0 |
-| release:ollama/ollama | 正常 | 11-15 15:54 | 10 / 0 |
-| release:openai/codex | 正常 | 11-15 15:54 | 10 / 0 |
-| release:pydantic/pydantic-ai | 正常 | 11-15 15:54 | 10 / 0 |
+| discover:topic:ai-agents | 正常 | 11-15 17:27 | 100 / 0 |
+| discover:topic:artificial-intelligence | 正常 | 11-15 17:27 | 10 / 0 |
+| discover:topic:llm | 正常 | 11-15 17:27 | 100 / 0 |
+| feed:Google AI | 正常 | 11-15 17:27 | 20 / 0 |
+| feed:Hugging Face | 正常 | 11-15 17:27 | 80 / 0 |
+| feed:OpenAI | 正常 | 11-15 17:27 | 80 / 0 |
+| feed:Simon Willison | 正常 | 11-15 17:27 | 19 / 0 |
+| hf:Lightricks | 正常 | 11-15 17:27 | 50 / 0 |
+| hf:MiniMaxAI | 正常 | 11-15 17:27 | 24 / 0 |
+| hf:Qwen | 正常 | 11-15 17:27 | 50 / 0 |
+| hf:Wan-AI | 正常 | 11-15 17:27 | 27 / 0 |
+| hf:black-forest-labs | 正常 | 11-15 17:27 | 42 / 0 |
+| hf:deepseek-ai | 正常 | 11-15 17:27 | 50 / 0 |
+| hf:google | 正常 | 11-15 17:27 | 50 / 0 |
+| hf:meta-llama | 正常 | 11-15 17:27 | 50 / 0 |
+| hf:mistralai | 正常 | 11-15 17:27 | 50 / 0 |
+| hf:moonshotai | 正常 | 11-15 17:27 | 20 / 0 |
+| hf:nvidia | 正常 | 11-15 17:27 | 50 / 0 |
+| hf:trending | 正常 | 11-15 17:27 | 100 / 0 |
+| hf:zai-org | 正常 | 11-15 17:27 | 50 / 0 |
+| org:MiniMax-AI | 正常 | 11-15 17:27 | 39 / 0 |
+| org:QwenLM | 正常 | 11-15 17:27 | 58 / 0 |
+| org:THUDM | 正常 | 11-15 17:27 | 97 / 0 |
+| org:anthropics | 正常 | 11-15 17:27 | 71 / 0 |
+| org:deepseek-ai | 正常 | 11-15 17:27 | 47 / 0 |
+| org:google-deepmind | 正常 | 11-15 17:27 | 87 / 0 |
+| org:huggingface | 正常 | 11-15 17:27 | 87 / 0 |
+| org:langchain-ai | 正常 | 11-15 17:27 | 78 / 0 |
+| org:mistralai | 正常 | 11-15 17:27 | 15 / 0 |
+| org:moonshotai | 正常 | 11-15 17:27 | 42 / 0 |
+| org:openai | 正常 | 11-15 17:27 | 97 / 0 |
+| release:Comfy-Org/ComfyUI | 正常 | 11-15 17:27 | 10 / 0 |
+| release:anthropics/claude-code | 正常 | 11-15 17:27 | 10 / 0 |
+| release:browser-use/browser-use | 正常 | 11-15 17:27 | 10 / 0 |
+| release:ggml-org/llama.cpp | 正常 | 11-15 17:27 | 10 / 1 |
+| release:huggingface/transformers | 正常 | 11-15 17:27 | 10 / 0 |
+| release:langchain-ai/langgraph | 正常 | 11-15 17:27 | 10 / 0 |
+| release:ollama/ollama | 正常 | 11-15 17:27 | 10 / 0 |
+| release:openai/codex | 正常 | 11-15 17:27 | 10 / 0 |
+| release:pydantic/pydantic-ai | 正常 | 11-15 17:27 | 10 / 0 |
 
 数据仅来自公开发布、公开仓库和公开模型。没有接入私人网站、Search Console、广告账号或邮件地址。
