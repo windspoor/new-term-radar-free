@@ -1,16 +1,77 @@
 {
   "events": [
     {
-      "first_seen": "2026-11-16T18:33:19+00:00",
-      "id": "release:ggml-org/llama.cpp:b12443",
+      "first_seen": "2026-11-17T02:55:57+00:00",
+      "id": "release:openai/codex:rust-v0.170.0-alpha.4.1",
       "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
-      "published": "2026-11-16T18:04:54+00:00",
+      "published": "2026-11-17T02:19:17+00:00",
       "reason": "项目发布新版本（预发布）",
       "reasons": [
         "项目发布新版本（预发布）",
-        "另有 18 次版本更新已合并"
+        "另有 4 次版本更新已合并"
+      ],
+      "score": 65,
+      "source": "GitHub Releases",
+      "sources": [
+        "release:openai/codex"
+      ],
+      "summary": "Lightweight coding agent that runs in your terminal",
+      "title": "openai/codex · rust-v0.170.0-alpha.4.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4.1"
+    },
+    {
+      "first_seen": "2026-11-17T02:55:57+00:00",
+      "id": "release:pydantic/pydantic-ai:v2.69.0",
+      "kind": "tool",
+      "last_seen": "2026-11-17T02:55:57+00:00",
+      "official": true,
+      "published": "2026-11-17T01:03:25+00:00",
+      "reason": "项目发布新版本",
+      "reasons": [
+        "项目发布新版本"
+      ],
+      "score": 65,
+      "source": "GitHub Releases",
+      "sources": [
+        "release:pydantic/pydantic-ai"
+      ],
+      "summary": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+      "title": "pydantic/pydantic-ai · v2.69.0",
+      "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.69.0"
+    },
+    {
+      "first_seen": "2026-11-17T02:55:57+00:00",
+      "id": "release:anthropics/claude-code:v2.1.326",
+      "kind": "tool",
+      "last_seen": "2026-11-17T02:55:57+00:00",
+      "official": true,
+      "published": "2026-11-16T22:11:05+00:00",
+      "reason": "项目发布新版本",
+      "reasons": [
+        "项目发布新版本"
+      ],
+      "score": 65,
+      "source": "GitHub Releases",
+      "sources": [
+        "release:anthropics/claude-code"
+      ],
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "title": "anthropics/claude-code · v2.1.326",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326"
+    },
+    {
+      "first_seen": "2026-11-17T02:55:57+00:00",
+      "id": "release:ggml-org/llama.cpp:b12445",
+      "kind": "tool",
+      "last_seen": "2026-11-17T02:55:57+00:00",
+      "official": true,
+      "published": "2026-11-16T20:44:41+00:00",
+      "reason": "项目发布新版本（预发布）",
+      "reasons": [
+        "项目发布新版本（预发布）",
+        "另有 13 次版本更新已合并"
       ],
       "score": 65,
       "source": "GitHub Releases",
@@ -18,14 +79,14 @@
         "release:ggml-org/llama.cpp"
       ],
       "summary": "LLM inference in C/C++",
-      "title": "ggml-org/llama.cpp · b12443",
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12443"
+      "title": "ggml-org/llama.cpp · b12445",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12445"
     },
     {
       "first_seen": "2026-11-16T18:33:19+00:00",
       "id": "feed:https://openai.com/index/strengthening-online-child-safety",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T17:00:00+00:00",
       "reason": "发布消息",
@@ -44,30 +105,10 @@
     },
     {
       "first_seen": "2026-11-16T18:33:19+00:00",
-      "id": "release:openai/codex:rust-v0.171.0-alpha.8",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": true,
-      "published": "2026-11-16T16:25:46+00:00",
-      "reason": "项目发布新版本（预发布）",
-      "reasons": [
-        "项目发布新版本（预发布）",
-        "另有 2 次版本更新已合并"
-      ],
-      "score": 65,
-      "source": "GitHub Releases",
-      "sources": [
-        "release:openai/codex"
-      ],
-      "summary": "Lightweight coding agent that runs in your terminal",
-      "title": "openai/codex · rust-v0.171.0-alpha.8",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.8"
-    },
-    {
-      "first_seen": "2026-11-16T18:33:19+00:00",
+      "growth_per_day": 0.0,
       "id": "gh:google-deepmind/efficient_evals",
       "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T14:47:11+00:00",
       "reason": "google-deepmind 创建新仓库",
@@ -88,7 +129,7 @@
       "first_seen": "2026-11-16T18:33:19+00:00",
       "id": "feed:https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T14:00:00+00:00",
       "reason": "发布消息",
@@ -109,7 +150,7 @@
       "first_seen": "2026-11-16T18:33:19+00:00",
       "id": "feed:https://openai.com/index/lvmh-media-division-partnership",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T09:00:00+00:00",
       "reason": "发布消息",
@@ -130,7 +171,7 @@
       "first_seen": "2026-11-16T06:30:46+00:00",
       "id": "release:browser-use/browser-use:1.0.6",
       "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T00:51:24+00:00",
       "reason": "项目发布新版本",
@@ -150,7 +191,7 @@
       "first_seen": "2026-11-16T18:33:19+00:00",
       "id": "feed:https://huggingface.co/blog/openrouter",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T00:00:00+00:00",
       "reason": "发布消息",
@@ -171,7 +212,7 @@
       "first_seen": "2026-11-16T18:33:19+00:00",
       "id": "feed:https://openai.com/index/the-kings-trust-and-openai",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T00:00:00+00:00",
       "reason": "发布消息",
@@ -189,52 +230,10 @@
       "url": "https://openai.com/index/the-kings-trust-and-openai"
     },
     {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "id": "feed:https://openai.com/index/step-toward-defining-the-standard-model",
-      "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": true,
-      "published": "2026-11-15T22:00:01+00:00",
-      "reason": "发布消息",
-      "reasons": [
-        "发布消息"
-      ],
-      "release": true,
-      "score": 65,
-      "source": "OpenAI",
-      "sources": [
-        "feed:OpenAI"
-      ],
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "id": "feed:https://openai.com/index/our-new-blog-for-science",
-      "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": true,
-      "published": "2026-11-15T22:00:00+00:00",
-      "reason": "发布消息",
-      "reasons": [
-        "发布消息"
-      ],
-      "release": true,
-      "score": 65,
-      "source": "OpenAI",
-      "sources": [
-        "feed:OpenAI"
-      ],
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science"
-    },
-    {
       "first_seen": "2026-11-16T18:33:19+00:00",
       "id": "feed:https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T17:00:00+00:00",
       "reason": "AI 相关动态",
@@ -255,7 +254,7 @@
       "first_seen": "2026-11-16T18:33:19+00:00",
       "id": "feed:https://openai.com/index/science-at-the-frontier",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T12:00:00+00:00",
       "reason": "AI 相关动态",
@@ -276,7 +275,7 @@
       "first_seen": "2026-11-16T18:33:19+00:00",
       "id": "feed:https://openai.com/index/our-first-phase-of-embedded-assessments",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T08:00:00+00:00",
       "reason": "AI 相关动态",
@@ -297,7 +296,7 @@
       "first_seen": "2026-11-16T18:33:19+00:00",
       "id": "feed:https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T06:00:00+00:00",
       "reason": "AI 相关动态",
@@ -318,7 +317,7 @@
       "first_seen": "2026-11-16T18:33:19+00:00",
       "id": "feed:https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": true,
       "published": "2026-11-16T06:00:00+00:00",
       "reason": "AI 相关动态",
@@ -336,21 +335,67 @@
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
     },
     {
+      "first_seen": "2026-11-17T02:55:57+00:00",
+      "id": "feed:https://openai.com/business/customer-stories/holiday-extras-dots",
+      "kind": "news",
+      "last_seen": "2026-11-17T02:55:57+00:00",
+      "official": true,
+      "published": "2026-11-16T00:00:00+00:00",
+      "reason": "AI 相关动态",
+      "reasons": [
+        "AI 相关动态"
+      ],
+      "release": false,
+      "score": 55,
+      "source": "OpenAI",
+      "sources": [
+        "feed:OpenAI"
+      ],
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots"
+    },
+    {
+      "first_seen": "2026-11-17T02:55:57+00:00",
+      "hot": true,
+      "hot_since": "2026-11-17T02:55:57+00:00",
+      "id": "hf:internlm/sage s2.1 flash",
+      "kind": "model",
+      "last_seen": "2026-11-17T02:55:57+00:00",
+      "likes": 59,
+      "official": false,
+      "published": "2026-11-15T02:34:59+00:00",
+      "rank": 79,
+      "reason": "进入 HF 热门榜 #79",
+      "reasons": [
+        "进入 HF 热门榜 #79"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "internlm 发布的模型仓库；作者暂未标注具体任务类型。",
+      "title": "Sage S2.1 Flash",
+      "url": "https://huggingface.co/internlm/Sage-S2.1-Flash"
+    },
+    {
       "first_seen": "2026-11-16T06:30:46+00:00",
       "hot": true,
       "hot_since": "2026-11-16T06:30:46+00:00",
       "id": "hf:akhaliq/minimax h3 image character swap",
       "kind": "model",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "likes": 60,
+      "last_seen": "2026-11-17T02:55:57+00:00",
+      "likes": 65,
       "official": false,
       "published": "2026-11-14T09:55:49+00:00",
-      "rank": 80,
+      "rank": 65,
       "reason": "进入 HF 热门榜 #90",
       "reasons": [
         "进入 HF 热门榜 #90",
         "进入 HF 热门榜 #87",
-        "进入 HF 热门榜 #80"
+        "进入 HF 热门榜 #80",
+        "进入 HF 热门榜 #65"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -367,16 +412,17 @@
       "hot_since": "2026-11-16T06:30:46+00:00",
       "id": "hf:vyrekai/minimax h3 image comfyui workflows",
       "kind": "model",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "likes": 59,
+      "last_seen": "2026-11-17T02:55:57+00:00",
+      "likes": 65,
       "official": false,
       "published": "2026-11-14T06:11:15+00:00",
-      "rank": 82,
+      "rank": 72,
       "reason": "进入 HF 热门榜 #100",
       "reasons": [
         "进入 HF 热门榜 #100",
         "进入 HF 热门榜 #93",
-        "进入 HF 热门榜 #82"
+        "进入 HF 热门榜 #82",
+        "进入 HF 热门榜 #72"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -393,14 +439,15 @@
       "hot_since": "2026-11-16T18:33:19+00:00",
       "id": "hf:meituan-longcat/longcat video avatar 1.6",
       "kind": "model",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "likes": 59,
+      "last_seen": "2026-11-17T02:55:57+00:00",
+      "likes": 112,
       "official": false,
       "published": "2026-11-13T02:45:33+00:00",
-      "rank": 79,
+      "rank": 42,
       "reason": "进入 HF 热门榜 #79",
       "reasons": [
-        "进入 HF 热门榜 #79"
+        "进入 HF 热门榜 #79",
+        "进入 HF 热门榜 #42"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -417,14 +464,15 @@
       "hot_since": "2026-11-16T18:33:19+00:00",
       "id": "hf:salesforce-sovereign-intelligence/sov transcribe 1",
       "kind": "model",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "likes": 60,
+      "last_seen": "2026-11-17T02:55:57+00:00",
+      "likes": 61,
       "official": false,
       "published": "2026-11-10T00:53:53+00:00",
-      "rank": 98,
+      "rank": 93,
       "reason": "进入 HF 热门榜 #98",
       "reasons": [
-        "进入 HF 热门榜 #98"
+        "进入 HF 热门榜 #98",
+        "进入 HF 热门榜 #93"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -436,516 +484,55 @@
       "url": "https://huggingface.co/salesforce-sovereign-intelligence/SOV-Transcribe-1"
     },
     {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:yellowlaborermarket/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "first_seen": "2026-11-17T02:55:57+00:00",
+      "hot": true,
+      "hot_since": "2026-11-17T02:55:57+00:00",
+      "id": "hf:fluidvoice-labs/fluid speech pro",
+      "kind": "model",
+      "last_seen": "2026-11-17T02:55:57+00:00",
+      "likes": 49,
       "official": false,
-      "published": "2026-11-15T16:48:18+00:00",
-      "reason": "新 AI 项目达到观察门槛",
+      "published": "2026-10-30T08:20:49+00:00",
+      "rank": 100,
+      "reason": "进入 HF 热门榜 #100",
       "reasons": [
-        "新 AI 项目达到观察门槛"
+        "进入 HF 热门榜 #100"
       ],
-      "score": 45,
-      "source": "GitHub 新项目",
+      "score": 50,
+      "source": "HF 热门榜",
       "sources": [
-        "discover:topic:llm"
+        "hf:trending"
       ],
-      "stars": 474,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "YellowLaborerMarket/Gemini-Config-Checker-",
-      "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-"
+      "summary": "语音识别模型，把语音转写为文字。",
+      "title": "fluid speech pro",
+      "url": "https://huggingface.co/FluidVoice-Labs/fluid-speech-pro"
     },
     {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:wisemeadowlarkspike/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "first_seen": "2026-11-17T02:55:57+00:00",
+      "id": "feed:https://simonwillison.net/2026/Nov/16/llm/",
+      "kind": "news",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": false,
-      "published": "2026-11-15T16:48:18+00:00",
-      "reason": "新 AI 项目达到观察门槛",
+      "published": "2026-11-16T23:57:26+00:00",
+      "reason": "AI 相关动态",
       "reasons": [
-        "新 AI 项目达到观察门槛"
+        "AI 相关动态"
       ],
-      "score": 45,
-      "source": "GitHub 新项目",
+      "release": false,
+      "score": 25,
+      "source": "Simon Willison",
       "sources": [
-        "discover:topic:llm"
+        "feed:Simon Willison"
       ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "wisemeadowlarkspike/Gemini-Config-Checker-",
-      "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:wyrmclimbermanacle/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:48:18+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "WyrmClimberManacle/Gemini-Config-Checker-",
-      "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:wireprovostpucker/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:48:15+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "WireProvostPucker/Gemini-Config-Checker-",
-      "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:windowstaffgate11/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:47:18+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "WindowStaffGate11/Gemini-Config-Checker-",
-      "url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:windgatorrise37/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:47:17+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "WindGatorRise37/Gemini-Config-Checker-",
-      "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:wingdatavacuum/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:47:17+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "WingDataVacuum/Gemini-Config-Checker-",
-      "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:winnerspecialist/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:47:17+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "WinnerSpecialist/Gemini-Config-Checker-",
-      "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:westlocksmithspout/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:47:12+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "WestLocksmithSpout/Gemini-Config-Checker-",
-      "url": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:wharfbouldercolander/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:47:12+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "WharfBoulderColander/Gemini-Config-Checker-",
-      "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:watchlespeed/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:47:11+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "Watchlespeed/Gemini-Config-Checker-",
-      "url": "https://github.com/Watchlespeed/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:weightcashiercupola/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:47:11+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "weightcashiercupola/Gemini-Config-Checker-",
-      "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:weldbladesmithwharf/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:47:11+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "weldbladesmithwharf/Gemini-Config-Checker-",
-      "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:werewolfemuhub/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:47:11+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "WerewolfEmuHub/Gemini-Config-Checker-",
-      "url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:vortexhostfeel/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:46:07+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "VortexHostFeel/Gemini-Config-Checker-",
-      "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:visionbeyondtrack/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:46:05+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "Visionbeyondtrack/Gemini-Config-Checker-",
-      "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:trooperfilter/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:46:04+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "TrooperFilter/Gemini-Config-Checker-",
-      "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:turtlereside/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:46:04+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "TurtleReside/Gemini-Config-Checker-",
-      "url": "https://github.com/TurtleReside/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:typetyrantscheme/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:46:04+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "TypeTyrantScheme/Gemini-Config-Checker-",
-      "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:violetnyudress/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:46:04+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "Violetnyudress/Gemini-Config-Checker-",
-      "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 0.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:visionwormstudio/gemini-config-checker-",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-15T16:46:04+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 473,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "title": "VisionWormStudio/Gemini-Config-Checker-",
-      "url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-"
-    },
-    {
-      "first_seen": "2026-11-15T22:48:38+00:00",
-      "growth_per_day": 16.0,
-      "hot_since": "2026-11-15T22:48:38+00:00",
-      "id": "gh:vaibhav-space/my-ai-coding-workflow",
-      "kind": "tool",
-      "last_seen": "2026-11-16T18:33:19+00:00",
-      "official": false,
-      "published": "2026-11-14T13:34:16+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 45,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:ai-agents"
-      ],
-      "stars": 214,
-      "summary": "Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with AI agents. Agent-agnostic.",
-      "title": "vaibhav-space/my-ai-coding-workflow",
-      "url": "https://github.com/vaibhav-space/my-ai-coding-workflow"
+      "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short versi",
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/"
     },
     {
       "first_seen": "2026-11-16T06:30:46+00:00",
       "id": "feed:https://simonwillison.net/2026/Nov/15/datasette/",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": false,
       "published": "2026-11-15T23:20:27+00:00",
       "reason": "AI 相关动态",
@@ -966,7 +553,7 @@
       "first_seen": "2026-11-16T06:30:46+00:00",
       "id": "feed:https://simonwillison.net/2026/Nov/15/datasette-apps/",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": false,
       "published": "2026-11-15T04:02:45+00:00",
       "reason": "AI 相关动态",
@@ -987,7 +574,7 @@
       "first_seen": "2026-11-16T06:30:46+00:00",
       "id": "feed:https://simonwillison.net/2026/Nov/15/datasette-agent/",
       "kind": "news",
-      "last_seen": "2026-11-16T18:33:19+00:00",
+      "last_seen": "2026-11-17T02:55:57+00:00",
       "official": false,
       "published": "2026-11-15T03:49:47+00:00",
       "reason": "AI 相关动态",
@@ -1005,292 +592,292 @@
       "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/"
     }
   ],
-  "generated_at": "2026-11-16T18:33:19+00:00",
-  "last_success": "2026-11-16T18:33:19+00:00",
+  "generated_at": "2026-11-17T02:55:57+00:00",
+  "last_success": "2026-11-17T02:55:57+00:00",
   "paid_api_calls": 0,
-  "shown": 45,
+  "shown": 27,
   "sources": {
     "discover:topic:ai-agents": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "discover:topic:artificial-intelligence": {
       "bootstrap": false,
-      "checked": 9,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "checked": 7,
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "discover:topic:llm": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "feed:Google AI": {
       "bootstrap": false,
       "checked": 20,
-      "last_success": "2026-11-16T18:33:19+00:00",
-      "new": 1,
+      "last_success": "2026-11-17T02:55:57+00:00",
+      "new": 0,
       "status": "ok"
     },
     "feed:Hugging Face": {
       "bootstrap": false,
       "checked": 80,
-      "last_success": "2026-11-16T18:33:19+00:00",
-      "new": 1,
+      "last_success": "2026-11-17T02:55:57+00:00",
+      "new": 0,
       "status": "ok"
     },
     "feed:OpenAI": {
       "bootstrap": false,
       "checked": 80,
-      "last_success": "2026-11-16T18:33:19+00:00",
-      "new": 8,
+      "last_success": "2026-11-17T02:55:57+00:00",
+      "new": 1,
       "status": "ok"
     },
     "feed:Simon Willison": {
       "bootstrap": false,
       "checked": 18,
-      "last_success": "2026-11-16T18:33:19+00:00",
-      "new": 0,
+      "last_success": "2026-11-17T02:55:57+00:00",
+      "new": 1,
       "status": "ok"
     },
     "hf:Lightricks": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:MiniMaxAI": {
       "bootstrap": false,
       "checked": 24,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:Qwen": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:Wan-AI": {
       "bootstrap": false,
       "checked": 27,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:black-forest-labs": {
       "bootstrap": false,
       "checked": 42,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:deepseek-ai": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:google": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:meta-llama": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:mistralai": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:moonshotai": {
       "bootstrap": false,
       "checked": 20,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:nvidia": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:trending": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 2,
       "status": "ok"
     },
     "hf:zai-org": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:MiniMax-AI": {
       "bootstrap": false,
       "checked": 39,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:QwenLM": {
       "bootstrap": false,
       "checked": 59,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:THUDM": {
       "bootstrap": false,
       "checked": 97,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:anthropics": {
       "bootstrap": false,
       "checked": 72,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:deepseek-ai": {
       "bootstrap": false,
       "checked": 47,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:google-deepmind": {
       "bootstrap": false,
-      "checked": 87,
-      "last_success": "2026-11-16T18:33:19+00:00",
-      "new": 1,
+      "checked": 86,
+      "last_success": "2026-11-17T02:55:57+00:00",
+      "new": 0,
       "status": "ok"
     },
     "org:huggingface": {
       "bootstrap": false,
       "checked": 87,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:langchain-ai": {
       "bootstrap": false,
       "checked": 78,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:mistralai": {
       "bootstrap": false,
       "checked": 15,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:moonshotai": {
       "bootstrap": false,
       "checked": 42,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:openai": {
       "bootstrap": false,
       "checked": 97,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:Comfy-Org/ComfyUI": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:anthropics/claude-code": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-16T18:33:19+00:00",
-      "new": 0,
+      "last_success": "2026-11-17T02:55:57+00:00",
+      "new": 1,
       "status": "ok"
     },
     "release:browser-use/browser-use": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:ggml-org/llama.cpp": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-16T18:33:19+00:00",
-      "new": 9,
+      "last_success": "2026-11-17T02:55:57+00:00",
+      "new": 2,
       "status": "ok"
     },
     "release:huggingface/transformers": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:langchain-ai/langgraph": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:ollama/ollama": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-16T18:33:19+00:00",
+      "last_success": "2026-11-17T02:55:57+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:openai/codex": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-16T18:33:19+00:00",
-      "new": 1,
+      "last_success": "2026-11-17T02:55:57+00:00",
+      "new": 3,
       "status": "ok"
     },
     "release:pydantic/pydantic-ai": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-16T18:33:19+00:00",
-      "new": 0,
+      "last_success": "2026-11-17T02:55:57+00:00",
+      "new": 1,
       "status": "ok"
     }
   },
   "timezone": "Asia/Shanghai",
-  "total": 45
+  "total": 27
 }
