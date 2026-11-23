@@ -1,0 +1,883 @@
+{
+  "events": [
+    {
+      "first_seen": "2026-11-20T12:54:39+00:00",
+      "growth_per_day": 15.9,
+      "hot_since": "2026-11-22T17:49:46+00:00",
+      "id": "gh:minimax-ai/research",
+      "kind": "tool",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "official": true,
+      "published": "2026-11-20T09:44:13+00:00",
+      "reason": "MiniMax-AI 创建新仓库",
+      "reasons": [
+        "MiniMax-AI 创建新仓库"
+      ],
+      "score": 75,
+      "source": "GitHub 官方仓库",
+      "sources": [
+        "org:MiniMax-AI"
+      ],
+      "stars": 70,
+      "summary": "README 摘录：In this repository, we plan to share research projects and findings from MiniMax internal models.",
+      "title": "MiniMax-AI/Research",
+      "url": "https://github.com/MiniMax-AI/Research"
+    },
+    {
+      "first_seen": "2026-11-23T09:10:01+00:00",
+      "id": "release:ggml-org/llama.cpp:b12651",
+      "kind": "tool",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "official": true,
+      "published": "2026-11-23T08:52:50+00:00",
+      "reason": "项目发布新版本（预发布）",
+      "reasons": [
+        "项目发布新版本（预发布）",
+        "另有 15 次版本更新已合并"
+      ],
+      "score": 65,
+      "source": "GitHub Releases",
+      "sources": [
+        "release:ggml-org/llama.cpp"
+      ],
+      "summary": "LLM inference in C/C++",
+      "title": "ggml-org/llama.cpp · b12651",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12651"
+    },
+    {
+      "first_seen": "2026-11-22T23:36:50+00:00",
+      "id": "feed:https://openai.com/index/perplexity-and-intelligence",
+      "kind": "news",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "official": true,
+      "published": "2026-11-22T00:00:00+00:00",
+      "reason": "AI 相关动态",
+      "reasons": [
+        "AI 相关动态"
+      ],
+      "release": false,
+      "score": 55,
+      "source": "OpenAI",
+      "sources": [
+        "feed:OpenAI"
+      ],
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    },
+    {
+      "first_seen": "2026-11-22T17:49:46+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T17:49:46+00:00",
+      "id": "hf:blackfrost-ai/inkling 2 mini derisked",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 55,
+      "official": false,
+      "published": "2026-11-22T00:48:17+00:00",
+      "rank": 74,
+      "reason": "进入 HF 热门榜 #84",
+      "reasons": [
+        "进入 HF 热门榜 #84",
+        "进入 HF 热门榜 #67",
+        "进入 HF 热门榜 #70",
+        "进入 HF 热门榜 #74"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "Blackfrost-AI 发布的模型仓库；作者暂未标注具体任务类型。",
+      "title": "Inkling 2 Mini Derisked",
+      "url": "https://huggingface.co/Blackfrost-AI/Inkling-2-Mini-Derisked"
+    },
+    {
+      "first_seen": "2026-11-22T23:36:50+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T23:36:50+00:00",
+      "id": "hf:nokeepai/inkling 2 mini unbound",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 47,
+      "official": false,
+      "published": "2026-11-21T18:54:15+00:00",
+      "rank": 95,
+      "reason": "进入 HF 热门榜 #87",
+      "reasons": [
+        "进入 HF 热门榜 #87",
+        "进入 HF 热门榜 #80",
+        "进入 HF 热门榜 #95"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "图文输入、文本输出模型，可根据图片和文字生成回答。",
+      "title": "Inkling 2 Mini Unbound",
+      "url": "https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF"
+    },
+    {
+      "first_seen": "2026-11-22T23:36:50+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T23:36:50+00:00",
+      "id": "hf:strata-engine/inkling 2 mini strata",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 53,
+      "official": false,
+      "published": "2026-11-21T18:46:06+00:00",
+      "rank": 51,
+      "reason": "进入 HF 热门榜 #77",
+      "reasons": [
+        "进入 HF 热门榜 #77",
+        "进入 HF 热门榜 #61",
+        "进入 HF 热门榜 #51"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "图文输入、文本输出模型，可根据图片和文字生成回答。",
+      "title": "Inkling 2 Mini Strata",
+      "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata"
+    },
+    {
+      "first_seen": "2026-11-22T17:49:46+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T17:49:46+00:00",
+      "id": "hf:strata-engine/hy4 flash strata",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 66,
+      "official": false,
+      "published": "2026-11-21T11:07:58+00:00",
+      "rank": 50,
+      "reason": "进入 HF 热门榜 #77",
+      "reasons": [
+        "进入 HF 热门榜 #77",
+        "进入 HF 热门榜 #51",
+        "进入 HF 热门榜 #50"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "图文输入、文本输出模型，可根据图片和文字生成回答。",
+      "title": "Hy4 Flash Strata",
+      "url": "https://huggingface.co/strata-engine/Hy4-Flash-Strata"
+    },
+    {
+      "first_seen": "2026-11-22T09:50:34+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T09:50:34+00:00",
+      "id": "hf:mlx-community/inkling 2 mini oq4e mtp",
+      "kind": "model",
+      "last_seen": "2026-11-22T17:49:46+00:00",
+      "likes": 43,
+      "official": false,
+      "published": "2026-11-21T00:49:03+00:00",
+      "rank": 60,
+      "reason": "进入 HF 热门榜 #89",
+      "reasons": [
+        "进入 HF 热门榜 #89",
+        "进入 HF 热门榜 #60"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "图文输入、文本输出模型，可根据图片和文字生成回答。",
+      "title": "Inkling 2 Mini oQ4e mtp",
+      "url": "https://huggingface.co/mlx-community/Inkling-2-Mini-oQ4e-mtp"
+    },
+    {
+      "first_seen": "2026-11-22T23:36:50+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T23:36:50+00:00",
+      "id": "hf:mlx-community/inkling 2 mini 4bit",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 32,
+      "official": false,
+      "published": "2026-11-20T21:41:25+00:00",
+      "rank": 94,
+      "reason": "进入 HF 热门榜 #90",
+      "reasons": [
+        "进入 HF 热门榜 #90",
+        "进入 HF 热门榜 #93",
+        "进入 HF 热门榜 #94"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "图文输入、文本输出模型，可根据图片和文字生成回答。",
+      "title": "Inkling 2 Mini 4bit",
+      "url": "https://huggingface.co/mlx-community/Inkling-2-Mini-4bit"
+    },
+    {
+      "first_seen": "2026-11-22T23:36:50+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T23:36:50+00:00",
+      "id": "hf:carypalmer/kintsugi",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 47,
+      "official": false,
+      "published": "2026-11-20T19:53:25+00:00",
+      "rank": 55,
+      "reason": "进入 HF 热门榜 #72",
+      "reasons": [
+        "进入 HF 热门榜 #72",
+        "进入 HF 热门榜 #60",
+        "进入 HF 热门榜 #55"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "CaryPalmer 发布的模型仓库；作者暂未标注具体任务类型。",
+      "title": "Kintsugi",
+      "url": "https://huggingface.co/CaryPalmer/Kintsugi-27B"
+    },
+    {
+      "first_seen": "2026-11-22T17:49:46+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T17:49:46+00:00",
+      "id": "hf:ccore/ccore web coder",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 53,
+      "official": false,
+      "published": "2026-11-20T19:13:07+00:00",
+      "rank": 77,
+      "reason": "进入 HF 热门榜 #100",
+      "reasons": [
+        "进入 HF 热门榜 #100",
+        "进入 HF 热门榜 #78",
+        "进入 HF 热门榜 #77"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "文本生成模型，用于生成文字、续写或对话。",
+      "title": "CCORE Web Coder",
+      "url": "https://huggingface.co/ccore/CCORE-Web-Coder-4B"
+    },
+    {
+      "first_seen": "2026-11-22T17:49:46+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T17:49:46+00:00",
+      "id": "hf:akatz-ai/minimax h3 image character swap",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 56,
+      "official": false,
+      "published": "2026-11-20T10:41:57+00:00",
+      "rank": 63,
+      "reason": "进入 HF 热门榜 #72",
+      "reasons": [
+        "进入 HF 热门榜 #72",
+        "进入 HF 热门榜 #66",
+        "进入 HF 热门榜 #67",
+        "进入 HF 热门榜 #63"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "图像转换模型，以已有图片为输入生成或修改图片。",
+      "title": "MiniMax H3 Image Character Swap",
+      "url": "https://huggingface.co/akatz-ai/MiniMax-H3-Image-Character-Swap-LoRA"
+    },
+    {
+      "first_seen": "2026-11-23T07:39:41+00:00",
+      "hot": true,
+      "hot_since": "2026-11-23T07:39:41+00:00",
+      "id": "hf:inclusionai/lingsante 3.1 air vl",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 46,
+      "official": false,
+      "published": "2026-11-19T04:31:06+00:00",
+      "rank": 62,
+      "reason": "进入 HF 热门榜 #75",
+      "reasons": [
+        "进入 HF 热门榜 #75",
+        "进入 HF 热门榜 #62"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "图文输入、文本输出模型，可根据图片和文字生成回答。",
+      "title": "LingSante 3.1 air VL",
+      "url": "https://huggingface.co/inclusionAI/LingSante-3.1-air-VL"
+    },
+    {
+      "first_seen": "2026-11-22T23:36:50+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T23:36:50+00:00",
+      "id": "hf:inclusionai/lingsante 3.1 flash",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 73,
+      "official": false,
+      "published": "2026-11-19T04:30:30+00:00",
+      "rank": 34,
+      "reason": "进入 HF 热门榜 #61",
+      "reasons": [
+        "进入 HF 热门榜 #61",
+        "进入 HF 热门榜 #38",
+        "进入 HF 热门榜 #34"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "文本生成模型，用于生成文字、续写或对话。",
+      "title": "LingSante 3.1 flash",
+      "url": "https://huggingface.co/inclusionAI/LingSante-3.1-flash"
+    },
+    {
+      "first_seen": "2026-11-22T17:49:46+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T17:49:46+00:00",
+      "id": "hf:briaai/rmbg 3.0 comfy",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 31,
+      "official": false,
+      "published": "2026-11-18T19:23:24+00:00",
+      "rank": 93,
+      "reason": "进入 HF 热门榜 #99",
+      "reasons": [
+        "进入 HF 热门榜 #99",
+        "进入 HF 热门榜 #97",
+        "进入 HF 热门榜 #92",
+        "进入 HF 热门榜 #93"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "图像分割模型，用于划分图片中的对象或区域。",
+      "title": "RMBG 3.0 Comfy",
+      "url": "https://huggingface.co/briaai/RMBG-3.0-Comfy"
+    },
+    {
+      "first_seen": "2026-11-22T09:50:34+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T09:50:34+00:00",
+      "id": "hf:davidau/glm 4.7 flash hellfire brilliance 50x agi neo",
+      "kind": "model",
+      "last_seen": "2026-11-22T09:50:34+00:00",
+      "likes": 29,
+      "official": false,
+      "published": "2026-11-17T03:20:30+00:00",
+      "rank": 100,
+      "reason": "进入 HF 热门榜 #100",
+      "reasons": [
+        "进入 HF 热门榜 #100"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "文本生成模型，用于生成文字、续写或对话。",
+      "title": "GLM 4.7 Flash Hellfire Brilliance 50x AGI NEO",
+      "url": "https://huggingface.co/DavidAU/GLM-4.7-Flash-30B-A3B-Hellfire-Turbo-Brilliance-50x-AGI-NEO-GGUF"
+    },
+    {
+      "first_seen": "2026-11-22T09:50:34+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T09:50:34+00:00",
+      "id": "hf:supralabs/supra2.5 pro",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 34,
+      "official": false,
+      "published": "2026-11-16T17:15:04+00:00",
+      "rank": 89,
+      "reason": "进入 HF 热门榜 #99",
+      "reasons": [
+        "进入 HF 热门榜 #99",
+        "进入 HF 热门榜 #90",
+        "进入 HF 热门榜 #86",
+        "进入 HF 热门榜 #88",
+        "进入 HF 热门榜 #89"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "文本生成模型，用于生成文字、续写或对话。",
+      "title": "Supra2.5 Pro",
+      "url": "https://huggingface.co/SupraLabs/Supra2.5-Pro-Instruct"
+    },
+    {
+      "first_seen": "2026-11-22T17:49:46+00:00",
+      "hot": true,
+      "hot_since": "2026-11-22T17:49:46+00:00",
+      "id": "hf:surogate/surogate3.7",
+      "kind": "model",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "likes": 49,
+      "official": false,
+      "published": "2026-10-03T04:11:48+00:00",
+      "rank": 67,
+      "reason": "进入 HF 热门榜 #93",
+      "reasons": [
+        "进入 HF 热门榜 #93",
+        "进入 HF 热门榜 #76",
+        "进入 HF 热门榜 #73",
+        "进入 HF 热门榜 #67"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "图文输入、文本输出模型，可根据图片和文字生成回答。",
+      "title": "Surogate3.7",
+      "url": "https://huggingface.co/surogate/Surogate3.7-35B-A3B"
+    },
+    {
+      "first_seen": "2026-11-23T09:10:01+00:00",
+      "hot_since": "2026-11-23T09:10:01+00:00",
+      "id": "gh:erkamyaman/safe-anything",
+      "kind": "tool",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "official": false,
+      "published": "2026-11-22T16:44:10+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 206,
+      "summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+      "title": "erkamyaman/safe-anything",
+      "url": "https://github.com/erkamyaman/safe-anything"
+    },
+    {
+      "first_seen": "2026-11-22T09:50:34+00:00",
+      "growth_per_day": 111.6,
+      "hot_since": "2026-11-22T09:50:34+00:00",
+      "id": "gh:sous-labs/songe",
+      "kind": "tool",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "official": false,
+      "published": "2026-11-20T11:01:20+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 231,
+      "summary": "A training engine for your local model, using your idle compute",
+      "title": "sous-labs/songe",
+      "url": "https://github.com/sous-labs/songe"
+    },
+    {
+      "first_seen": "2026-11-22T17:49:46+00:00",
+      "growth_per_day": 1402.8,
+      "hot_since": "2026-11-22T17:49:46+00:00",
+      "id": "gh:pierridotite/mobile-agent-testers",
+      "kind": "tool",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "official": false,
+      "published": "2026-11-16T19:11:44+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 988,
+      "summary": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "title": "pierridotite/mobile-agent-testers",
+      "url": "https://github.com/pierridotite/mobile-agent-testers"
+    },
+    {
+      "first_seen": "2026-11-22T17:49:46+00:00",
+      "growth_per_day": 63.8,
+      "id": "gh:lumidarin/agy-capsule",
+      "kind": "tool",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "official": false,
+      "published": "2026-11-14T12:35:22+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 218,
+      "summary": "Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer.",
+      "title": "Lumidarin/agy-capsule",
+      "url": "https://github.com/Lumidarin/agy-capsule"
+    },
+    {
+      "first_seen": "2026-11-22T09:50:34+00:00",
+      "growth_per_day": 0.0,
+      "id": "gh:therandomsecurityguy/signet",
+      "kind": "tool",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "official": false,
+      "published": "2026-11-14T03:08:20+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 215,
+      "summary": "The seal of approval for agents and skills: a graph-first semantic governance registry with signed, transparency-logged publication trust.",
+      "title": "therandomsecurityguy/signet",
+      "url": "https://github.com/therandomsecurityguy/signet"
+    },
+    {
+      "first_seen": "2026-11-23T07:39:41+00:00",
+      "id": "feed:https://simonwillison.net/2026/Nov/22/select-styling/",
+      "kind": "news",
+      "last_seen": "2026-11-23T09:10:01+00:00",
+      "official": false,
+      "published": "2026-11-22T19:45:06+00:00",
+      "reason": "AI 相关动态",
+      "reasons": [
+        "AI 相关动态"
+      ],
+      "release": false,
+      "score": 25,
+      "source": "Simon Willison",
+      "sources": [
+        "feed:Simon Willison"
+      ],
+      "summary": "Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the way",
+      "title": "Select Styling Specimens",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/"
+    }
+  ],
+  "generated_at": "2026-11-23T09:10:01+00:00",
+  "last_success": "2026-11-23T09:10:01+00:00",
+  "paid_api_calls": 0,
+  "shown": 24,
+  "sources": {
+    "discover:topic:ai-agents": {
+      "bootstrap": false,
+      "checked": 100,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 1,
+      "status": "ok"
+    },
+    "discover:topic:artificial-intelligence": {
+      "bootstrap": false,
+      "checked": 13,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "discover:topic:llm": {
+      "bootstrap": false,
+      "checked": 100,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "feed:Google AI": {
+      "bootstrap": false,
+      "checked": 20,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "feed:Hugging Face": {
+      "bootstrap": false,
+      "checked": 80,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "feed:OpenAI": {
+      "bootstrap": false,
+      "checked": 80,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "feed:Simon Willison": {
+      "bootstrap": false,
+      "checked": 18,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:Lightricks": {
+      "bootstrap": false,
+      "checked": 50,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:MiniMaxAI": {
+      "bootstrap": false,
+      "checked": 24,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:Qwen": {
+      "bootstrap": false,
+      "checked": 50,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:Wan-AI": {
+      "bootstrap": false,
+      "checked": 27,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:black-forest-labs": {
+      "bootstrap": false,
+      "checked": 43,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:deepseek-ai": {
+      "bootstrap": false,
+      "checked": 50,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:google": {
+      "bootstrap": false,
+      "checked": 50,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:meta-llama": {
+      "bootstrap": false,
+      "checked": 50,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:mistralai": {
+      "bootstrap": false,
+      "checked": 50,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:moonshotai": {
+      "bootstrap": false,
+      "checked": 20,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:nvidia": {
+      "bootstrap": false,
+      "checked": 50,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:trending": {
+      "bootstrap": false,
+      "checked": 100,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "hf:zai-org": {
+      "bootstrap": false,
+      "checked": 50,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:MiniMax-AI": {
+      "bootstrap": false,
+      "checked": 41,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:QwenLM": {
+      "bootstrap": false,
+      "checked": 59,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:THUDM": {
+      "bootstrap": false,
+      "checked": 97,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:anthropics": {
+      "bootstrap": false,
+      "checked": 72,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:deepseek-ai": {
+      "bootstrap": false,
+      "checked": 47,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:google-deepmind": {
+      "bootstrap": false,
+      "checked": 86,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:huggingface": {
+      "bootstrap": false,
+      "checked": 87,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:langchain-ai": {
+      "bootstrap": false,
+      "checked": 78,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:mistralai": {
+      "bootstrap": false,
+      "checked": 15,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:moonshotai": {
+      "bootstrap": false,
+      "checked": 43,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "org:openai": {
+      "bootstrap": false,
+      "checked": 97,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "release:Comfy-Org/ComfyUI": {
+      "bootstrap": false,
+      "checked": 10,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "release:anthropics/claude-code": {
+      "bootstrap": false,
+      "checked": 10,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "release:browser-use/browser-use": {
+      "bootstrap": false,
+      "checked": 10,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "release:ggml-org/llama.cpp": {
+      "bootstrap": false,
+      "checked": 10,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 2,
+      "status": "ok"
+    },
+    "release:huggingface/transformers": {
+      "bootstrap": false,
+      "checked": 10,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "release:langchain-ai/langgraph": {
+      "bootstrap": false,
+      "checked": 10,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "release:ollama/ollama": {
+      "bootstrap": false,
+      "checked": 10,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "release:openai/codex": {
+      "bootstrap": false,
+      "checked": 10,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    },
+    "release:pydantic/pydantic-ai": {
+      "bootstrap": false,
+      "checked": 10,
+      "last_success": "2026-11-23T09:10:01+00:00",
+      "new": 0,
+      "status": "ok"
+    }
+  },
+  "timezone": "Asia/Shanghai",
+  "total": 24
+}
