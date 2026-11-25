@@ -1,16 +1,16 @@
 {
   "events": [
     {
-      "first_seen": "2026-11-25T02:30:13+00:00",
-      "id": "release:ggml-org/llama.cpp:b12701",
+      "first_seen": "2026-11-25T09:53:13+00:00",
+      "id": "release:ggml-org/llama.cpp:b12721",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
-      "published": "2026-11-25T02:24:02+00:00",
+      "published": "2026-11-25T07:48:02+00:00",
       "reason": "项目发布新版本（预发布）",
       "reasons": [
         "项目发布新版本（预发布）",
-        "另有 20 次版本更新已合并"
+        "另有 22 次版本更新已合并"
       ],
       "score": 65,
       "source": "GitHub Releases",
@@ -18,20 +18,19 @@
         "release:ggml-org/llama.cpp"
       ],
       "summary": "LLM inference in C/C++",
-      "title": "ggml-org/llama.cpp · b12701",
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12701"
+      "title": "ggml-org/llama.cpp · b12721",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12721"
     },
     {
       "first_seen": "2026-11-25T02:30:13+00:00",
       "id": "release:anthropics/claude-code:v2.1.332",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-25T01:32:14+00:00",
       "reason": "项目发布新版本",
       "reasons": [
-        "项目发布新版本",
-        "另有 1 次版本更新已合并"
+        "项目发布新版本"
       ],
       "score": 65,
       "source": "GitHub Releases",
@@ -46,13 +45,13 @@
       "first_seen": "2026-11-25T02:30:13+00:00",
       "id": "release:openai/codex:rust-v0.174.0-alpha.5",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-25T01:11:35+00:00",
       "reason": "项目发布新版本（预发布）",
       "reasons": [
         "项目发布新版本（预发布）",
-        "另有 6 次版本更新已合并"
+        "另有 4 次版本更新已合并"
       ],
       "score": 65,
       "source": "GitHub Releases",
@@ -67,13 +66,13 @@
       "first_seen": "2026-11-25T02:30:13+00:00",
       "id": "release:pydantic/pydantic-ai:v2.74.0",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-24T23:22:14+00:00",
       "reason": "项目发布新版本",
       "reasons": [
         "项目发布新版本",
-        "另有 2 次版本更新已合并"
+        "另有 1 次版本更新已合并"
       ],
       "score": 65,
       "source": "GitHub Releases",
@@ -88,7 +87,7 @@
       "first_seen": "2026-11-24T17:46:19+00:00",
       "id": "release:huggingface/transformers:v5.24.1",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-24T16:13:08+00:00",
       "reason": "项目发布新版本",
@@ -108,7 +107,7 @@
       "first_seen": "2026-11-25T02:30:13+00:00",
       "id": "feed:https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-24T13:00:00+00:00",
       "reason": "发布消息",
@@ -129,13 +128,12 @@
       "first_seen": "2026-11-24T10:59:47+00:00",
       "id": "release:ollama/ollama:v0.40.18",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-24T04:18:13+00:00",
       "reason": "项目发布新版本",
       "reasons": [
-        "项目发布新版本",
-        "另有 1 次版本更新已合并"
+        "项目发布新版本"
       ],
       "score": 65,
       "source": "GitHub Releases",
@@ -147,31 +145,10 @@
       "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18"
     },
     {
-      "first_seen": "2026-11-24T04:49:12+00:00",
-      "id": "feed:https://openai.com/index/introducing-shirudo",
-      "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "official": true,
-      "published": "2026-11-23T21:20:00+00:00",
-      "reason": "发布消息",
-      "reasons": [
-        "发布消息"
-      ],
-      "release": true,
-      "score": 65,
-      "source": "OpenAI",
-      "sources": [
-        "feed:OpenAI"
-      ],
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "url": "https://openai.com/index/introducing-shirudo"
-    },
-    {
       "first_seen": "2026-11-24T17:46:19+00:00",
       "id": "feed:https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-24T16:34:13+00:00",
       "reason": "AI 相关动态",
@@ -192,7 +169,7 @@
       "first_seen": "2026-11-24T17:46:19+00:00",
       "id": "feed:https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-24T16:00:00+00:00",
       "reason": "AI 相关动态",
@@ -213,7 +190,7 @@
       "first_seen": "2026-11-25T02:30:13+00:00",
       "id": "feed:https://openai.com/index/searching-for-distant-planets-with-astra",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-24T11:00:00+00:00",
       "reason": "AI 相关动态",
@@ -234,7 +211,7 @@
       "first_seen": "2026-11-25T02:30:13+00:00",
       "id": "feed:https://openai.com/business/customer-stories/clay-plugins-openai",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-24T00:00:00+00:00",
       "reason": "AI 相关动态",
@@ -255,7 +232,7 @@
       "first_seen": "2026-11-25T02:30:13+00:00",
       "id": "feed:https://openai.com/business/customer-stories/ifood",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-24T00:00:00+00:00",
       "reason": "AI 相关动态",
@@ -276,7 +253,7 @@
       "first_seen": "2026-11-25T02:30:13+00:00",
       "id": "feed:https://openai.com/business/customer-stories/intentful-dots",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": true,
       "published": "2026-11-24T00:00:00+00:00",
       "reason": "AI 相关动态",
@@ -294,40 +271,20 @@
       "url": "https://openai.com/business/customer-stories/intentful-dots"
     },
     {
-      "first_seen": "2026-11-24T04:49:12+00:00",
-      "id": "feed:https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "official": true,
-      "published": "2026-11-23T08:00:00+00:00",
-      "reason": "AI 相关动态",
-      "reasons": [
-        "AI 相关动态"
-      ],
-      "release": false,
-      "score": 55,
-      "source": "OpenAI",
-      "sources": [
-        "feed:OpenAI"
-      ],
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
-    },
-    {
       "first_seen": "2026-11-25T02:30:13+00:00",
       "hot": true,
       "hot_since": "2026-11-25T02:30:13+00:00",
       "id": "hf:prism-ml/ternary bonsai 2.5",
       "kind": "model",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "likes": 111,
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "likes": 194,
       "official": false,
       "published": "2026-11-24T16:32:20+00:00",
-      "rank": 22,
+      "rank": 9,
       "reason": "进入 HF 热门榜 #22",
       "reasons": [
-        "进入 HF 热门榜 #22"
+        "进入 HF 热门榜 #22",
+        "进入 HF 热门榜 #9"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -339,47 +296,21 @@
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF"
     },
     {
-      "first_seen": "2026-11-24T04:49:12+00:00",
-      "hot": true,
-      "hot_since": "2026-11-24T04:49:12+00:00",
-      "id": "hf:orcarouter/inkling 2 mini abliterated",
-      "kind": "model",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "likes": 152,
-      "official": false,
-      "published": "2026-11-23T05:14:32+00:00",
-      "rank": 26,
-      "reason": "进入 HF 热门榜 #65",
-      "reasons": [
-        "进入 HF 热门榜 #65",
-        "进入 HF 热门榜 #49",
-        "进入 HF 热门榜 #37",
-        "进入 HF 热门榜 #26"
-      ],
-      "score": 50,
-      "source": "HF 热门榜",
-      "sources": [
-        "hf:trending"
-      ],
-      "summary": "文本生成模型，用于生成文字、续写或对话。",
-      "title": "Inkling 2 Mini abliterated",
-      "url": "https://huggingface.co/orcarouter/Inkling-2-Mini-abliterated-GGUF"
-    },
-    {
       "first_seen": "2026-11-24T17:46:19+00:00",
       "hot": true,
       "hot_since": "2026-11-24T17:46:19+00:00",
       "id": "hf:studioyebisu-ship-it/drama 3 japanese speech cpp",
       "kind": "model",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "likes": 60,
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "likes": 63,
       "official": false,
       "published": "2026-11-23T02:03:26+00:00",
-      "rank": 70,
+      "rank": 66,
       "reason": "进入 HF 热门榜 #79",
       "reasons": [
         "进入 HF 热门榜 #79",
-        "进入 HF 热门榜 #70"
+        "进入 HF 热门榜 #70",
+        "进入 HF 热门榜 #66"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -396,15 +327,16 @@
       "hot_since": "2026-11-24T17:46:19+00:00",
       "id": "hf:jesdga/inkling 2 mini basalt",
       "kind": "model",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "likes": 38,
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "likes": 41,
       "official": false,
       "published": "2026-11-21T13:30:28+00:00",
-      "rank": 81,
+      "rank": 85,
       "reason": "进入 HF 热门榜 #98",
       "reasons": [
         "进入 HF 热门榜 #98",
-        "进入 HF 热门榜 #81"
+        "进入 HF 热门榜 #81",
+        "进入 HF 热门榜 #85"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -416,19 +348,44 @@
       "url": "https://huggingface.co/jesdga/Inkling-2-Mini-Basalt"
     },
     {
+      "first_seen": "2026-11-25T09:53:13+00:00",
+      "hot": true,
+      "hot_since": "2026-11-25T09:53:13+00:00",
+      "id": "hf:lovartai/h3 vae mt",
+      "kind": "model",
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "likes": 41,
+      "official": false,
+      "published": "2026-11-20T09:00:25+00:00",
+      "rank": 84,
+      "reason": "进入 HF 热门榜 #84",
+      "reasons": [
+        "进入 HF 热门榜 #84"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "lovartai 发布的模型仓库；作者暂未标注具体任务类型。",
+      "title": "H3 VAE MT",
+      "url": "https://huggingface.co/lovartai/H3-VAE-MT"
+    },
+    {
       "first_seen": "2026-11-25T02:30:13+00:00",
       "hot": true,
       "hot_since": "2026-11-25T02:30:13+00:00",
       "id": "hf:caldalis/minitranslator",
       "kind": "model",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "likes": 201,
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "likes": 202,
       "official": false,
       "published": "2026-11-20T07:38:10+00:00",
-      "rank": 73,
+      "rank": 80,
       "reason": "进入 HF 热门榜 #73",
       "reasons": [
-        "进入 HF 热门榜 #73"
+        "进入 HF 热门榜 #73",
+        "进入 HF 热门榜 #80"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -445,14 +402,15 @@
       "hot_since": "2026-11-25T02:30:13+00:00",
       "id": "hf:tencent/hy mt3",
       "kind": "model",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "likes": 31,
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "likes": 44,
       "official": false,
       "published": "2026-11-17T02:07:23+00:00",
-      "rank": 97,
+      "rank": 70,
       "reason": "进入 HF 热门榜 #97",
       "reasons": [
-        "进入 HF 热门榜 #97"
+        "进入 HF 热门榜 #97",
+        "进入 HF 热门榜 #70"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -462,6 +420,30 @@
       "summary": "翻译模型，用于在不同语言之间转换文字。",
       "title": "Hy MT3",
       "url": "https://huggingface.co/tencent/Hy-MT3-30B-A3B"
+    },
+    {
+      "first_seen": "2026-11-25T09:53:13+00:00",
+      "hot": true,
+      "hot_since": "2026-11-25T09:53:13+00:00",
+      "id": "hf:sensenova/sensenova u1.6 mot",
+      "kind": "model",
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "likes": 35,
+      "official": false,
+      "published": "2026-11-16T17:00:53+00:00",
+      "rank": 99,
+      "reason": "进入 HF 热门榜 #99",
+      "reasons": [
+        "进入 HF 热门榜 #99"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "文生图模型，根据文字描述生成图片。",
+      "title": "SenseNova U1.6 MoT",
+      "url": "https://huggingface.co/sensenova/SenseNova-U1.6-8B-MoT"
     },
     {
       "first_seen": "2026-11-25T02:30:13+00:00",
@@ -493,14 +475,15 @@
       "hot_since": "2026-11-25T02:30:13+00:00",
       "id": "hf:llamaindex/ocria 1",
       "kind": "model",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "likes": 44,
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "likes": 62,
       "official": false,
       "published": "2026-11-13T21:52:49+00:00",
-      "rank": 64,
+      "rank": 52,
       "reason": "进入 HF 热门榜 #64",
       "reasons": [
-        "进入 HF 热门榜 #64"
+        "进入 HF 热门榜 #64",
+        "进入 HF 热门榜 #52"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -512,39 +495,82 @@
       "url": "https://huggingface.co/llamaindex/OCRia-1"
     },
     {
-      "first_seen": "2026-11-24T04:49:12+00:00",
+      "first_seen": "2026-11-25T09:53:13+00:00",
       "hot": true,
-      "hot_since": "2026-11-24T04:49:12+00:00",
-      "id": "hf:llamaindex/ocria nano 1",
+      "hot_since": "2026-11-25T09:53:13+00:00",
+      "id": "hf:nvidia/nemotron labs image",
       "kind": "model",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "likes": 160,
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "likes": 41,
       "official": false,
-      "published": "2026-11-03T21:44:40+00:00",
-      "rank": 14,
-      "reason": "进入 HF 热门榜 #59",
+      "published": "2026-09-24T21:13:25+00:00",
+      "rank": 81,
+      "reason": "进入 HF 热门榜 #81",
       "reasons": [
-        "进入 HF 热门榜 #59",
-        "进入 HF 热门榜 #31",
-        "进入 HF 热门榜 #21",
-        "进入 HF 热门榜 #14"
+        "进入 HF 热门榜 #81"
       ],
       "score": 50,
       "source": "HF 热门榜",
       "sources": [
         "hf:trending"
       ],
-      "summary": "模型仓库，作者标注的任务类型为 image-to-text。",
-      "title": "OCRia nano 1",
-      "url": "https://huggingface.co/llamaindex/OCRia-nano-1"
+      "summary": "文生图模型，根据文字描述生成图片。",
+      "title": "Nemotron Labs Image",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B"
+    },
+    {
+      "first_seen": "2026-11-25T09:53:13+00:00",
+      "hot": true,
+      "hot_since": "2026-11-25T09:53:13+00:00",
+      "id": "hf:sand-ai/magi 2",
+      "kind": "model",
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "likes": 160,
+      "official": false,
+      "published": "2026-08-03T12:34:20+00:00",
+      "rank": 96,
+      "reason": "进入 HF 热门榜 #96",
+      "reasons": [
+        "进入 HF 热门榜 #96"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "模型仓库，作者标注的任务类型为 image-text-to-video。",
+      "title": "MAGI 2",
+      "url": "https://huggingface.co/sand-ai/MAGI-2-preview"
+    },
+    {
+      "first_seen": "2026-11-25T09:53:13+00:00",
+      "hot_since": "2026-11-25T09:53:13+00:00",
+      "id": "gh:el4cteo/shrink-anything",
+      "kind": "tool",
+      "last_seen": "2026-11-25T09:53:13+00:00",
+      "official": false,
+      "published": "2026-11-23T15:55:48+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 229,
+      "summary": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+      "title": "EL4CTEO/shrink-anything",
+      "url": "https://github.com/EL4CTEO/shrink-anything"
     },
     {
       "first_seen": "2026-11-24T10:59:47+00:00",
-      "growth_per_day": 222.6,
+      "growth_per_day": 29.3,
       "hot_since": "2026-11-24T10:59:47+00:00",
       "id": "gh:developing-gamer/agent-sim",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": false,
       "published": "2026-11-21T20:26:12+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -556,18 +582,18 @@
       "sources": [
         "discover:topic:ai-agents"
       ],
-      "stars": 568,
+      "stars": 577,
       "summary": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
       "title": "Developing-Gamer/agent-sim",
       "url": "https://github.com/Developing-Gamer/agent-sim"
     },
     {
       "first_seen": "2026-11-22T17:49:46+00:00",
-      "growth_per_day": 16.5,
+      "growth_per_day": 55.3,
       "hot_since": "2026-11-24T10:59:47+00:00",
       "id": "gh:lumidarin/agy-capsule",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": false,
       "published": "2026-11-14T12:35:22+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -579,17 +605,17 @@
       "sources": [
         "discover:topic:llm"
       ],
-      "stars": 294,
+      "stars": 311,
       "summary": "Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer.",
       "title": "Lumidarin/agy-capsule",
       "url": "https://github.com/Lumidarin/agy-capsule"
     },
     {
       "first_seen": "2026-11-24T10:59:47+00:00",
-      "growth_per_day": 5.5,
+      "growth_per_day": 6.5,
       "id": "gh:usetuff/tuff",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": false,
       "published": "2026-11-13T23:25:01+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -601,16 +627,17 @@
       "sources": [
         "discover:topic:ai-agents"
       ],
-      "stars": 208,
+      "stars": 210,
       "summary": "Open-source, self-hosted alternative to Linear, ClickUp, Asana and Basecamp. Tasks, docs and chat in one place, where your team and its AI agents work side by side.",
       "title": "usetuff/tuff",
       "url": "https://github.com/usetuff/tuff"
     },
     {
       "first_seen": "2026-11-25T02:30:13+00:00",
+      "growth_per_day": 3.3,
       "id": "gh:kivanow/sessionly",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": false,
       "published": "2026-11-13T16:40:16+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -623,16 +650,17 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 189,
+      "stars": 190,
       "summary": "Lab-neutral, local-first ledger for Claude Code, Codex, Cursor and Grok sessions: what they did, what it cost, what survived.",
       "title": "KIvanow/sessionly",
       "url": "https://github.com/KIvanow/sessionly"
     },
     {
       "first_seen": "2026-11-25T02:30:13+00:00",
+      "growth_per_day": 6.5,
       "id": "gh:ysunyang4/webagent",
       "kind": "tool",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": false,
       "published": "2026-11-11T01:32:04+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -644,7 +672,7 @@
       "sources": [
         "discover:topic:llm"
       ],
-      "stars": 190,
+      "stars": 192,
       "summary": "Browser extension that connects ChatGPT, Gemini, DeepSeek, and other web AI chats to local MCP tools through Nexus.",
       "title": "ysunyang4/webagent",
       "url": "https://github.com/ysunyang4/webagent"
@@ -653,7 +681,7 @@
       "first_seen": "2026-11-25T02:30:13+00:00",
       "id": "feed:https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": false,
       "published": "2026-11-24T23:02:07+00:00",
       "reason": "AI 相关动态",
@@ -674,7 +702,7 @@
       "first_seen": "2026-11-24T17:46:19+00:00",
       "id": "feed:https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": false,
       "published": "2026-11-24T16:53:59+00:00",
       "reason": "AI 相关动态",
@@ -695,7 +723,7 @@
       "first_seen": "2026-11-24T10:59:47+00:00",
       "id": "feed:https://simonwillison.net/2026/Nov/24/datasette-charts/",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": false,
       "published": "2026-11-24T04:24:29+00:00",
       "reason": "AI 相关动态",
@@ -716,7 +744,7 @@
       "first_seen": "2026-11-24T10:59:47+00:00",
       "id": "feed:https://simonwillison.net/2026/Nov/24/datasette-agent/",
       "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
+      "last_seen": "2026-11-25T09:53:13+00:00",
       "official": false,
       "published": "2026-11-24T03:45:57+00:00",
       "reason": "AI 相关动态",
@@ -732,336 +760,294 @@
       "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integ",
       "title": "datasette-agent 0.7a1",
       "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/"
-    },
-    {
-      "first_seen": "2026-11-24T04:49:12+00:00",
-      "id": "feed:https://simonwillison.net/2026/Nov/23/glm-54/",
-      "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "official": false,
-      "published": "2026-11-23T23:40:49+00:00",
-      "reason": "AI 相关动态",
-      "reasons": [
-        "AI 相关动态"
-      ],
-      "release": false,
-      "score": 25,
-      "source": "Simon Willison",
-      "sources": [
-        "feed:Simon Willison"
-      ],
-      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer,",
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
-    },
-    {
-      "first_seen": "2026-11-24T04:49:12+00:00",
-      "id": "feed:https://simonwillison.net/2026/Nov/23/datasette-charts/",
-      "kind": "news",
-      "last_seen": "2026-11-25T02:30:13+00:00",
-      "official": false,
-      "published": "2026-11-23T00:37:20+00:00",
-      "reason": "AI 相关动态",
-      "reasons": [
-        "AI 相关动态"
-      ],
-      "release": false,
-      "score": 25,
-      "source": "Simon Willison",
-      "sources": [
-        "feed:Simon Willison"
-      ],
-      "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can t",
-      "title": "datasette-charts 0.1a0",
-      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/"
     }
   ],
-  "generated_at": "2026-11-25T02:30:13+00:00",
-  "last_success": "2026-11-25T02:30:13+00:00",
+  "generated_at": "2026-11-25T09:53:13+00:00",
+  "last_success": "2026-11-25T09:53:13+00:00",
   "paid_api_calls": 0,
-  "shown": 35,
+  "shown": 34,
   "sources": {
     "discover:topic:ai-agents": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 1,
       "status": "ok"
     },
     "discover:topic:artificial-intelligence": {
       "bootstrap": false,
       "checked": 2,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "discover:topic:llm": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-25T02:30:13+00:00",
-      "new": 1,
+      "last_success": "2026-11-25T09:53:13+00:00",
+      "new": 0,
       "status": "ok"
     },
     "feed:Google AI": {
       "bootstrap": false,
       "checked": 20,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "feed:Hugging Face": {
       "bootstrap": false,
       "checked": 80,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "feed:OpenAI": {
       "bootstrap": false,
       "checked": 80,
-      "last_success": "2026-11-25T02:30:13+00:00",
-      "new": 5,
+      "last_success": "2026-11-25T09:53:13+00:00",
+      "new": 0,
       "status": "ok"
     },
     "feed:Simon Willison": {
       "bootstrap": false,
       "checked": 21,
-      "last_success": "2026-11-25T02:30:13+00:00",
-      "new": 1,
+      "last_success": "2026-11-25T09:53:13+00:00",
+      "new": 0,
       "status": "ok"
     },
     "hf:Lightricks": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:MiniMaxAI": {
       "bootstrap": false,
       "checked": 24,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:Qwen": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:Wan-AI": {
       "bootstrap": false,
       "checked": 27,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:black-forest-labs": {
       "bootstrap": false,
       "checked": 43,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:deepseek-ai": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:google": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:meta-llama": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:mistralai": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:moonshotai": {
       "bootstrap": false,
       "checked": 20,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:nvidia": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:trending": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-25T02:30:13+00:00",
-      "new": 5,
+      "last_success": "2026-11-25T09:53:13+00:00",
+      "new": 4,
       "status": "ok"
     },
     "hf:zai-org": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:MiniMax-AI": {
       "bootstrap": false,
       "checked": 41,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:QwenLM": {
       "bootstrap": false,
       "checked": 59,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:THUDM": {
       "bootstrap": false,
       "checked": 97,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:anthropics": {
       "bootstrap": false,
       "checked": 72,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:deepseek-ai": {
       "bootstrap": false,
       "checked": 47,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:google-deepmind": {
       "bootstrap": false,
       "checked": 87,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:huggingface": {
       "bootstrap": false,
       "checked": 87,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:langchain-ai": {
       "bootstrap": false,
       "checked": 78,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:mistralai": {
       "bootstrap": false,
       "checked": 15,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:moonshotai": {
       "bootstrap": false,
       "checked": 43,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:openai": {
       "bootstrap": false,
       "checked": 97,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:Comfy-Org/ComfyUI": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:anthropics/claude-code": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-25T02:30:13+00:00",
-      "new": 1,
+      "last_success": "2026-11-25T09:53:13+00:00",
+      "new": 0,
       "status": "ok"
     },
     "release:browser-use/browser-use": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:ggml-org/llama.cpp": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-25T02:30:13+00:00",
-      "new": 8,
+      "last_success": "2026-11-25T09:53:13+00:00",
+      "new": 10,
       "status": "ok"
     },
     "release:huggingface/transformers": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:langchain-ai/langgraph": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:ollama/ollama": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-25T02:30:13+00:00",
+      "last_success": "2026-11-25T09:53:13+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:openai/codex": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-25T02:30:13+00:00",
-      "new": 3,
+      "last_success": "2026-11-25T09:53:13+00:00",
+      "new": 0,
       "status": "ok"
     },
     "release:pydantic/pydantic-ai": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-25T02:30:13+00:00",
-      "new": 2,
+      "last_success": "2026-11-25T09:53:13+00:00",
+      "new": 0,
       "status": "ok"
     }
   },
   "timezone": "Asia/Shanghai",
-  "total": 35
+  "total": 34
 }
