@@ -1,16 +1,16 @@
 {
   "events": [
     {
-      "first_seen": "2026-11-27T22:42:56+00:00",
-      "id": "release:ggml-org/llama.cpp:b12818",
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "release:ggml-org/llama.cpp:b12823",
       "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": true,
-      "published": "2026-11-27T20:43:59+00:00",
+      "published": "2026-11-28T01:24:25+00:00",
       "reason": "项目发布新版本（预发布）",
       "reasons": [
         "项目发布新版本（预发布）",
-        "另有 18 次版本更新已合并"
+        "另有 17 次版本更新已合并"
       ],
       "score": 65,
       "source": "GitHub Releases",
@@ -18,20 +18,39 @@
         "release:ggml-org/llama.cpp"
       ],
       "summary": "LLM inference in C/C++",
-      "title": "ggml-org/llama.cpp · b12818",
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12818"
+      "title": "ggml-org/llama.cpp · b12823",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12823"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "release:pydantic/pydantic-ai:v2.77.0",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": true,
+      "published": "2026-11-27T23:32:31+00:00",
+      "reason": "项目发布新版本",
+      "reasons": [
+        "项目发布新版本"
+      ],
+      "score": 65,
+      "source": "GitHub Releases",
+      "sources": [
+        "release:pydantic/pydantic-ai"
+      ],
+      "summary": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+      "title": "pydantic/pydantic-ai · v2.77.0",
+      "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.77.0"
     },
     {
       "first_seen": "2026-11-27T22:42:56+00:00",
       "id": "release:openai/codex:rust-v0.174.0-alpha.9",
       "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": true,
       "published": "2026-11-27T16:56:00+00:00",
       "reason": "项目发布新版本（预发布）",
       "reasons": [
-        "项目发布新版本（预发布）",
-        "另有 1 次版本更新已合并"
+        "项目发布新版本（预发布）"
       ],
       "score": 65,
       "source": "GitHub Releases",
@@ -44,9 +63,10 @@
     },
     {
       "first_seen": "2026-11-27T22:42:56+00:00",
+      "growth_per_day": 0.0,
       "id": "gh:google-deepmind/arrow",
       "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": true,
       "published": "2026-11-27T14:05:47+00:00",
       "reason": "google-deepmind 创建新仓库",
@@ -64,50 +84,10 @@
       "url": "https://github.com/google-deepmind/arrow"
     },
     {
-      "first_seen": "2026-11-27T04:15:43+00:00",
-      "id": "release:pydantic/pydantic-ai:v2.76.0",
-      "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
-      "official": true,
-      "published": "2026-11-26T23:49:06+00:00",
-      "reason": "项目发布新版本",
-      "reasons": [
-        "项目发布新版本"
-      ],
-      "score": 65,
-      "source": "GitHub Releases",
-      "sources": [
-        "release:pydantic/pydantic-ai"
-      ],
-      "summary": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
-      "title": "pydantic/pydantic-ai · v2.76.0",
-      "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.76.0"
-    },
-    {
-      "first_seen": "2026-11-27T04:15:43+00:00",
-      "id": "release:browser-use/browser-use:1.0.9",
-      "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
-      "official": true,
-      "published": "2026-11-26T22:45:43+00:00",
-      "reason": "项目发布新版本",
-      "reasons": [
-        "项目发布新版本"
-      ],
-      "score": 65,
-      "source": "GitHub Releases",
-      "sources": [
-        "release:browser-use/browser-use"
-      ],
-      "summary": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-      "title": "browser-use/browser-use · 1.0.9",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.9"
-    },
-    {
       "first_seen": "2026-11-27T22:42:56+00:00",
       "id": "release:ollama/ollama:v0.40.19",
       "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": true,
       "published": "2026-11-26T17:52:02+00:00",
       "reason": "项目发布新版本",
@@ -127,7 +107,7 @@
       "first_seen": "2026-11-27T13:57:25+00:00",
       "id": "feed:https://huggingface.co/blog/video-trainium3",
       "kind": "news",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": true,
       "published": "2026-11-27T00:00:00+00:00",
       "reason": "AI 相关动态",
@@ -145,20 +125,69 @@
       "url": "https://huggingface.co/blog/video-trainium3"
     },
     {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot": true,
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "hf:ex0bit/inkblot 2 mini",
+      "kind": "model",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "likes": 33,
+      "official": false,
+      "published": "2026-11-26T23:41:52+00:00",
+      "rank": 91,
+      "reason": "进入 HF 热门榜 #91",
+      "reasons": [
+        "进入 HF 热门榜 #91"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "文本生成模型，用于生成文字、续写或对话。",
+      "title": "Inkblot 2 mini",
+      "url": "https://huggingface.co/Ex0bit/Inkblot-2-mini"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot": true,
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "hf:ai-sage/gigaam v4",
+      "kind": "model",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "likes": 39,
+      "official": false,
+      "published": "2026-11-26T23:28:13+00:00",
+      "rank": 71,
+      "reason": "进入 HF 热门榜 #71",
+      "reasons": [
+        "进入 HF 热门榜 #71"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "语音识别模型，把语音转写为文字。",
+      "title": "GigaAM v4",
+      "url": "https://huggingface.co/ai-sage/GigaAM-v4"
+    },
+    {
       "first_seen": "2026-11-27T09:42:54+00:00",
       "hot": true,
       "hot_since": "2026-11-27T09:42:54+00:00",
       "id": "hf:alissonerdx/te pk minimax h3",
       "kind": "model",
-      "last_seen": "2026-11-27T13:57:25+00:00",
-      "likes": 40,
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "likes": 83,
       "official": false,
       "published": "2026-11-26T16:21:48+00:00",
-      "rank": 76,
+      "rank": 41,
       "reason": "进入 HF 热门榜 #90",
       "reasons": [
         "进入 HF 热门榜 #90",
-        "进入 HF 热门榜 #76"
+        "进入 HF 热门榜 #76",
+        "进入 HF 热门榜 #41"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -170,58 +199,28 @@
       "url": "https://huggingface.co/Alissonerdx/TE-PK-Minimax-H3"
     },
     {
-      "first_seen": "2026-11-27T04:15:43+00:00",
+      "first_seen": "2026-11-28T07:49:55+00:00",
       "hot": true,
-      "hot_since": "2026-11-27T04:15:43+00:00",
-      "id": "hf:ista-daslab/inkling 2 mini gsq rco",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "hf:alissonerdx/qwen3.5 minimax h3",
       "kind": "model",
-      "last_seen": "2026-11-27T22:42:56+00:00",
-      "likes": 263,
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "likes": 32,
       "official": false,
-      "published": "2026-11-26T13:01:01+00:00",
-      "rank": 11,
-      "reason": "进入 HF 热门榜 #25",
+      "published": "2026-11-24T19:13:20+00:00",
+      "rank": 97,
+      "reason": "进入 HF 热门榜 #97",
       "reasons": [
-        "进入 HF 热门榜 #25",
-        "进入 HF 热门榜 #15",
-        "进入 HF 热门榜 #13",
-        "进入 HF 热门榜 #11"
+        "进入 HF 热门榜 #97"
       ],
       "score": 50,
       "source": "HF 热门榜",
       "sources": [
         "hf:trending"
       ],
-      "summary": "文本生成模型，用于生成文字、续写或对话。",
-      "title": "Inkling 2 Mini GSQ RCO",
-      "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF"
-    },
-    {
-      "first_seen": "2026-11-27T04:15:43+00:00",
-      "hot": true,
-      "hot_since": "2026-11-27T04:15:43+00:00",
-      "id": "hf:inclusionai/ming image 0.2 design",
-      "kind": "model",
-      "last_seen": "2026-11-27T22:42:56+00:00",
-      "likes": 161,
-      "official": false,
-      "published": "2026-11-25T04:02:44+00:00",
-      "rank": 42,
-      "reason": "进入 HF 热门榜 #79",
-      "reasons": [
-        "进入 HF 热门榜 #79",
-        "进入 HF 热门榜 #28",
-        "进入 HF 热门榜 #26",
-        "进入 HF 热门榜 #42"
-      ],
-      "score": 50,
-      "source": "HF 热门榜",
-      "sources": [
-        "hf:trending"
-      ],
-      "summary": "文生图模型，根据文字描述生成图片。",
-      "title": "Ming Image 0.2 Design",
-      "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design"
+      "summary": "文生视频模型，根据文字描述生成视频。",
+      "title": "Qwen3.5 Minimax H3",
+      "url": "https://huggingface.co/Alissonerdx/Qwen3.5-9B-Minimax-H3"
     },
     {
       "first_seen": "2026-11-27T22:42:56+00:00",
@@ -229,14 +228,15 @@
       "hot_since": "2026-11-27T22:42:56+00:00",
       "id": "hf:oliviarossi/minimax h3 sulphur3 10erosmax singularityv2 triprism",
       "kind": "model",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "likes": 33,
       "official": false,
       "published": "2026-11-24T09:43:40+00:00",
-      "rank": 86,
+      "rank": 90,
       "reason": "进入 HF 热门榜 #86",
       "reasons": [
-        "进入 HF 热门榜 #86"
+        "进入 HF 热门榜 #86",
+        "进入 HF 热门榜 #90"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -253,14 +253,15 @@
       "hot_since": "2026-11-27T22:42:56+00:00",
       "id": "hf:incoai/inkling 2 mini dflash2",
       "kind": "model",
-      "last_seen": "2026-11-27T22:42:56+00:00",
-      "likes": 32,
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "likes": 36,
       "official": false,
       "published": "2026-11-24T00:53:25+00:00",
-      "rank": 92,
+      "rank": 81,
       "reason": "进入 HF 热门榜 #92",
       "reasons": [
-        "进入 HF 热门榜 #92"
+        "进入 HF 热门榜 #92",
+        "进入 HF 热门榜 #81"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -272,31 +273,28 @@
       "url": "https://huggingface.co/incoai/Inkling-2-Mini-DFlash2"
     },
     {
-      "first_seen": "2026-11-27T04:15:43+00:00",
+      "first_seen": "2026-11-28T07:49:55+00:00",
       "hot": true,
-      "hot_since": "2026-11-27T04:15:43+00:00",
-      "id": "hf:lucebox/inkling 2 mini fast",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "hf:davidau/inkling 2 mini heretic uncensored brilliance 50x v2 agi neo",
       "kind": "model",
-      "last_seen": "2026-11-27T22:42:56+00:00",
-      "likes": 36,
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "likes": 47,
       "official": false,
-      "published": "2026-11-23T14:08:57+00:00",
-      "rank": 75,
+      "published": "2026-11-23T05:03:00+00:00",
+      "rank": 100,
       "reason": "进入 HF 热门榜 #100",
       "reasons": [
-        "进入 HF 热门榜 #100",
-        "进入 HF 热门榜 #89",
-        "进入 HF 热门榜 #88",
-        "进入 HF 热门榜 #75"
+        "进入 HF 热门榜 #100"
       ],
       "score": 50,
       "source": "HF 热门榜",
       "sources": [
         "hf:trending"
       ],
-      "summary": "文本生成模型，用于生成文字、续写或对话。",
-      "title": "Inkling 2 Mini Fast",
-      "url": "https://huggingface.co/Lucebox/Inkling-2-Mini-Fast-GGUF"
+      "summary": "图文输入、文本输出模型，可根据图片和文字生成回答。",
+      "title": "Inkling 2 Mini Heretic Uncensored Brilliance 50X V2 AGI NEO",
+      "url": "https://huggingface.co/DavidAU/Inkling-2-Mini-26B-Heretic-Uncensored-Turbo-Brilliance-50X-V2-AGI-NEO-GGUF"
     },
     {
       "first_seen": "2026-11-27T13:57:25+00:00",
@@ -304,15 +302,16 @@
       "hot_since": "2026-11-27T13:57:25+00:00",
       "id": "hf:akahsizrr/voltron 1.1 mini",
       "kind": "model",
-      "last_seen": "2026-11-27T22:42:56+00:00",
-      "likes": 57,
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "likes": 60,
       "official": false,
       "published": "2026-11-23T01:27:01+00:00",
-      "rank": 62,
+      "rank": 56,
       "reason": "进入 HF 热门榜 #91",
       "reasons": [
         "进入 HF 热门榜 #91",
-        "进入 HF 热门榜 #62"
+        "进入 HF 热门榜 #62",
+        "进入 HF 热门榜 #56"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -329,15 +328,16 @@
       "hot_since": "2026-11-27T09:42:54+00:00",
       "id": "hf:sc117/inkling 2 mini abliterated strata",
       "kind": "model",
-      "last_seen": "2026-11-27T22:42:56+00:00",
-      "likes": 50,
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "likes": 54,
       "official": false,
       "published": "2026-11-22T16:14:07+00:00",
-      "rank": 83,
+      "rank": 78,
       "reason": "进入 HF 热门榜 #98",
       "reasons": [
         "进入 HF 热门榜 #98",
-        "进入 HF 热门榜 #83"
+        "进入 HF 热门榜 #83",
+        "进入 HF 热门榜 #78"
       ],
       "score": 50,
       "source": "HF 热门榜",
@@ -347,6 +347,30 @@
       "summary": "图文输入、文本输出模型，可根据图片和文字生成回答。",
       "title": "Inkling 2 Mini abliterated Strata",
       "url": "https://huggingface.co/SC117/Inkling-2-Mini-abliterated-Strata"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot": true,
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "hf:eltokh7/inkling 2 mini decision",
+      "kind": "model",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "likes": 110,
+      "official": false,
+      "published": "2026-11-22T03:20:32+00:00",
+      "rank": 99,
+      "reason": "进入 HF 热门榜 #99",
+      "reasons": [
+        "进入 HF 热门榜 #99"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "特征提取模型，把内容转为向量，可用于相似度计算或检索。",
+      "title": "inkling 2 mini decision",
+      "url": "https://huggingface.co/eltokh7/inkling-2-mini-decision"
     },
     {
       "first_seen": "2026-11-27T22:42:56+00:00",
@@ -397,11 +421,36 @@
       "url": "https://huggingface.co/Ekam/Libra-TTS"
     },
     {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot": true,
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "hf:knowledgator/edgecoder multilingual 61m",
+      "kind": "model",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "likes": 31,
+      "official": false,
+      "published": "2026-10-26T16:24:49+00:00",
+      "rank": 95,
+      "reason": "进入 HF 热门榜 #95",
+      "reasons": [
+        "进入 HF 热门榜 #95"
+      ],
+      "score": 50,
+      "source": "HF 热门榜",
+      "sources": [
+        "hf:trending"
+      ],
+      "summary": "特征提取模型，把内容转为向量，可用于相似度计算或检索。",
+      "title": "EdgeCoder Multilingual 61M",
+      "url": "https://huggingface.co/knowledgator/EdgeCoder-Multilingual-61M"
+    },
+    {
       "first_seen": "2026-11-27T22:42:56+00:00",
+      "growth_per_day": 1490.0,
       "hot_since": "2026-11-27T22:42:56+00:00",
       "id": "gh:red2076-arch/waifu2x-image-upscaler-windows",
       "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": false,
       "published": "2026-11-27T15:17:56+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -413,18 +462,195 @@
       "sources": [
         "discover:topic:artificial-intelligence"
       ],
-      "stars": 362,
+      "stars": 928,
       "summary": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
       "title": "Red2076-arch/waifu2x-image-upscaler-windows",
       "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows"
     },
     {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "gh:ndarrr07/pro-llm-api-hub",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-26T23:24:29+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 140,
+      "summary": "Pro LLM API Hub: Structured Dataset of Large Language Model Interfaces",
+      "title": "Ndarrr07/pro-llm-api-hub",
+      "url": "https://github.com/Ndarrr07/pro-llm-api-hub"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "gh:titisseptian-ss/omniroute-explorer",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-26T22:49:29+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 143,
+      "summary": "OmniRoute Explorer: Lightweight, Open-Access Routing Tool",
+      "title": "titisseptian-SS/omniroute-explorer",
+      "url": "https://github.com/titisseptian-SS/omniroute-explorer"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "gh:birubhai1964/interview-copilot",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-26T21:57:38+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 143,
+      "summary": "Interview Copilot: EdTech Platform Connecting Learning to Your Dream Career",
+      "title": "Birubhai1964/interview-copilot",
+      "url": "https://github.com/Birubhai1964/interview-copilot"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "gh:thebodytheory01-commits/final-round-ai-desktop",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-26T21:37:37+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 143,
+      "summary": "Final Round AI Desktop: Real-Time Interview Coaching, Speech Transcription, and Response Suggestions",
+      "title": "thebodytheory01-commits/final-round-ai-desktop",
+      "url": "https://github.com/thebodytheory01-commits/final-round-ai-desktop"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "gh:matheusmongarde/central",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-25T23:32:43+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 99,
+      "summary": "Sua empresa tocada por uma equipe de agentes de IA: redes sociais, vendas, estratégia e operação. 7 chefes, 38 skills em português, Buffer, Google Maps e API para o seu agente. Aberto e grátis. Roda no seu PC, VPS ou Vercel.",
+      "title": "matheusmongarde/central",
+      "url": "https://github.com/matheusmongarde/central"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "gh:eust-w/open-robotics-plugin",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-25T17:42:27+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 116,
+      "summary": "Robotics agent skills (MuJoCo, perception, planning, sim2real, bring-up) for Claude Code, Antigravity, Codex, Gemini CLI, Cursor and more. Adapted from google-deepmind/robotics-antigravity-plugin (Apache-2.0).",
+      "title": "eust-w/open-robotics-plugin",
+      "url": "https://github.com/eust-w/open-robotics-plugin"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "gh:langchain-samples/persistent-agent",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-24T17:52:40+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 175,
+      "summary": "Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of tools, and proactive playbooks it can run in the background to take work off your p",
+      "title": "langchain-samples/Persistent-Agent",
+      "url": "https://github.com/langchain-samples/Persistent-Agent"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "gh:sthamann/awesome-agentic-commerce",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-24T09:15:27+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 131,
+      "summary": "Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news.",
+      "title": "sthamann/awesome-agentic-commerce",
+      "url": "https://github.com/sthamann/awesome-agentic-commerce"
+    },
+    {
       "first_seen": "2026-11-27T13:57:25+00:00",
-      "growth_per_day": 27.4,
+      "growth_per_day": 50.0,
       "hot_since": "2026-11-27T13:57:25+00:00",
       "id": "gh:brainintelli/biosignal-guided-llm-reinforcement-learning",
       "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": false,
       "published": "2026-11-24T02:39:01+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -436,18 +662,40 @@
       "sources": [
         "discover:topic:llm"
       ],
-      "stars": 198,
+      "stars": 217,
       "summary": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
       "title": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
       "url": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning"
     },
     {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "gh:duzhenxun/pop-agent",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-23T18:46:31+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 153,
+      "summary": "PopAgent local web UI for your coding agents: watch the reasoning stream, cut in with a correction mid-turn, manage models and tools. Works with pi, Codex, Claude Code, OpenCode and DSH. Sessions stay the engine's own files — no database, n",
+      "title": "duzhenxun/pop-agent",
+      "url": "https://github.com/duzhenxun/pop-agent"
+    },
+    {
       "first_seen": "2026-11-27T13:57:25+00:00",
-      "growth_per_day": 915.2,
+      "growth_per_day": 1071.5,
       "hot_since": "2026-11-27T13:57:25+00:00",
       "id": "gh:deadinternetstudios/100x-engineer-skill",
       "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": false,
       "published": "2026-11-23T11:06:07+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -459,18 +707,40 @@
       "sources": [
         "discover:topic:ai-agents"
       ],
-      "stars": 761,
+      "stars": 1168,
       "summary": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
       "title": "DeadInternetStudios/100x-engineer-skill",
       "url": "https://github.com/DeadInternetStudios/100x-engineer-skill"
     },
     {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "hot_since": "2026-11-28T07:49:55+00:00",
+      "id": "gh:clipy-recorder/clipy",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-22T16:08:49+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 45,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 272,
+      "summary": "The AI-native screen recorder. Record your screen and talk; the people you share it with and your AI agents both get it.",
+      "title": "clipy-recorder/clipy",
+      "url": "https://github.com/clipy-recorder/clipy"
+    },
+    {
       "first_seen": "2026-11-27T04:15:43+00:00",
-      "growth_per_day": 49.3,
+      "growth_per_day": 39.5,
       "hot_since": "2026-11-27T09:42:54+00:00",
       "id": "gh:haruhi764/omnicad-skill",
       "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": false,
       "published": "2026-11-19T13:54:57+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -483,17 +753,164 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 245,
+      "stars": 260,
       "summary": "Evidence-driven 2D CAD drafting and QA for editable DXF, AutoCAD DWG, and PDF",
       "title": "Haruhi764/OmniCAD-Skill",
       "url": "https://github.com/Haruhi764/OmniCAD-Skill"
     },
     {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:cybedefend/cybedefend",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-23T15:36:06+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 128,
+      "summary": "Agentic ASPM, the open source Snyk alternative. A full security audit in one command",
+      "title": "CybeDefend/cybedefend",
+      "url": "https://github.com/CybeDefend/cybedefend"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:enwove/flyx",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-23T08:48:17+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 118,
+      "summary": "Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
+      "title": "enwove/flyx",
+      "url": "https://github.com/enwove/flyx"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:mbzuai-oryx/loopedwsp",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-23T06:25:04+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 128,
+      "summary": "Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning",
+      "title": "mbzuai-oryx/LoopedWSP",
+      "url": "https://github.com/mbzuai-oryx/LoopedWSP"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:bitq-m/awesome-antigravity-plugins",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-23T01:47:25+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 88,
+      "summary": "🌟 Curated list of awesome Google Antigravity plugins, UI Sidecars, Desktop HUDs, CLI statuslines, MCP bundles, Skills & Marketplace extensions (English / 中文)",
+      "title": "biTQ-m/awesome-antigravity-plugins",
+      "url": "https://github.com/biTQ-m/awesome-antigravity-plugins"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:koorchik/swarmy",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-22T14:16:23+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 96,
+      "summary": "Real-time analytics dashboard for coding agents in your terminal: Claude Code, OpenAI Codex and Google Antigravity together. Every agent and subagent live, history, API-equivalent spend, weekly limits per project, worktrees, a login vault.",
+      "title": "koorchik/swarmy",
+      "url": "https://github.com/koorchik/swarmy"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:ankurmans/vertov-screen-recorder",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-21T13:22:12+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 89,
+      "summary": "Open-source screen recorder and video messaging for Show-First Work.",
+      "title": "ankurmans/vertov-screen-recorder",
+      "url": "https://github.com/ankurmans/vertov-screen-recorder"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:samuelz12/research-sources",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-20T19:03:35+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 213,
+      "summary": "Lets AI agents read what web search misses on X, Reddit and more",
+      "title": "SamuelZ12/research-sources",
+      "url": "https://github.com/SamuelZ12/research-sources"
+    },
+    {
       "first_seen": "2026-11-27T13:57:25+00:00",
-      "growth_per_day": 2.7,
+      "growth_per_day": 5.3,
       "id": "gh:w1ccc/sap-data-mcp",
       "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": false,
       "published": "2026-11-20T15:15:23+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -506,16 +923,38 @@
         "discover:topic:ai-agents",
         "discover:topic:llm"
       ],
-      "stars": 185,
+      "stars": 187,
       "summary": "Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay local.",
       "title": "w1ccc/sap-data-mcp",
       "url": "https://github.com/w1ccc/sap-data-mcp"
     },
     {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:ai4xe/ai4ai",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-20T11:48:16+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 136,
+      "summary": "Let AI manage itself — a cross-harness kit for runtime status, context renewal, self-duplication and more",
+      "title": "AI4XE/ai4ai",
+      "url": "https://github.com/AI4XE/ai4ai"
+    },
+    {
       "first_seen": "2026-11-27T22:42:56+00:00",
+      "growth_per_day": 42.1,
       "id": "gh:liufelix2004/dsh-workbuddy",
       "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": false,
       "published": "2026-11-20T11:22:44+00:00",
       "reason": "新 AI 项目达到观察门槛",
@@ -527,41 +966,18 @@
       "sources": [
         "discover:topic:llm"
       ],
-      "stars": 214,
+      "stars": 230,
       "summary": "Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workaround for the gateway 11128 channel check.",
       "title": "LIUFelix2004/dsh-workbuddy",
       "url": "https://github.com/LIUFelix2004/dsh-workbuddy"
     },
     {
-      "first_seen": "2026-11-27T04:15:43+00:00",
-      "growth_per_day": -28.3,
-      "id": "gh:kenzz-devv/open-webui-talora-ai-workspace",
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:nestjs/agent-skills",
       "kind": "tool",
-      "last_seen": "2026-11-27T13:57:25+00:00",
+      "last_seen": "2026-11-28T07:49:55+00:00",
       "official": false,
-      "published": "2026-11-18T14:18:51+00:00",
-      "reason": "新 AI 项目达到观察门槛",
-      "reasons": [
-        "新 AI 项目达到观察门槛"
-      ],
-      "score": 35,
-      "source": "GitHub 新项目",
-      "sources": [
-        "discover:topic:llm"
-      ],
-      "stars": 194,
-      "summary": "Streamlined workspace for organizing and running AI workflows in one place.",
-      "title": "kenzz-devv/open-webui-talora-ai-workspace",
-      "url": "https://github.com/kenzz-devv/open-webui-talora-ai-workspace"
-    },
-    {
-      "first_seen": "2026-11-27T04:15:43+00:00",
-      "growth_per_day": 5.5,
-      "id": "gh:davimatosms/arara-voice",
-      "kind": "tool",
-      "last_seen": "2026-11-27T22:42:56+00:00",
-      "official": false,
-      "published": "2026-11-13T23:35:46+00:00",
+      "published": "2026-11-20T07:44:21+00:00",
       "reason": "新 AI 项目达到观察门槛",
       "reasons": [
         "新 AI 项目达到观察门槛"
@@ -571,298 +987,639 @@
       "sources": [
         "discover:topic:ai-agents"
       ],
-      "stars": 183,
-      "summary": "Ditado por voz grátis, open source e 100% local para português do Brasil (Windows e macOS). Whisper no seu computador: aperte o atalho, fale e o texto é colado no cursor. Free offline voice typing / speech-to-text.",
-      "title": "davimatosms/Arara-voice",
-      "url": "https://github.com/davimatosms/Arara-voice"
+      "stars": 169,
+      "summary": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
+      "title": "nestjs/agent-skills",
+      "url": "https://github.com/nestjs/agent-skills"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:pavelveter/agents.md",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-20T04:43:22+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 95,
+      "summary": "Rules for agents (opencode edition)",
+      "title": "pavelveter/AGENTS.md",
+      "url": "https://github.com/pavelveter/AGENTS.md"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:gf007/game-rebuild-kit",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-20T04:14:12+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 139,
+      "summary": "AI-assisted game analysis and reconstruction, working toward one-click workflows for any game.",
+      "title": "GF007/game-rebuild-kit",
+      "url": "https://github.com/GF007/game-rebuild-kit"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:byttrade/bytx-skills",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-18T14:14:01+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 89,
+      "summary": "Crypto trading skills for AI assistants on bytx: MCP server + CLI + Claude skills. Paper by default, never without your yes.",
+      "title": "byttrade/bytx-skills",
+      "url": "https://github.com/byttrade/bytx-skills"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:ccarter01011/traxagent-claude-plugin",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-17T16:45:33+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 172,
+      "summary": "Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
+      "title": "ccarter01011/traxagent-claude-plugin",
+      "url": "https://github.com/ccarter01011/traxagent-claude-plugin"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:hiruhiru2005/sync-strata",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-16T13:05:32+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 120,
+      "summary": "A one-click local LLM app for Windows and Linux: Qwen3.8-Flash-Next with the Sync quantizations (XS, S, M), based on Strata.",
+      "title": "hiruhiru2005/sync-strata",
+      "url": "https://github.com/hiruhiru2005/sync-strata"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:yijiejiang/kaogong-school",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-16T10:01:26+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 177,
+      "summary": "本地优先的考公（公务员考试 / 国考 / 省考）多智能体 AI 学习系统：资料解析、知识挖掘、技能地图、RAG 问答、AI 出卷改卷与学情闭环。Self-hosted AI tutor for Chinese civil service exam prep.",
+      "title": "yijiejiang/kaogong-school",
+      "url": "https://github.com/yijiejiang/kaogong-school"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:dylan-nihilo/iris",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-16T04:04:27+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 94,
+      "summary": "Screen recordings that zoom on what matters, for people and for AI agents. A macOS CLI with automatic zoom, smooth pointer, captions; works with Playwright, CDP and computer use.",
+      "title": "Dylan-Nihilo/iris",
+      "url": "https://github.com/Dylan-Nihilo/iris"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:ombralabs/ombra",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-15T22:46:28+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 193,
+      "summary": "Official Ombra SDKs — stealth browser automation for Python, Node.js, .NET, Java, Go, PHP, Ruby and Rust.",
+      "title": "ombralabs/ombra",
+      "url": "https://github.com/ombralabs/ombra"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:manuelgscom/inside-llm",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-15T18:46:30+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 123,
+      "summary": "See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan).",
+      "title": "manuelgscom/inside-llm",
+      "url": "https://github.com/manuelgscom/inside-llm"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:dissolve-ui/dissolve",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-15T17:46:55+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 99,
+      "summary": "Animated components for React Native and React. Copy them into your project or let your agent build with them. npx dissolve-ui add",
+      "title": "dissolve-ui/dissolve",
+      "url": "https://github.com/dissolve-ui/dissolve"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:linggan121/lingling-desktop-pet",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-15T12:43:36+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:llm"
+      ],
+      "stars": 96,
+      "summary": "A Windows desktop pet that does real file work. Drop files on her, pick a number, and she converts images, splits PDFs, extracts text, and packs archives — all with a built-in engine, offline.",
+      "title": "linggan121/lingling-desktop-pet",
+      "url": "https://github.com/linggan121/lingling-desktop-pet"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:ai4xe/parallax",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-15T10:31:00+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 136,
+      "summary": "A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more.",
+      "title": "AI4XE/Parallax",
+      "url": "https://github.com/AI4XE/Parallax"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:shoreaeromancer/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-14T16:45:23+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 86,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "ShoreAeromancer/ai--manus2.0",
+      "url": "https://github.com/ShoreAeromancer/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:secretclesky/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-14T16:45:17+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 86,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "Secretclesky/ai--manus2.0",
+      "url": "https://github.com/Secretclesky/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:routedatapipe/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-14T16:45:15+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents",
+        "discover:topic:llm"
+      ],
+      "stars": 86,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "RouteDataPipe/ai--manus2.0",
+      "url": "https://github.com/RouteDataPipe/ai--manus2.0"
+    },
+    {
+      "first_seen": "2026-11-28T07:49:55+00:00",
+      "id": "gh:millerrectifier/ai--manus2.0",
+      "kind": "tool",
+      "last_seen": "2026-11-28T07:49:55+00:00",
+      "official": false,
+      "published": "2026-11-14T16:45:14+00:00",
+      "reason": "新 AI 项目达到观察门槛",
+      "reasons": [
+        "新 AI 项目达到观察门槛"
+      ],
+      "score": 35,
+      "source": "GitHub 新项目",
+      "sources": [
+        "discover:topic:ai-agents"
+      ],
+      "stars": 86,
+      "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "title": "MillerRectifier/ai--manus2.0",
+      "url": "https://github.com/MillerRectifier/ai--manus2.0"
     }
   ],
-  "generated_at": "2026-11-27T22:42:56+00:00",
-  "last_success": "2026-11-27T22:42:56+00:00",
+  "generated_at": "2026-11-28T07:49:55+00:00",
+  "last_success": "2026-11-28T07:49:55+00:00",
   "paid_api_calls": 0,
-  "shown": 25,
+  "shown": 60,
   "sources": {
     "discover:topic:ai-agents": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-27T22:42:56+00:00",
-      "new": 0,
+      "last_success": "2026-11-28T07:49:55+00:00",
+      "new": 72,
       "status": "ok"
     },
     "discover:topic:artificial-intelligence": {
       "bootstrap": false,
       "checked": 1,
-      "last_success": "2026-11-27T22:42:56+00:00",
-      "new": 1,
+      "last_success": "2026-11-28T07:49:55+00:00",
+      "new": 0,
       "status": "ok"
     },
     "discover:topic:llm": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-27T22:42:56+00:00",
-      "new": 1,
+      "last_success": "2026-11-28T07:49:55+00:00",
+      "new": 15,
       "status": "ok"
     },
     "feed:Google AI": {
       "bootstrap": false,
       "checked": 20,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "feed:Hugging Face": {
       "bootstrap": false,
       "checked": 80,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "feed:OpenAI": {
       "bootstrap": false,
       "checked": 80,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "feed:Simon Willison": {
       "bootstrap": false,
-      "checked": 19,
-      "last_success": "2026-11-27T22:42:56+00:00",
-      "new": 0,
+      "checked": 20,
+      "last_success": "2026-11-28T07:49:55+00:00",
+      "new": 2,
       "status": "ok"
     },
     "hf:Lightricks": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:MiniMaxAI": {
       "bootstrap": false,
       "checked": 24,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:Qwen": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:Wan-AI": {
       "bootstrap": false,
       "checked": 27,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:black-forest-labs": {
       "bootstrap": false,
       "checked": 43,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:deepseek-ai": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:google": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:meta-llama": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:mistralai": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:moonshotai": {
       "bootstrap": false,
       "checked": 20,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:nvidia": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "hf:trending": {
       "bootstrap": false,
       "checked": 100,
-      "last_success": "2026-11-27T22:42:56+00:00",
-      "new": 3,
+      "last_success": "2026-11-28T07:49:55+00:00",
+      "new": 6,
       "status": "ok"
     },
     "hf:zai-org": {
       "bootstrap": false,
       "checked": 50,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:MiniMax-AI": {
       "bootstrap": false,
       "checked": 40,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:QwenLM": {
       "bootstrap": false,
       "checked": 59,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:THUDM": {
       "bootstrap": false,
       "checked": 97,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:anthropics": {
       "bootstrap": false,
       "checked": 72,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:deepseek-ai": {
       "bootstrap": false,
       "checked": 47,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:google-deepmind": {
       "bootstrap": false,
       "checked": 87,
-      "last_success": "2026-11-27T22:42:56+00:00",
-      "new": 1,
+      "last_success": "2026-11-28T07:49:55+00:00",
+      "new": 0,
       "status": "ok"
     },
     "org:huggingface": {
       "bootstrap": false,
       "checked": 87,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:langchain-ai": {
       "bootstrap": false,
       "checked": 78,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:mistralai": {
       "bootstrap": false,
       "checked": 15,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:moonshotai": {
       "bootstrap": false,
       "checked": 43,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "org:openai": {
       "bootstrap": false,
       "checked": 97,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:Comfy-Org/ComfyUI": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:anthropics/claude-code": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:browser-use/browser-use": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:ggml-org/llama.cpp": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-27T22:42:56+00:00",
-      "new": 3,
+      "last_success": "2026-11-28T07:49:55+00:00",
+      "new": 5,
       "status": "ok"
     },
     "release:huggingface/transformers": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:langchain-ai/langgraph": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-27T22:42:56+00:00",
+      "last_success": "2026-11-28T07:49:55+00:00",
       "new": 0,
       "status": "ok"
     },
     "release:ollama/ollama": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-27T22:42:56+00:00",
-      "new": 1,
+      "last_success": "2026-11-28T07:49:55+00:00",
+      "new": 0,
       "status": "ok"
     },
     "release:openai/codex": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-27T22:42:56+00:00",
-      "new": 1,
+      "last_success": "2026-11-28T07:49:55+00:00",
+      "new": 0,
       "status": "ok"
     },
     "release:pydantic/pydantic-ai": {
       "bootstrap": false,
       "checked": 10,
-      "last_success": "2026-11-27T22:42:56+00:00",
-      "new": 0,
+      "last_success": "2026-11-28T07:49:55+00:00",
+      "new": 1,
       "status": "ok"
     }
   },
   "timezone": "Asia/Shanghai",
-  "total": 25
+  "total": 114
 }
